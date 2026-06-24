@@ -1,0 +1,13 @@
+name = "Roll Delight (A Farmer's Delight Add-on)"
+filename = "[1.21.1] roll_delight-1.2.4-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd8f345a86f8d3b265a2b9997bbc4b7ac37ad60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7952403
+project-id = 1496416

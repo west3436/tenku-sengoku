@@ -1,0 +1,13 @@
+name = "Swinging Lanterns"
+filename = "swinginglanterns-1.21.1-1.5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IOcW74j/versions/VNKYw5y2/swinginglanterns-1.21.1-1.5.0.1.jar"
+hash-format = "sha512"
+hash = "b206580a996ccc6f8f79459712bc826cfd9494b1c59f9e249d261863255c4c68337a2e45a34ddb62238de1c819c19b78c686b7ad58955983fa3963a14ef8a9f4"
+
+[update]
+[update.modrinth]
+mod-id = "3IOcW74j"
+version = "VNKYw5y2"

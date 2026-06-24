@@ -1,0 +1,9 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# This is a packwiz *metadata* repo — never commit actual downloads.
+# (Defensive: keeps the All-Rights-Reserved Voxy jar and any others out.)
+*.jar
+*.mrpack

@@ -1,0 +1,8 @@
+name = "FTB Quests Bridge"
+filename = "ftbquests-bridge-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/west3436/ftbquests-mcp/releases/download/v1.0.0/ftbquests-bridge-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "c05d4d0e46c4dd6779ab777666eb3dbdad003dedb53f1f8398708168ca5c598b210b74eddbbf5e13471dfb2616bffc315d214258ec55ae24ba0153fa864be0f1"

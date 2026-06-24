@@ -1,0 +1,13 @@
+name = "Sengoku Jidai Mod"
+filename = "sengokuFabric-2.1.2+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I1r0dZiV/versions/dTwPEHlo/sengokuFabric-2.1.2%2B1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "6b86a9087fe09fef7c8994664ba73c315f0a8e0159279d89cadfd520646a9cdc2be26d4fa456ca3bb44649b9160cf310a0c00cc37bdb3bd978f63f799a168bac"
+
+[update]
+[update.modrinth]
+mod-id = "I1r0dZiV"
+version = "dTwPEHlo"

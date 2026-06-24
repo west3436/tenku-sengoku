@@ -1,0 +1,13 @@
+name = "Simply Tents"
+filename = "simplytents-4.6-1.21.1.neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yWY7WWmg/versions/4yp4PXpj/simplytents-4.6-1.21.1.neo.jar"
+hash-format = "sha512"
+hash = "4cd6d775e7f06105118f84be74722da39b9efab31fd452a42ec51c35754f6ad4dc5b0e5ac6b13d200dc2db235ef8a7fe285173f9c7547c127d680ca803ebd010"
+
+[update]
+[update.modrinth]
+mod-id = "yWY7WWmg"
+version = "4yp4PXpj"

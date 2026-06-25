@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/client_scripts/balance_hide_items.js"
+hash = "fb2302deff88dbec56c7fa7670c70556aa6db99aa1bcd2ad65d4e6df520add87"
+
+[[files]]
+file = "kubejs/server_scripts/balance_boats.js"
+hash = "ed4d13c2cac03d4ffff1f8a838d6c0d166a2870a1fe4d81fd9ee463f49279385"
+
+[[files]]
+file = "kubejs/server_scripts/balance_flight.js"
+hash = "31071c424443908b773118acc968c7d49bd5bbfc07e3b0d6ea7e71993856a517"
+
+[[files]]
+file = "kubejs/server_scripts/balance_flight_charter.js"
+hash = "45905b303c93e13d9900f2c6e26bca7f9b88741f9255f8af0bfc52237b176ad2"
+
+[[files]]
+file = "kubejs/server_scripts/balance_land_remove.js"
+hash = "03e0edf3a64ba1d50f57cf4cfe75266cf088fb4defd84b9b6d2ecce1d8489d31"
+
+[[files]]
+file = "kubejs/startup_scripts/balance_flight_charter.js"
+hash = "a50925718757f2029f8e99620ac2b60b1db4d4659569b92486b9314ee4c7ae47"
+
+[[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
 hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
 metafile = true

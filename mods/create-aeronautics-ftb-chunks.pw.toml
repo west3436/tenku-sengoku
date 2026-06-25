@@ -1,0 +1,13 @@
+name = "Create Aeronautics: FTB Chunks"
+filename = "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d03a6ce99110d2a7f38912cf4f80d1534f8d036"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8294602
+project-id = 1530014

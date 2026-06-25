@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aeronautics-propeller-blur.pw.toml"
+hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
+metafile = true
+
+[[files]]
 file = "mods/agricraft-reloaded.pw.toml"
 hash = "3ddce8e25c882fc7f311d643677ad497d1a342e904e8ea902a7305c901739e47"
 metafile = true
@@ -71,11 +76,6 @@ hash = "be7918d29b7fc9f820b6574f3906c1d1decc0fd485d55db5f408429e02bf70b1"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -88,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/chunkyborder.pw.toml"
 hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
-metafile = true
-
-[[files]]
-file = "mods/claudecraft.pw.toml"
-hash = "3380305fd541af7a64b2f609bd7891c6f929cd1b45a930d5ce92216031eb0438"
 metafile = true
 
 [[files]]
@@ -116,8 +111,18 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-ftb-chunks.pw.toml"
+hash = "593b6fb5e3ec59f503e1c1d97a4e6e7eb243175a031c16b13d2c2f79544fbc29"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
+hash = "d7ea619e60b3c7eea10edcd20ffc57bb2a8ec1193b6bfa94a558bc5dd8cdeca3"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+hash = "c460ea61c0da90cba5859f0d192b7abcff42f1ec07a5de1aa375ea522df7d80f"
 metafile = true
 
 [[files]]
@@ -131,8 +136,23 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-high-seas.pw.toml"
+hash = "c648e7fa748232e26c25fc5530af966099ecd67f89876815ebd56f04c8e7f4f2"
+metafile = true
+
+[[files]]
+file = "mods/create-low-heated.pw.toml"
+hash = "ac4a24467552ec165d86afb04da7f6b92633b5cd9dbd336d886a46bbdc2eb291"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-waterwheels.pw.toml"
+hash = "ae23fada92cbfd86ed42b5ddce601a61d0e9ef7ccb949578f3d0c13640b5328d"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
 metafile = true
 
 [[files]]
@@ -142,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
 metafile = true
 
 [[files]]
@@ -417,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+hash = "6a779976b6752d63fbbb74504c4f0ed74c1df1aa3dfc86c45867eab5cf201a03"
 metafile = true
 
 [[files]]
@@ -476,6 +496,11 @@ hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "8eaab8f312c3a1a72e7d9e9123bbfef2a7dcac7dd7d8f9eab72fb7c0d25b021e"
 metafile = true
@@ -493,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/voxy-auto-lod.pw.toml"
 hash = "c8f9e16a7410a90e0fcd5c5607a30fe90ff5539718e3767b54b57f7799b0c8ec"
+metafile = true
+
+[[files]]
+file = "mods/weightworks.pw.toml"
+hash = "3476695d37542f21c88bce3e54f675e8b0366496b6733a3ddacb949e84e89a95"
 metafile = true
 
 [[files]]

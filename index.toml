@@ -135,11 +135,6 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-ftb-chunks.pw.toml"
-hash = "593b6fb5e3ec59f503e1c1d97a4e6e7eb243175a031c16b13d2c2f79544fbc29"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
 hash = "d7ea619e60b3c7eea10edcd20ffc57bb2a8ec1193b6bfa94a558bc5dd8cdeca3"
 metafile = true

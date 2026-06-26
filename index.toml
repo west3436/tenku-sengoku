@@ -25,6 +25,11 @@ file = "kubejs/startup_scripts/balance_flight_charter.js"
 hash = "a50925718757f2029f8e99620ac2b60b1db4d4659569b92486b9314ee4c7ae47"
 
 [[files]]
+file = "mods/additional-placements.pw.toml"
+hash = "395d4093dc758f43f50adc813d92dfcd1936dc83f31c048af255d97ba588746f"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
 hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "c460ea61c0da90cba5859f0d192b7abcff42f1ec07a5de1aa375ea522df7d80f"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-equally-opposite.pw.toml"
+hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
 metafile = true
 
 [[files]]
@@ -305,6 +315,11 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-horse-riding.pw.toml"
+hash = "36f9d4c99f548375ab611de96d59b4cc281bf4725c27a47084f0d5972dac8ad0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -372,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
+metafile = true
+
+[[files]]
+file = "mods/magic-from-the-east.pw.toml"
+hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
 metafile = true
 
 [[files]]
@@ -457,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "6a779976b6752d63fbbb74504c4f0ed74c1df1aa3dfc86c45867eab5cf201a03"
+metafile = true
+
+[[files]]
+file = "mods/sengoku-emijei.pw.toml"
+hash = "21eb1f9655c3c011965d51b70d18558e4a1598486cba03ecd9ca37bb39806e92"
 metafile = true
 
 [[files]]

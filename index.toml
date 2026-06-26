@@ -460,11 +460,6 @@ hash = "6a779976b6752d63fbbb74504c4f0ed74c1df1aa3dfc86c45867eab5cf201a03"
 metafile = true
 
 [[files]]
-file = "mods/samurai-dynasty.pw.toml"
-hash = "983f91e59f76ce3e6dab947ad2633f9e9d0d52b90fd2d9009af2ea9976df0887"
-metafile = true
-
-[[files]]
 file = "mods/sengokujidaimod.pw.toml"
 hash = "897cc257cb0e1378f41c1148447e56293ddda3284d25c110f6c35a1a103ad01f"
 metafile = true

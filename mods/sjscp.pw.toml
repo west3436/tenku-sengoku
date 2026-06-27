@@ -1,6 +1,6 @@
 name = "Sengoku Jidai + Sinytra Connector Patch"
 filename = "sengoku_patch-2.1.2-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/eIMgcGde/versions/E1IdPQ9E/sengoku_patch-2.1.2-1.21.1.jar"

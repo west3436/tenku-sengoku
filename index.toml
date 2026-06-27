@@ -5,22 +5,6 @@ file = "kubejs/client_scripts/balance_hide_items.js"
 hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 
 [[files]]
-file = "kubejs/server_scripts/balance_boats.js"
-hash = "8cdfa04f66ff949af2e8760eab96bc90100e7f6b0b27ffc4d2f71aef850055cb"
-
-[[files]]
-file = "kubejs/server_scripts/balance_flight.js"
-hash = "036f43bf2141fabdafbeddafb7af11a86b59d18862058d2829cccc084d92497e"
-
-[[files]]
-file = "kubejs/server_scripts/balance_flight_charter.js"
-hash = "7c8c9d284f318e1922ab2e9c0e3b55052129b1eb51bc0cdac20e653234913b0c"
-
-[[files]]
-file = "kubejs/server_scripts/balance_land_remove.js"
-hash = "cbacfdb6de8f8e72591782d9899480b737a8d4aaf95ed7d07a97ad8138ebf8bb"
-
-[[files]]
 file = "kubejs/startup_scripts/balance_flight_charter.js"
 hash = "abbcdccc344ce034561d45e3651aba05a17bcbebd81b2a5afe68fd63f12f3cf6"
 
@@ -389,11 +373,6 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
-metafile = true
-
-[[files]]
 file = "mods/magic-from-the-east.pw.toml"
 hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
 metafile = true
@@ -434,11 +413,6 @@ hash = "e1c71d5a03785519526cbb2c7eed11204cc5ecc1e0192aca58301906abe41961"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
-metafile = true
-
-[[files]]
 file = "mods/orthocamera.pw.toml"
 hash = "40996012c15ea906547200f539f09f3d85ee7e5691d8a93bb4349d4dc58c2f35"
 metafile = true
@@ -470,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/roll-delight.pw.toml"
-hash = "fb6cc5674ebb555b05de5d80ce644bc5ab0c3ff195cf2886a5a3a0971e9bacbe"
+hash = "02aa1bf1bb1719c605285f925ee6e64a4820716f462dd38b8387be8af922ebb6"
 metafile = true
 
 [[files]]
@@ -500,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/sjscp.pw.toml"
-hash = "03a0f260c3183b022ca8e54b6788cd8d7766048159085c88a2da68be0061994c"
+hash = "338e656539667af9b8004f10d4234ad42993a337214890147c18457bd0f92947"
 metafile = true
 
 [[files]]
@@ -516,11 +490,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
-metafile = true
-
-[[files]]
-file = "mods/smartbrainlib.pw.toml"
-hash = "27c6365bdc19eff05f3231bff86a4f09b2d584fed40de92d67c00b4cbd52862a"
 metafile = true
 
 [[files]]

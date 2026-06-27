@@ -1,13 +1,13 @@
-name = "Roll Delight (A Farmer's Delight Add-on)"
+name = "Roll Delight"
 filename = "[1.21.1] roll_delight-1.2.4-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fdd8f345a86f8d3b265a2b9997bbc4b7ac37ad60"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LBa22RMa/versions/JL6kDyww/%5B1.21.1%5D%20roll_delight-1.2.4-neoforge.jar"
+hash-format = "sha512"
+hash = "c0f51037e86faa6aaa86e431938292590d200630e72f28d363c470d0740e9a2a3fbb340f53b4c6a8d3399e769c8c03083133f4a5998def5e7c10147d2af8e23e"
 
 [update]
-[update.curseforge]
-file-id = 7952403
-project-id = 1496416
+[update.modrinth]
+mod-id = "LBa22RMa"
+version = "JL6kDyww"

@@ -2,27 +2,36 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/client_scripts/balance_hide_items.js"
-hash = "fb2302deff88dbec56c7fa7670c70556aa6db99aa1bcd2ad65d4e6df520add87"
+hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 
 [[files]]
 file = "kubejs/server_scripts/balance_boats.js"
-hash = "ed4d13c2cac03d4ffff1f8a838d6c0d166a2870a1fe4d81fd9ee463f49279385"
+hash = "8cdfa04f66ff949af2e8760eab96bc90100e7f6b0b27ffc4d2f71aef850055cb"
 
 [[files]]
 file = "kubejs/server_scripts/balance_flight.js"
-hash = "31071c424443908b773118acc968c7d49bd5bbfc07e3b0d6ea7e71993856a517"
+hash = "036f43bf2141fabdafbeddafb7af11a86b59d18862058d2829cccc084d92497e"
 
 [[files]]
 file = "kubejs/server_scripts/balance_flight_charter.js"
-hash = "45905b303c93e13d9900f2c6e26bca7f9b88741f9255f8af0bfc52237b176ad2"
+hash = "7c8c9d284f318e1922ab2e9c0e3b55052129b1eb51bc0cdac20e653234913b0c"
 
 [[files]]
 file = "kubejs/server_scripts/balance_land_remove.js"
-hash = "03e0edf3a64ba1d50f57cf4cfe75266cf088fb4defd84b9b6d2ecce1d8489d31"
+hash = "cbacfdb6de8f8e72591782d9899480b737a8d4aaf95ed7d07a97ad8138ebf8bb"
 
 [[files]]
 file = "kubejs/startup_scripts/balance_flight_charter.js"
-hash = "a50925718757f2029f8e99620ac2b60b1db4d4659569b92486b9314ee4c7ae47"
+hash = "abbcdccc344ce034561d45e3651aba05a17bcbebd81b2a5afe68fd63f12f3cf6"
+
+[[files]]
+file = "kubejs/startup_scripts/lawless_regions.js"
+hash = "049a45c1282094caddb875c5d1756bc608044542691710b3f9fe677383334d0d"
+
+[[files]]
+file = "mods/additional-placements.pw.toml"
+hash = "395d4093dc758f43f50adc813d92dfcd1936dc83f31c048af255d97ba588746f"
+metafile = true
 
 [[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
@@ -141,7 +150,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "c460ea61c0da90cba5859f0d192b7abcff42f1ec07a5de1aa375ea522df7d80f"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons-equally-opposite.pw.toml"
+hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
 metafile = true
 
 [[files]]
@@ -171,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -181,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -305,6 +319,11 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-horse-riding.pw.toml"
+hash = "36f9d4c99f548375ab611de96d59b4cc281bf4725c27a47084f0d5972dac8ad0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -372,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
+metafile = true
+
+[[files]]
+file = "mods/magic-from-the-east.pw.toml"
+hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
 metafile = true
 
 [[files]]
@@ -456,7 +480,12 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "6a779976b6752d63fbbb74504c4f0ed74c1df1aa3dfc86c45867eab5cf201a03"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/sengoku-emijei.pw.toml"
+hash = "21eb1f9655c3c011965d51b70d18558e4a1598486cba03ecd9ca37bb39806e92"
 metafile = true
 
 [[files]]

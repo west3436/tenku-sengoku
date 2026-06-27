@@ -1,0 +1,13 @@
+name = "Sengoku EMI/JEI integration"
+filename = "sengoku-emi-jei-neoforge-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DDbOmvyW/versions/li4ZRocV/sengoku-emi-jei-neoforge-2.0.0.jar"
+hash-format = "sha512"
+hash = "ca2532ef5fed447569976121cdaa6d718d49753bca82c93668498fcc33f04b665695149a8f44aa6e57160e774994f499dd30b77494f781df6d1391acefe6f197"
+
+[update]
+[update.modrinth]
+mod-id = "DDbOmvyW"
+version = "li4ZRocV"

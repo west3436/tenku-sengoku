@@ -1,0 +1,13 @@
+name = "Magic From The East"
+filename = "iss_magicfromtheeast-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NfYqagMx/versions/kMTvd9NT/iss_magicfromtheeast-1.1.5.jar"
+hash-format = "sha512"
+hash = "2ebd749e189cc4b531a918915df724e2659f72ecccfe1ebb0e93fda02fd1e90e681e67c5a721627b85bfb371cdbd0dbb634a80ee6f189d3c3b374335e74308d5"
+
+[update]
+[update.modrinth]
+mod-id = "NfYqagMx"
+version = "kMTvd9NT"

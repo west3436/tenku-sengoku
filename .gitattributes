@@ -1,0 +1,12 @@
+# Packwiz distributes these text files via raw.githubusercontent.com, which serves
+# the git blob (LF). Keep the working tree LF so `packwiz refresh` hashes match what
+# players download — otherwise autocrlf (CRLF working tree) yields hashes that fail
+# the installer's integrity check.
+*.toml   text eol=lf
+*.pw.toml text eol=lf
+*.js     text eol=lf
+*.json   text eol=lf
+*.md     text eol=lf
+# Mod/resourcepack/shader jars are never committed, but be explicit.
+*.jar    binary
+*.zip    binary

@@ -2,6 +2,7 @@
 # out of the generated index so players never download them into their game.
 README.md
 .gitignore
+.gitattributes
 .packwizignore
 *.mrpack
 # Voxy renderer is All-Rights-Reserved — may be staged here locally for the

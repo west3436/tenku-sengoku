@@ -123,6 +123,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "eb7cb6b9a512e124c37154d492ba879d37588c8068a42842afbd4fb2176de8f0"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
 hash = "d7ea619e60b3c7eea10edcd20ffc57bb2a8ec1193b6bfa94a558bc5dd8cdeca3"
 metafile = true
@@ -418,6 +423,11 @@ hash = "40996012c15ea906547200f539f09f3d85ee7e5691d8a93bb4349d4dc58c2f35"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -553,6 +563,11 @@ hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
 
 [[files]]
+file = "resourcepacks/angels-weather.pw.toml"
+hash = "f9abc7709bdb15db06a4da0e713ca78bec460e6633c0e6ccde12cd31326da39f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "17ea105b98d79a0be6ce20da3304f9ed1398c5d9d3ad24cea2c914a109ede78e"
 metafile = true
@@ -563,11 +578,6 @@ hash = "1e0dc0bfe3afc52fb49f106493f953cac111d209f19cbf4de870819d3f996f00"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
@@ -575,11 +585,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/nature-x.pw.toml"
 hash = "cd541dc10016385e78845bc1b09e9f27e11af932353952cb4e340fdc1d24ad85"
-metafile = true
-
-[[files]]
-file = "resourcepacks/patrix-32x.pw.toml"
-hash = "9b533e4b0f44edd1ee5ffb2540c4d2c8ce618f7433576e250bb6dd64acd23267"
 metafile = true
 
 [[files]]
@@ -595,9 +600,4 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml"
-hash = "79733fc3a9a56bf32a40b4d79e4095747e0d010688887c76cc7a1e7db206d30a"
 metafile = true

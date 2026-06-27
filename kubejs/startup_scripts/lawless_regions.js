@@ -35,26 +35,33 @@ function claimDecision(ctx) {
   return 'pass'
 }
 
+// Wrapped in an IIFE so the Java-class bindings are FUNCTION-scoped. KubeJS's Rhino
+// hoists a block-scoped `const` (one declared directly inside this `if`) into the
+// shared script scope as a phantom `var`, then the const init collides at runtime
+// -> "TypeError: redeclaration of var ClaimedChunkEvent". A function scope avoids
+// the hoist entirely (and isolates these from any script reload).
 if (typeof StartupEvents !== 'undefined') {
-  const ClaimedChunkEvent = Java.loadClass('dev.ftb.mods.ftbchunks.api.event.ClaimedChunkEvent')
-  const CompoundEventResult = Java.loadClass('dev.architectury.event.CompoundEventResult')
-  const ClaimResult = Java.loadClass('dev.ftb.mods.ftbchunks.api.ClaimResult')
+  (function () {
+    const ClaimedChunkEvent = Java.loadClass('dev.ftb.mods.ftbchunks.api.event.ClaimedChunkEvent')
+    const CompoundEventResult = Java.loadClass('dev.architectury.event.CompoundEventResult')
+    const ClaimResult = Java.loadClass('dev.ftb.mods.ftbchunks.api.ClaimResult')
 
-  ClaimedChunkEvent.BEFORE_CLAIM.register((source, chunk) => {
-    const pos = chunk.getPos()
-    const decision = claimDecision({
-      dimension: pos.dimension().location().toString(),
-      isOp: source.hasPermission(2),
-      cx: pos.x(),
-      cz: pos.z(),
+    ClaimedChunkEvent.BEFORE_CLAIM.register((source, chunk) => {
+      const pos = chunk.getPos()
+      const decision = claimDecision({
+        dimension: pos.dimension().location().toString(),
+        isOp: source.hasPermission(2),
+        cx: pos.x(),
+        cz: pos.z(),
+      })
+      if (decision === 'reject') {
+        return CompoundEventResult.interruptFalse(
+          ClaimResult.customProblem('The Korea–China frontier is lawless — land cannot be claimed here.')
+        )
+      }
+      return CompoundEventResult.pass()
     })
-    if (decision === 'reject') {
-      return CompoundEventResult.interruptFalse(
-        ClaimResult.customProblem('The Korea–China frontier is lawless — land cannot be claimed here.')
-      )
-    }
-    return CompoundEventResult.pass()
-  })
+  })()
 }
 
 // Node-only export (Rhino has no `module`, so this is skipped in KubeJS).

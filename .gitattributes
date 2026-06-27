@@ -7,6 +7,12 @@
 *.js     text eol=lf
 *.json   text eol=lf
 *.md     text eol=lf
+# Shipped config text (e.g. config/defaultoptions/options.txt) is indexed by
+# packwiz too, so keep it LF for the same hash-integrity reason as above.
+*.txt        text eol=lf
+*.cfg        text eol=lf
+*.properties text eol=lf
+*.snbt       text eol=lf
 # Mod/resourcepack/shader jars are never committed, but be explicit.
 *.jar    binary
 *.zip    binary

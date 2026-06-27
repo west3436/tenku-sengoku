@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "5cfaaf7f70baa83c7dd4324a8361327db3e14a170ff3d1e55847d3d7f57a7c12"
+
+[[files]]
 file = "kubejs/client_scripts/balance_hide_items.js"
 hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 
@@ -60,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/backpacked.pw.toml"
 hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a07ec3e624091265dd8eaca91ea2d708b8e685389f01a8b97ba0a13f4e4e3be5"
 metafile = true
 
 [[files]]
@@ -180,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
 metafile = true
 
 [[files]]

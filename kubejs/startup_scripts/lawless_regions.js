@@ -58,6 +58,15 @@ if (typeof StartupEvents !== 'undefined') {
 }
 
 // Node-only export (Rhino has no `module`, so this is skipped in KubeJS).
+// NOTE: the WHOLE file is parsed by KubeJS's Rhino before this runtime guard runs,
+// and that Rhino rejects ES6 shorthand object properties ({ a, b }). Use explicit
+// `key: value` pairs here so the file parses under both Rhino and Node.
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { chunkInBox, isLawlessChunk, claimDecision, LAWLESS_REGIONS, LAWLESS_DIMENSION }
+  module.exports = {
+    chunkInBox: chunkInBox,
+    isLawlessChunk: isLawlessChunk,
+    claimDecision: claimDecision,
+    LAWLESS_REGIONS: LAWLESS_REGIONS,
+    LAWLESS_DIMENSION: LAWLESS_DIMENSION,
+  }
 }

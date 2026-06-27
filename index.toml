@@ -10,7 +10,7 @@ hash = "abbcdccc344ce034561d45e3651aba05a17bcbebd81b2a5afe68fd63f12f3cf6"
 
 [[files]]
 file = "kubejs/startup_scripts/lawless_regions.js"
-hash = "049a45c1282094caddb875c5d1756bc608044542691710b3f9fe677383334d0d"
+hash = "144d37b6ee0cb1fc9b3216b772b1fc8ac33ae27f29767d50824cea1eb65951fe"
 
 [[files]]
 file = "mods/additional-placements.pw.toml"

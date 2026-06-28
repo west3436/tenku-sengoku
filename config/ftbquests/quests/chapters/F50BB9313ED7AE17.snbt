@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "F50BB9313ED7AE17"
 	group: "791D73F5FEB83BBB"
-	icon: { id: "minecraft:oak_boat" }
+	icon: { id: "smallships:oak_cog" }
 	id: "F50BB9313ED7AE17"
 	order_index: 0
 	quest_links: [ ]
@@ -14,7 +14,7 @@
 				""
 				"Choose where your story begins. Each homeland sits on the water — a boat is the surest way to explore from here. Your choice is permanent: it becomes your home, and where you return when you fall. (The capital, Edo, is the default; these are the roads less travelled.)"
 				""
-				"Pick ONE of the five quests below. Claiming its reward sails you there."
+				"Pick ONE of the five quests below. Claiming its reward sails you there aboard a small ship of your own — a Cog to explore your new shores."
 			]
 			icon: { id: "minecraft:filled_map" }
 			id: "1E3179D2374E0D4C"
@@ -30,7 +30,10 @@
 			description: ["瀬戸内海の島宮。Island shrine on the calm Seto Inland Sea, the floating torii rising from the tide. World ~-1868, 534."]
 			icon: { id: "minecraft:red_banner" }
 			id: "6C79002C7ED6F3B0"
-			rewards: [{ command: "/function tenku_spawn:choose/itsukushima", id: "E87338A17E5173AA", type: "command" }]
+			rewards: [
+				{ command: "/function tenku_spawn:choose/itsukushima", id: "E87338A17E5173AA", type: "command" }
+				{ id: "5A11B0A7C0610001", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+			]
 			tasks: [{ id: "4593572960A4772C", type: "checkmark" }]
 			x: 1.5d
 			y: -3.0d
@@ -40,7 +43,10 @@
 			description: ["九州の玄関口。Kyushu's gateway port on Hakata Bay, Japan's historic door to the continent. World ~-3588, 1646."]
 			icon: { id: "minecraft:gold_ingot" }
 			id: "277BAB0EF95DB2EE"
-			rewards: [{ command: "/function tenku_spawn:choose/hakata", id: "A31D174E6E36A2DF", type: "command" }]
+			rewards: [
+				{ command: "/function tenku_spawn:choose/hakata", id: "A31D174E6E36A2DF", type: "command" }
+				{ id: "5A11B0A7C0610002", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+			]
 			tasks: [{ id: "59F69F8AC01B63F9", type: "checkmark" }]
 			x: 1.5d
 			y: -1.5d
@@ -50,7 +56,10 @@
 			description: ["北の海港。The far-northern sea port of Hokkaido — cold water, long horizons, a frontier reached by boat. World ~5644, -7786."]
 			icon: { id: "minecraft:snow_block" }
 			id: "2F7711C81A7DFE9E"
-			rewards: [{ command: "/function tenku_spawn:choose/hakodate", id: "7B5B94F366BD30C1", type: "command" }]
+			rewards: [
+				{ command: "/function tenku_spawn:choose/hakodate", id: "7B5B94F366BD30C1", type: "command" }
+				{ id: "5A11B0A7C0610003", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+			]
 			tasks: [{ id: "62BC3E4C741E6158", type: "checkmark" }]
 			x: 1.5d
 			y: 0.0d
@@ -60,7 +69,10 @@
 			description: ["四国の岬。A rugged cape on Shikoku's Pacific edge, open ocean in every direction. World ~-300, 1750."]
 			icon: { id: "minecraft:prismarine" }
 			id: "9A3ED639376FAB03"
-			rewards: [{ command: "/function tenku_spawn:choose/muroto", id: "44E60D4C985DEB69", type: "command" }]
+			rewards: [
+				{ command: "/function tenku_spawn:choose/muroto", id: "44E60D4C985DEB69", type: "command" }
+				{ id: "5A11B0A7C0610004", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+			]
 			tasks: [{ id: "F4DD25AEF48D54C1", type: "checkmark" }]
 			x: 1.5d
 			y: 1.5d
@@ -70,7 +82,10 @@
 			description: ["天下の台所。Castle town and great trading harbor on the central bay. World ~964, 142."]
 			icon: { id: "minecraft:gold_block" }
 			id: "90E2D0B057B0F786"
-			rewards: [{ command: "/function tenku_spawn:choose/osaka", id: "3DC2A1DC112C1C60", type: "command" }]
+			rewards: [
+				{ command: "/function tenku_spawn:choose/osaka", id: "3DC2A1DC112C1C60", type: "command" }
+				{ id: "5A11B0A7C0610005", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+			]
 			tasks: [{ id: "9905EEB348FED0B6", type: "checkmark" }]
 			x: 1.5d
 			y: 3.0d

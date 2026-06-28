@@ -1,0 +1,13 @@
+name = "Small Ships"
+filename = "smallships-neoforge-1.21.1-2.0.0-b2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/kOYI5QK1/smallships-neoforge-1.21.1-2.0.0-b2.0.jar"
+hash-format = "sha512"
+hash = "6718c48884abc15ec8a32a018bc4b6524510af364e11bf58d8f6ce09b17d720c347b2cfdc3ce7b2d7b7674a141ba36f2f2d29b904c1bdc5d6cdd5ef941391148"
+
+[update]
+[update.modrinth]
+mod-id = "rGWEHQrP"
+version = "kOYI5QK1"

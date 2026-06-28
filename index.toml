@@ -70,7 +70,7 @@ hash = "5388cce37e51e33084514fa2142daba6088925fc98d8ea768e46c26b7e98178a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/F50BB9313ED7AE17.snbt"
-hash = "2fb86598aed1c0955d05e277b29597ba072efa3757ba3fe722f03b6ca1ab306c"
+hash = "37df6b8b71546c973abfb369953cea586a9cef6fa7b5f8ddd94884e2433ace7e"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -235,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
-metafile = true
-
-[[files]]
-file = "mods/create-high-seas.pw.toml"
-hash = "c648e7fa748232e26c25fc5530af966099ecd67f89876815ebd56f04c8e7f4f2"
 metafile = true
 
 [[files]]
@@ -590,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "93bd04ee48a423255441493c596a5b5690b029020e325d86e5dab51ea7a2fee6"
 metafile = true
 
 [[files]]

@@ -1,0 +1,636 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0640EF942377DAFF"
+	group: "21B6E4552DFF1556"
+	icon: {
+		id: "minecraft:enchanted_book"
+	}
+	id: "0640EF942377DAFF"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["62282BC91365AAEC"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 5
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:copper_spell_book"
+			}
+			id: "177B0341599CA5FC"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "5DE63C2CF3921709"
+					type: "command"
+				}
+				{
+					id: "4EB7498233F83D50"
+					item: {
+						count: 1
+						id: "irons_spellbooks:uncommon_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "4E7C7ABE5C2D0A1F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "23BD87CD70B4052D"
+				type: "kill"
+				value: 15L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["177B0341599CA5FC"]
+			icon: {
+				id: "irons_spellbooks:scroll"
+			}
+			id: "3095B4C374F68C84"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "59E51F1849627C0B"
+					type: "command"
+				}
+				{
+					id: "7305C5E470AAA91C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "45E094F58C62A20D"
+				item: { count: 1, id: "irons_spellbooks:scroll" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3095B4C374F68C84"]
+			icon: {
+				id: "irons_spellbooks:fire_rune"
+			}
+			id: "746DD4C8DE72CA47"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "2A15DC727CB67B41"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "67D579770F586EA9"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+				{
+					id: "28D37F19CFA42C3D"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "2ECD1FCE3768153F"
+				type: "kill"
+				value: 10L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["746DD4C8DE72CA47"]
+			icon: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 6
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:iron_spell_book"
+			}
+			id: "6FF891D55C9DF029"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "610C1A03DA7C4F86"
+					type: "command"
+				}
+				{
+					id: "1E62528039518D93"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [ ]
+								maxSpells: 6
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+						count: 1
+						id: "irons_spellbooks:iron_spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "0E427A71F3BA1060"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "44278B643B63D7AF"
+				type: "kill"
+				value: 25L
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6FF891D55C9DF029"]
+			icon: {
+				id: "irons_spellbooks:lightning_rune"
+			}
+			id: "3B18878846A59F2C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 3"
+					id: "73E78DB898144D66"
+					type: "command"
+				}
+				{
+					id: "462DF8A087F6145E"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [ ]
+								maxSpells: 10
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+						count: 1
+						id: "irons_spellbooks:blaze_spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "29280CAE1773BF6C"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [ ]
+								maxSpells: 12
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+						count: 1
+						id: "irons_spellbooks:ice_spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "1D3CBA999AD4B97C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "09FA3E016F130239"
+				type: "kill"
+				value: 20L
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6FF891D55C9DF029"]
+			icon: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 12
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				id: "irons_spellbooks:netherite_spell_book"
+			}
+			id: "2496F1D390C392D9"
+			rewards: [
+				{
+					id: "1B4565909DB513FF"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [ ]
+								maxSpells: 12
+								mustEquip: 1b
+								spellWheel: 1b
+							}
+						}
+						count: 1
+						id: "irons_spellbooks:netherite_spell_book"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "160F62F6769373A8"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+				{
+					id: "2871AD4A08866410"
+					item: {
+						count: 1
+						id: "irons_spellbooks:legendary_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "5258297E4068F187"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:hijiri/master"
+				criterion: ""
+				id: "2C124C7C79BB5C8B"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3095B4C374F68C84"]
+			icon: {
+				id: "irons_spellbooks:inscription_table"
+			}
+			id: "3AB41662A8FE97A4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "7E2609CB2B21343E"
+					type: "command"
+				}
+				{
+					id: "528C74B950333C38"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 2
+					id: "5D094305FC428050"
+					item: {
+						count: 1
+						id: "irons_spellbooks:common_ink"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "617859D96954FABC"
+				item: { count: 1, id: "irons_spellbooks:inscription_table" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["746DD4C8DE72CA47"]
+			icon: {
+				id: "irons_spellbooks:protection_rune"
+			}
+			id: "42A623FAA62A1BF2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "4C63AA2839467426"
+					type: "command"
+				}
+				{
+					id: "690C64C5652BD2EF"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "3C1DD087CE6A5E60"
+				item: { count: 1, id: "irons_spellbooks:protection_rune" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6FF891D55C9DF029"]
+			icon: {
+				id: "irons_spellbooks:necromancer_spawn_egg"
+			}
+			id: "01F883898569E208"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "4BF534BA39FC39AE"
+					type: "command"
+				}
+				{
+					id: "7B91885F64AC8002"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "2EED10BC14B69706"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "irons_spellbooks:necromancer"
+				id: "5B6F46BA103A7916"
+				type: "kill"
+				value: 12L
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3AB41662A8FE97A4"]
+			icon: {
+				id: "irons_spellbooks:rare_ink"
+			}
+			id: "1BABE988E1BC865B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "3C4F86057253B816"
+					type: "command"
+				}
+				{
+					id: "5396840E91CAE15D"
+					type: "xp"
+					xp: 30
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "4882346E00360A4E"
+				item: { count: 1, id: "irons_spellbooks:rare_ink" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3AB41662A8FE97A4"]
+			icon: {
+				id: "irons_spellbooks:blank_rune"
+			}
+			id: "5BCABB20B5F766DD"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "799355807677336C"
+					type: "command"
+				}
+				{
+					id: "2063524C6904C9A5"
+					type: "xp"
+					xp: 45
+				}
+				{
+					count: 2
+					id: "6C9244F6F793D21B"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 6L
+				id: "477203C58FC272AC"
+				item: { count: 1, id: "irons_spellbooks:blank_rune" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["42A623FAA62A1BF2"]
+			icon: {
+				id: "irons_spellbooks:mana_ring"
+			}
+			id: "563DB9675A65C4B7"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "3FBD22C9B294C9C7"
+					type: "command"
+				}
+				{
+					id: "4EAF2919CBA2D9DC"
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 2
+					id: "4DCA1CD34BAB2E56"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "6D57CB7C6FC461B4"
+				item: { count: 1, id: "irons_spellbooks:mana_ring" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["01F883898569E208"]
+			icon: {
+				id: "irons_spellbooks:pyrium_staff"
+			}
+			id: "111DAED6577227DE"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 2"
+					id: "78435BF81863404D"
+					type: "command"
+				}
+				{
+					id: "5631BA5FF0CEC3BB"
+					type: "xp"
+					xp: 70
+				}
+				{
+					id: "5A39DC2135211938"
+					item: {
+						count: 1
+						id: "irons_spellbooks:rare_ink"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "68B3E8339AA5729A"
+				item: { count: 1, id: "irons_spellbooks:pyrium_staff" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5BCABB20B5F766DD"]
+			icon: {
+				id: "irons_spellbooks:conjurers_talisman"
+			}
+			id: "723B7CE73C53DCE9"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 2"
+					id: "57EA229788DC787F"
+					type: "command"
+				}
+				{
+					id: "56A07D37B9113DAC"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "57065F9344DB1797"
+					item: {
+						count: 1
+						id: "irons_spellbooks:uncommon_ink"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "0D73AD7F18D6C1DD"
+				item: { count: 1, id: "irons_spellbooks:conjurers_talisman" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["563DB9675A65C4B7"]
+			icon: {
+				id: "irons_spellbooks:wayward_compass"
+			}
+			id: "3209E2F5918580B2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "304173B8C3B1A8D8"
+					type: "command"
+				}
+				{
+					id: "47BAB0E31A0470A5"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 2
+					id: "1D809FAC9FB65B1D"
+					item: {
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "5C6A7054704D64D0"
+				item: { count: 1, id: "irons_spellbooks:wayward_compass" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["723B7CE73C53DCE9"]
+			icon: {
+				id: "irons_spellbooks:pedestal"
+			}
+			id: "4ACD678A0351D9B2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "0183E48E95E0AE75"
+					type: "command"
+				}
+				{
+					id: "29830CFA3F1DD995"
+					type: "xp"
+					xp: 65
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "75E11C82EDF033E8"
+				item: { count: 1, id: "irons_spellbooks:pedestal" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+	]
+}

@@ -1,0 +1,485 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "122A3A8E7D7F35A0"
+	group: "21B6E4552DFF1556"
+	icon: {
+		id: "minecraft:iron_sword"
+	}
+	id: "122A3A8E7D7F35A0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2EE776508BB46ABA"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "sengoku:blade_of_the_kensei"
+			}
+			id: "468C0D1D8D675AED"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "13836C69D68642DC"
+					type: "command"
+				}
+				{
+					id: "49E6EB0B990EECC8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "0DC35A38377461F2"
+				type: "kill"
+				value: 12L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["468C0D1D8D675AED"]
+			icon: {
+				id: "sengoku:iron_odachi"
+			}
+			id: "44F16C23A3DA5B25"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "54413F48E02B8B6A"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "5CBFD2457A7DEE73"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "34B14321D6B9E616"
+				type: "kill"
+				value: 20L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["44F16C23A3DA5B25"]
+			icon: {
+				id: "sengoku:daimyo_do"
+			}
+			id: "701E52A08CD66693"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "4B969E11852E0C59"
+					type: "command"
+				}
+				{
+					id: "73A44C6C561CC008"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_do"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "7624A98B5B138AEB"
+				type: "kill"
+				value: 15L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["701E52A08CD66693"]
+			icon: {
+				id: "sengoku:netherite_odachi_of_the_shugodai"
+			}
+			id: "3AAAEDE083AAA0C8"
+			rewards: [
+				{
+					id: "5F91860938C7BCDA"
+					item: {
+						count: 1
+						id: "sengoku:netherite_odachi_of_the_shugodai"
+					}
+					type: "item"
+				}
+				{
+					id: "14BF3016737033BE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:bushi/master"
+				criterion: ""
+				id: "4F24E277DBC857EB"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["468C0D1D8D675AED"]
+			icon: {
+				id: "sengoku:iron_sand"
+			}
+			id: "3DB0527D3ACDA1DD"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "4EF1E1D6DC3C6478"
+					type: "command"
+				}
+				{
+					id: "3C0550CDFBA46126"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "5D148588C5CFFF25"
+				item: { count: 1, id: "sengoku:iron_sand" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44F16C23A3DA5B25"]
+			icon: {
+				id: "sengoku:wooden_odachi"
+			}
+			id: "3380BB3BE3F6DD2E"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "4B2E91783E4F820C"
+					type: "command"
+				}
+				{
+					id: "1FFFD79D5D98A3D7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				id: "6A5A44FFE516D806"
+				item: { count: 1, id: "sengoku:wooden_odachi" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3DB0527D3ACDA1DD"]
+			icon: {
+				id: "sengoku:tamahagane_ingot"
+			}
+			id: "5DA406D1618D7CF4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "4BF81BDA28DDB921"
+					type: "command"
+				}
+				{
+					id: "63AAADD0628C760F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "4D021AD9467FBA2E"
+				item: { count: 1, id: "sengoku:tamahagane_ingot" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3380BB3BE3F6DD2E"]
+			icon: {
+				id: "sengoku:iron_tanto"
+			}
+			id: "2E2B811814A8E7FF"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "721571F22CFE8326"
+					type: "command"
+				}
+				{
+					id: "3725AE6B0F0F0B1F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "13FEE16BD1FB5477"
+				item: { count: 1, id: "sengoku:iron_tanto" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3380BB3BE3F6DD2E"]
+			icon: {
+				id: "sengoku:stone_kanabo"
+			}
+			id: "229BEAF6B98B3606"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "3045534778EAFECF"
+					type: "command"
+				}
+				{
+					id: "0BD30AAB9C7A10CD"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				id: "33CFDF9C3FA3E313"
+				item: { count: 1, id: "sengoku:stone_kanabo" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5DA406D1618D7CF4"]
+			icon: {
+				id: "sengoku:tamahagane_upgrade_smithing_template"
+			}
+			id: "6E02038099096C04"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 2"
+					id: "614CDF3CE40B8F7E"
+					type: "command"
+				}
+				{
+					id: "1F9A5E7E75157DF7"
+					type: "xp"
+					xp: 60
+				}
+			]
+			tasks: [{
+				id: "743145290DD41D79"
+				item: { count: 1, id: "sengoku:tamahagane_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2E2B811814A8E7FF"]
+			icon: {
+				id: "sengoku:iron_naginata"
+			}
+			id: "6B2321B7148D4462"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "048DA5C132D369FA"
+					type: "command"
+				}
+				{
+					id: "3EAE904EDE8294F4"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "4F42E734A96290C8"
+				item: { count: 1, id: "sengoku:iron_naginata" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["229BEAF6B98B3606"]
+			icon: {
+				id: "sengoku:ronin_spawn_egg"
+			}
+			id: "7DD82B003B1563C7"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "4F14BF527DC7B74E"
+					type: "command"
+				}
+				{
+					id: "42AE020B42C0E47C"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				entity: "sengoku:ronin"
+				id: "2E223DC8069ED0AC"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6E02038099096C04"]
+			icon: {
+				id: "sengoku:daimyo_kabuto"
+			}
+			id: "0B274E6DD87DD0A7"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "442A7F833CB826FB"
+					type: "command"
+				}
+				{
+					id: "59C58213DCFDB690"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "5F6640A06A765684"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_kusazuri"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6331A67C4A788992"
+				item: { count: 1, id: "sengoku:daimyo_kabuto" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6B2321B7148D4462"
+				"6E02038099096C04"
+			]
+			icon: {
+				id: "sengoku:blade_of_the_kensei"
+			}
+			id: "0A9E1680284D7ED2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 2"
+					id: "148C0EE4CF0D96D7"
+					type: "command"
+				}
+				{
+					id: "25726758A963C5B7"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 3
+					id: "2264A0DA5D133B53"
+					item: {
+						count: 1
+						id: "sengoku:tamahagane_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "25B17C3B961FD263"
+				item: { count: 1, id: "sengoku:blade_of_the_kensei" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DD82B003B1563C7"]
+			icon: {
+				id: "sengoku:kanabo_of_otakemaru"
+			}
+			id: "62F549B8738D3589"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "0A27604C7504F69F"
+					type: "command"
+				}
+				{
+					id: "1E415E171CB2BDBC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "sengoku:oni_brute"
+				id: "32FCBA762544A3A8"
+				type: "kill"
+				value: 5L
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"62F549B8738D3589"
+				"0A9E1680284D7ED2"
+			]
+			icon: {
+				id: "sengoku:netherite_blade_of_the_kensei"
+			}
+			id: "47AA48D60D98B24F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 2"
+					id: "027945078591B940"
+					type: "command"
+				}
+				{
+					id: "25565AD7190C59BD"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 6
+					id: "612F410DFC6176BA"
+					item: {
+						count: 1
+						id: "sengoku:tamahagane_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				entity: "sengoku:warlord"
+				id: "283BC99889B40CEF"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+	]
+}

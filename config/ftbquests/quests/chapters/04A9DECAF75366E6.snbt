@@ -1,0 +1,505 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "04A9DECAF75366E6"
+	group: "5800B18E73212D69"
+	icon: {
+		id: "minecraft:shield"
+	}
+	id: "04A9DECAF75366E6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "6DE5D7D751E519B3"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "49C9934971B22E14"
+					type: "command"
+				}
+				{
+					id: "71C7E96FECBD80B2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1919F1F63D691A12"
+				item: { count: 1, id: "minecraft:shield" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DE5D7D751E519B3"]
+			icon: {
+				id: "sengoku:iron_naginata"
+			}
+			id: "5A5AA48B04AFFCFB"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "2D7AB67F1ED95680"
+					type: "command"
+				}
+				{
+					id: "379086E7FC327A47"
+					item: {
+						count: 1
+						id: "minecraft:iron_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "0F8FB9B4E0266D79"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "5470151F67E0D066"
+				type: "kill"
+				value: 25L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A5AA48B04AFFCFB"]
+			icon: {
+				id: "sengoku:daimyo_kabuto"
+			}
+			id: "34B83A4F13BA6E7B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "0732D9B51B45CF4B"
+					type: "command"
+				}
+				{
+					id: "44E2F85F68EE6FBF"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_kabuto"
+					}
+					type: "item"
+				}
+				{
+					id: "55D7C75865DE1F19"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "67BF8D2FC3A239B8"
+				stat: "minecraft:damage_absorbed"
+				type: "stat"
+				value: 200
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["34B83A4F13BA6E7B"]
+			icon: {
+				id: "sengoku:daimyo_do"
+			}
+			id: "0983A81ECE90EBBC"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "5D871EEEA855AA50"
+					type: "command"
+				}
+				{
+					id: "23823C35323E7116"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_haidate"
+					}
+					type: "item"
+				}
+				{
+					id: "69E60B2D5EF2DD78"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "374466688FF04577"
+				type: "kill"
+				value: 30L
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0983A81ECE90EBBC"]
+			icon: {
+				id: "sengoku:daimyo_do"
+			}
+			id: "146FAB88F59D5D80"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "502392D69E9E828D"
+					type: "command"
+				}
+				{
+					id: "280E92ACCC23A04F"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_do"
+					}
+					type: "item"
+				}
+				{
+					id: "1DDA53D941AFB062"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_kabuto"
+					}
+					type: "item"
+				}
+				{
+					id: "2F11612EC33D7EAA"
+					item: {
+						count: 1
+						id: "minecraft:iron_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "3E80F641AE44AF35"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:heiho/master"
+				criterion: ""
+				id: "394767B08D703558"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DE5D7D751E519B3"]
+			icon: {
+				id: "sengoku:wooden_yari"
+			}
+			id: "28F21B6054511D63"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "7F6694139401148A"
+					type: "command"
+				}
+				{
+					id: "4A711885DCBF25D7"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "00BD147A7404DCB3"
+				item: { count: 1, id: "sengoku:wooden_yari" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["28F21B6054511D63"]
+			icon: {
+				id: "sengoku:iron_yari"
+			}
+			id: "20BE23EB72E1B753"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "4B320BC29B4D2B3F"
+					type: "command"
+				}
+				{
+					id: "0A1F5FB5F0F61C35"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				id: "6A5F4AE4CACE8900"
+				item: { count: 1, id: "sengoku:iron_yari" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["20BE23EB72E1B753"]
+			icon: {
+				id: "sengoku:wooden_naginata"
+			}
+			id: "20A82A3FBCFF9329"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "65D5EEC4319327A7"
+					type: "command"
+				}
+				{
+					id: "6C7BF55D8CFAD0E6"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				id: "22ABEA702B2A2733"
+				item: { count: 1, id: "sengoku:wooden_naginata" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["20A82A3FBCFF9329"]
+			icon: {
+				id: "sengoku:iron_kanabo"
+			}
+			id: "7FDAE1E19453D6F9"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "0C3C2914131C0E8D"
+					type: "command"
+				}
+				{
+					id: "3D948C12573654B4"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "000E358720B128AF"
+				item: { count: 1, id: "sengoku:iron_kanabo" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7FDAE1E19453D6F9"]
+			icon: {
+				id: "sengoku:daimyo_kusazuri"
+			}
+			id: "4BABE5E39BB9BECB"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "431FAF46DFABB76D"
+					type: "command"
+				}
+				{
+					id: "4AE300D8AAF18631"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tasks: [{
+				id: "564A3664FBFEF7F8"
+				item: { count: 1, id: "sengoku:daimyo_kusazuri" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["28F21B6054511D63"]
+			icon: {
+				id: "sengoku:ronin_spawn_egg"
+			}
+			id: "2C8EACAE71FC1A02"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "01EAD970D0A9CE69"
+					type: "command"
+				}
+				{
+					id: "18729D638C3DB9D1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				entity: "sengoku:ronin"
+				id: "6182F6572F732489"
+				type: "kill"
+				value: 10L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C8EACAE71FC1A02"]
+			icon: {
+				id: "sengoku:bandit_spawn_egg"
+			}
+			id: "0E290057B75B86F2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "08B53FB0A65DE721"
+					type: "command"
+				}
+				{
+					id: "199D79A0790EBFD0"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				entity: "sengoku:bandit"
+				id: "1E7C4AFD92621627"
+				type: "kill"
+				value: 15L
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0E290057B75B86F2"]
+			icon: {
+				id: "sengoku:takeda_ashigaru_spawn_egg"
+			}
+			id: "4CD369F3FFA38379"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "6F55BA4BB8C9C711"
+					type: "command"
+				}
+				{
+					id: "424B3E4B6332355E"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				entity: "sengoku:takeda_ashigaru"
+				id: "6331782463ECBB93"
+				type: "kill"
+				value: 12L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4CD369F3FFA38379"]
+			icon: {
+				id: "sengoku:takeda_samurai_spawn_egg"
+			}
+			id: "05D21C06A57E3CBE"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "1A9041C5D47B8481"
+					type: "command"
+				}
+				{
+					id: "02F49A078EF5F78F"
+					type: "xp"
+					xp: 55
+				}
+				{
+					id: "277962242C5278EF"
+					item: {
+						count: 1
+						id: "sengoku:iron_yari"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:takeda_samurai"
+				id: "5EFF344461902188"
+				type: "kill"
+				value: 8L
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["05D21C06A57E3CBE"]
+			icon: {
+				id: "sengoku:oni_brute_spawn_egg"
+			}
+			id: "5C83B1E19AEC1A53"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "1A87618065E1A517"
+					type: "command"
+				}
+				{
+					id: "6D49BD95E67973ED"
+					type: "xp"
+					xp: 70
+				}
+				{
+					id: "0C9A85FD60F834A6"
+					item: {
+						count: 1
+						id: "sengoku:iron_kanabo"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:oni_brute"
+				id: "2F673637691D1B34"
+				type: "kill"
+				value: 5L
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5C83B1E19AEC1A53"]
+			icon: {
+				id: "sengoku:naginata_of_the_nobushi"
+			}
+			id: "2F654C03F7490860"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "5FF278ACCA1E5843"
+					type: "command"
+				}
+				{
+					id: "20B5C81039BFE1F9"
+					type: "xp"
+					xp: 70
+				}
+			]
+			tasks: [{
+				id: "263A7603BBC0F050"
+				item: { count: 1, id: "sengoku:naginata_of_the_nobushi" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+	]
+}

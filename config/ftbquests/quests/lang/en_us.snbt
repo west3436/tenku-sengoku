@@ -1,0 +1,1908 @@
+{
+	chapter.010946F26E3592E9.title: "武者修行・The Warrior's Pilgrimage"
+	chapter.04A9DECAF75366E6.title: "兵法・The Footsoldier's Discipline"
+	chapter.0640EF942377DAFF.title: "陰陽道・The Way of Yin and Yang"
+	chapter.122A3A8E7D7F35A0.title: "剣術・The Way of the Sword"
+	chapter.13345834AAA3F650.title: "商い・The Way of Commerce"
+	chapter.141E71479168F9BE.title: "鍛冶・The Forge"
+	chapter.1925947BCD1D5515.title: "包丁・The Kitchen Blade"
+	chapter.208891D4328F00BB.title: "大工・The Temple-Builder's Craft"
+	chapter.35485FC8026C6FF4.title: "砲術・The Way of the Gun"
+	chapter.3660C09E948C24FE.title: "修験道・The Mountain Ascetic's Way"
+	chapter.39274410101C460B.title: "岐路・The Crossroads"
+	chapter.3B3FE73184F3EFDE.title: "からくり・The Way of Mechanisms"
+	chapter.42EBDC33166ECC53.title: "弓術・The Way of the Bow"
+	chapter.5D937328F4FB160B.title: "序章・A Warrior's Beginning"
+	chapter.F50BB9313ED7AE17.title: "船出・Setting Sail"
+	quest.1E3179D2374E0D4C.title: "故郷を選ぶ・Choose Your Homeland"
+	quest.6C79002C7ED6F3B0.title: "厳島・Itsukushima Shrine"
+	quest.277BAB0EF95DB2EE.title: "博多・The Port of Hakata"
+	quest.2F7711C81A7DFE9E.title: "函館・Hakodate"
+	quest.9A3ED639376FAB03.title: "室戸・Cape Muroto"
+	quest.90E2D0B057B0F786.title: "大坂・Osaka"
+	chapter.7E37F464A4C10A9B.title: "農家・The Way of the Rice Field"
+	chapter_group.21B6E4552DFF1556.title: "二つの道・The Two Callings"
+	chapter_group.3E1BFD48B85C55D4.title: "旅・The Journey"
+	chapter_group.5800B18E73212D69.title: "民の技・Crafts of the People"
+	chapter_group.791D73F5FEB83BBB.title: "始まり・The Beginning"
+	quest.01F396184B1D8764.title: "玉鋼・Tamahagane"
+	quest.037ECAB1A15D401E.title: "田植え・Planting the Rice"
+	quest.06E7CDA90DD62A0B.title: "名工・The Master Craftsman"
+	quest.0983A81ECE90EBBC.title: "不動心・The Immovable Mind"
+	quest.0A6355B7E8808750.title: "仕掛け・The Mechanism"
+	quest.0BBE4A9EEC507EAE.title: "継手・The Joinery"
+	quest.0D984FBA2C5EE04C.title: "障子・The Shoji Screen"
+	quest.0E24432AB0D51D1D.title: "護摩・The Goma Fire Rite"
+	quest.0F9B983A73EE1C19.title: "宮大工・Master Temple-Builder"
+	quest.143CCA59B9A0CD6B.title: "軸・The Shaft"
+	quest.14434D1DCB23847B.title: "市・The Market"
+	quest.146FAB88F59D5D80.title: "楯・Tate, the Unbroken Wall"
+	quest.1496048DCB579B4A.title: "竹林・The Bamboo Grove"
+	quest.16E40843A6F9E5AE.title: "弓を取る・Take Up the Bow"
+	quest.177B0341599CA5FC.title: "気・Ki, the First Breath"
+	quest.19AEA436F48A7A99.title: "道場の誓い・Pledge at the Dōjō"
+	quest.1A8D7A2BAB60DF23.title: "隊商・The Caravan"
+	quest.1ABE79B324156D68.title: "修験を選ぶ・The Path of the Mountain"
+	quest.1DB03F3393E7426C.title: "最初の一歩・The First Step"
+	quest.1F04B7A079FE06ED.title: "厳島・Itsukushima Shrine"
+	quest.21DB5B7881631418.title: "刀工・Master Swordsmith"
+	quest.221E3A72A5172608.title: "握り・The Rice Dish"
+	quest.2476122B8AEFB44E.title: "銭・The First Coin"
+	quest.2496F1D390C392D9.title: "大嘗祭・Daijōsai, the Grand Rite"
+	quest.2672EC2C09059F52.title: "遠当て・The Distant Mark"
+	quest.26BDE64F238325D1.title: "武者・Trial of Arms"
+	quest.26D3151A313A2CCF.title: "豪商・The Great Merchant"
+	quest.26FB7199484105D0.title: "座・The Guild"
+	quest.27C878805CC016C9.title: "入峰・Entering the Mountain"
+	quest.2C451D1B90B72C81.title: "富士山・Mount Fuji"
+	quest.2EE614E206C03B09.title: "からくり師・Master of Mechanisms"
+	quest.2EE776508BB46ABA.title: "剣を取る・Take Up the Sword"
+	quest.3095B4C374F68C84.title: "真言・The Mantra"
+	quest.34B83A4F13BA6E7B.title: "受け太刀・The Guard"
+	quest.350655219CA65817.title: "飛行・The Art of Flight"
+	quest.3AAAEDE083AAA0C8.title: "一閃・Issen, One Cut"
+	quest.3B18878846A59F2C.title: "諸流派・The Schools"
+	quest.3C289424C673F15E.title: "御用商人・Purveyor to the Daimyō"
+	quest.3E33AA1296B7888D.title: "初矢・First Arrow"
+	quest.4099620EDE8071D2.title: "鍛える・The Tempering"
+	quest.40CDFAC0D055F9DD.title: "流鏑馬の稽古・Yabusame Training"
+	quest.40E0215AEDFDE097.title: "山伏の悟り・Yamabushi, the Mountain Saint"
+	quest.413867063AC6431B.title: "銃を取る・Take Up the Gun"
+	quest.44427792E21F7915.title: "板前・Master of Cuisine"
+	quest.44B8C516D0F3C7C3.title: "宴・The Feast"
+	quest.44F16C23A3DA5B25.title: "素振り・Thousand Cuts"
+	quest.45F18ED78F2912B8.title: "師を求めて・Seek a Teacher"
+	quest.464E038C5FDB4813.title: "鉄壁・Ironclad"
+	quest.468C0D1D8D675AED.title: "抜刀・Draw the Blade"
+	quest.47AAD499CE2EB5E2.title: "大筒・The Great Cannon"
+	quest.4A5BC21003370E88.title: "流鏑馬・Yabusame, the Mounted Way"
+	quest.4B53F57FB4CB3163.title: "宮普請・Raising the Temple"
+	quest.4EFFC3005AA1324C.title: "火薬・Gunpowder"
+	quest.4F40F4F857297B6F.title: "豊作・The Bountiful Year"
+	quest.51F51949184EFFD9.title: "包丁・The Knife"
+	quest.56BFEC62F77679CB.title: "木挽き・The Sawyer"
+	quest.58F225EA499047C1.title: "自動・Automation"
+	quest.5A5AA48B04AFFCFB.title: "槍衾・The Spear Wall"
+	quest.5D124A2BDA7419AE.title: "出汁・The Broth"
+	quest.605BA284F0D1E0D5.title: "稲刈り・The Harvest"
+	quest.62282BC91365AAEC.title: "陰陽を選ぶ・The Path of Yin and Yang"
+	quest.6366E10C02C1998D.title: "旅立ち・Setting Out"
+	quest.6575034062A5DEA9.title: "種子島の達人・Tanegashima, Master Gunner"
+	quest.678341C5F4B2C136.title: "武者修行・The Pilgrimage Fulfilled"
+	quest.692DFA1DBFD8FEED.title: "目覚め・Awakening"
+	quest.6BA1EC560ADA71E4.title: "恐山・Mount Osore"
+	quest.6DC05FE5A141146E.title: "歯車・The Cogwheel"
+	quest.6DE5D7D751E519B3.title: "足軽・The Footsoldier"
+	quest.6E3F4A96B4B35B23.title: "種子島・The Tanegashima"
+	quest.6FF891D55C9DF029.title: "術理・Spellcraft"
+	quest.701E52A08CD66693.title: "居合・The Quick Draw"
+	quest.746DD4C8DE72CA47.title: "五行・The Five Phases"
+	quest.757A638874919E5B.title: "技の書・The Book of Ways"
+	quest.763B6CDC748018F4.title: "五百石・Master of the Harvest"
+	quest.7855C54E2C1328AA.title: "炉・The Forge"
+	quest.785E916556B8C2A4.title: "道を選ぶ・Choose Your Path"
+	quest.78E1EAED17CA2C81.title: "呼び寄せ・The Summoning"
+	quest.7DB050E1B6EFBD97.title: "山伏・The Ascetic"
+	reward.05F3601BCE35F9D7.title: "1 Daiku Point"
+	reward.0821E89C8F888C1F.title: "2 Noka Points"
+	reward.10C0505FA89A44BC.title: "1 Noka Point"
+	reward.1B258F1CE546D7D7.title: "1 Bushi Point"
+	reward.1CDA16E7DC412CB5.title: "1 Daiku Point"
+	reward.22B53759D53F73E2.title: "1 Noka Point"
+	reward.2B0D4F9C7BA362FA.title: "1 Akinai Point"
+	reward.2B9A253691AB54D4.title: "包丁の心得・A Cook's Point"
+	reward.35B75E35D2695335.title: "2 Akinai Points"
+	reward.383087E3D407EE73.title: "包丁の心得・Cook's Points"
+	reward.4176F44CF1EC9179.title: "1 Akinai Point"
+	reward.43BD354E88EAC8F2.title: "2 Akinai Points"
+	reward.4607FFA52A11931E.title: "1 Noka Point"
+	reward.47038450F1EFF94A.title: "1 Akinai Point"
+	reward.4760B8BEA3D99CCC.title: "1 Daiku Point"
+	reward.4AE42B78B5048693.title: "包丁の心得・A Cook's Point"
+	reward.58F622A95FDAF6A7.title: "1 Noka Point"
+	reward.5EF67881E55DB638.title: "1 Daiku Point"
+	reward.63DD6A6A8A473B08.title: "包丁の心得・A Cook's Point"
+	reward.6ED2726498DF02A0.title: "2 Daiku Points"
+	reward.7156FBCCFC0B2F86.title: "1 Bushi Point"
+	reward.71D7F57691DD00A6.title: "包丁の心得・A Cook's Point"
+	reward.7E80693C1DF1649B.title: "1 Akinai Point"
+	task.0FC33ABDA9A552A5.title: "Devote yourself to the blade"
+	task.0FE2E478F8444FD4.title: "Devote yourself to the bow"
+	task.4D516B3B6A1ECB6C.title: "Devote yourself to the gun"
+	task.51E10A92AA18B866.title: "Walk the path of Onmyōdō"
+	task.5761F6DEF2C8A414.title: "Awaken"
+	task.5E76E3FED58CB1A6.title: "Open the Ways screen"
+	task.6AE64D9F75E5760F.title: "Set out to find your calling"
+	task.7DA020A9EC17D624.title: "Walk the path of Shugendō"
+	quest.01F396184B1D8764.quest_subtitle: "Smelt the sand-iron into living steel"
+	quest.01F396184B1D8764.quest_desc: [
+		"Tamahagane is born in the tatara furnace from black satetsu sand."
+		"Forge four tamahagane ingots, the pure steel that becomes the blade."
+		"This is the heart of the swordsmith's art."
+	]
+	quest.037ECAB1A15D401E.quest_subtitle: "Flood the paddy and set the seedlings in straight rows"
+	quest.037ECAB1A15D401E.quest_desc: [
+		"Spring rains fill the paddy, and the work of the year begins."
+		"Wade into the mud and press the young rice into the flooded earth, row by patient row."
+		"Plant the rice (ine) and the village will not go hungry come winter."
+		"Take up the rake and the seedling. The first calling of the noka is the soil itself."
+	]
+	quest.06E7CDA90DD62A0B.quest_subtitle: "Earn the right to call yourself meiko"
+	quest.06E7CDA90DD62A0B.quest_desc: [
+		"The master craftsman, the meiko, works metals lesser hands cannot."
+		"Smith a hihi'irokane ingot, the netherite of the southern mines."
+		"Master both steel and the dark ore, and the masters will know your name."
+	]
+	quest.0983A81ECE90EBBC.quest_subtitle: "The mind that does not waver"
+	quest.0983A81ECE90EBBC.quest_desc: [
+		"Fudōshin, the immovable mind. When the line wavers, the footsoldier does not. Fear passes through him and finds no place to rest."
+		"Hold the ground others abandon. Cut down the foe though the earth shakes."
+		"Steel for the legs of one who never takes a backward step."
+	]
+	quest.0A6355B7E8808750.quest_subtitle: "Set the hammer to fall on its own"
+	quest.0A6355B7E8808750.quest_desc: [
+		"The shikake, the hidden contrivance, does the work of many hands."
+		"Assemble a mechanical press to stamp sheets and plates without tiring,"
+		"and let the machine repeat what once cost you sweat."
+	]
+	quest.0BBE4A9EEC507EAE.quest_subtitle: "Joinery without a single nail"
+	quest.0BBE4A9EEC507EAE.quest_desc: [
+		"The old masters raised halls that have stood a thousand years, and not one was held by iron."
+		"Cut and fit stairs of spirit-blossom wood. Where the grain meets the grain, there the strength lives."
+		"Reward: spirit-blossom wood for the joints to come."
+	]
+	quest.0D984FBA2C5EE04C.quest_subtitle: "Light through washi paper"
+	quest.0D984FBA2C5EE04C.quest_desc: [
+		"The shoji screen divides a room without closing it, and turns harsh sun into soft morning light."
+		"Fashion shoji panels of sakura. A wall that breathes is the mark of a careful hand."
+		"Reward: shoji frames and paper lanterns to dress the hall."
+	]
+	quest.0E24432AB0D51D1D.quest_subtitle: "Goma, the fire offering"
+	quest.0E24432AB0D51D1D.quest_desc: [
+		"Mark the ground with sacred chalk and raise the goma fire. Into its flame the ascetic casts his desires and his fears, that they burn to nothing."
+		"Gather white ritual chalk and lay the boundary of the rite."
+		"Take the golden bowl, that your offerings may be received."
+	]
+	quest.0F9B983A73EE1C19.quest_subtitle: "The crowning of the pagoda"
+	quest.0F9B983A73EE1C19.quest_desc: [
+		"Master your full craft and the pagoda rises tier upon tier, each roof lighter than the last."
+		"The miyadaiku who reaches this rank carries the temple in his hands and the village in his name."
+		"Reward: pagoda lanterns, tansu cabinets, and fine furniture for the halls you will raise."
+	]
+	quest.143CCA59B9A0CD6B.quest_subtitle: "Carry power from wheel to wheel"
+	quest.143CCA59B9A0CD6B.quest_desc: [
+		"A tooth alone turns nothing. Power must travel."
+		"Whittle shafts of andesite to bind one cogwheel to the next,"
+		"and let the river drive your works through the water wheel."
+	]
+	quest.14434D1DCB23847B.quest_subtitle: "Walk the rakuichi, the free market"
+	quest.14434D1DCB23847B.quest_desc: [
+		"The rakuichi opens its stalls to any who carry coin, beholden to no lord's toll."
+		"Trade with the village folk ten times over. Learn their wants, their seasons, their prices."
+		"A merchant who knows the market knows where the next coin will fall."
+	]
+	quest.146FAB88F59D5D80.quest_subtitle: "Become the wall that does not fall"
+	quest.146FAB88F59D5D80.quest_desc: [
+		"Tate. The shield. The wall. The whole calling of the ashigaru is in one word."
+		"You have stood, endured, and held when others ran. Now you are no longer a man in the line. You are the line."
+		"Don the full armor of the footsoldier. Where you stand, the wall stands. Where the wall stands, Japan endures."
+	]
+	quest.1496048DCB579B4A.quest_subtitle: "Cut a stand of bamboo from the grove behind the field"
+	quest.1496048DCB579B4A.quest_desc: [
+		"Behind every paddy stands a grove of take, the bamboo that builds the village."
+		"Cut a good supply: it makes scaffolds, baskets, water pipes, and the walls of a home."
+		"Bamboo grows faster than any tree and never asks for much."
+		"A wise farmer keeps the grove close. It feeds the hands as the rice feeds the belly."
+	]
+	quest.16E40843A6F9E5AE.quest_subtitle: "Kyūjutsu, the bow"
+	quest.16E40843A6F9E5AE.quest_desc: [
+		"The yumi strikes before an enemy can close the distance. Take up the bow, and the blade and the gun close to you forever."
+		"You receive a bow, arrows, and points toward the Way of the Bow."
+	]
+	quest.177B0341599CA5FC.quest_subtitle: "Channel power through battle"
+	quest.177B0341599CA5FC.quest_desc: [
+		"Before a single sigil is drawn, the onmyōji must master the breath. Ki moves where the will sends it, and the will is forged in danger."
+		"Cut down the restless dead. Each slain corpse teaches the lungs to hold steady when the night presses close."
+		"Slay 15 zombie. The copper journal in your hand will not stay flimsy forever."
+	]
+	quest.19AEA436F48A7A99.quest_subtitle: "Unlock the Warrior's Path"
+	quest.19AEA436F48A7A99.quest_desc: [
+		"Carry a blade to the dōjō and kneel. Swear to walk the way of the bushi."
+		"Then choose your weapon, for a warrior commits to a single art for life."
+	]
+	quest.1A8D7A2BAB60DF23.quest_subtitle: "Send your goods down the long road"
+	quest.1A8D7A2BAB60DF23.quest_desc: [
+		"A caravan moves where the lone peddler dares not, packhorse after packhorse along the highway."
+		"Trade thirty times across the villages of the land and let your name travel ahead of your wares."
+		"Gold flows to the house that keeps the roads busy."
+	]
+	quest.1ABE79B324156D68.quest_subtitle: "Shugendō, the mountain"
+	quest.1ABE79B324156D68.quest_desc: [
+		"Walk the sacred peaks, master the rites, and call upon the spirits of the dead. Choose Shugendō, and Onmyōdō closes to you."
+		"You receive a spirit lantern and points toward the Way of the Mountain."
+	]
+	quest.1DB03F3393E7426C.quest_subtitle: "Arm yourself"
+	quest.1DB03F3393E7426C.quest_desc: [
+		"Even a farmer can lift a blade. Shape a simple sword and learn its weight in your hand."
+		"Every master was once a beginner."
+	]
+	quest.1F04B7A079FE06ED.quest_subtitle: "Pray before the torii that stands in the sea"
+	quest.1F04B7A079FE06ED.quest_desc: [
+		"Itsukushima Jinja rises from the tide off the western shore, its great torii rooted in the waves."
+		"Pilgrims wade the shallows at low water to stand beneath the vermilion gate."
+		"Cross the inland sea and walk the shrine boards. Ask the kami of the strait for safe passage."
+		"Seek the shrine near X -1988, Z 614 on the western coast."
+	]
+	quest.21DB5B7881631418.quest_subtitle: "The way of the master swordsmith"
+	quest.21DB5B7881631418.quest_desc: [
+		"Fold the steel a thousand times until the grain runs like water."
+		"Complete the kaji tree and earn the title of tōkō, master swordsmith."
+		"Take up the netherite katana, forged by your own hand."
+	]
+	quest.221E3A72A5172608.quest_subtitle: "Press the rice into form"
+	quest.221E3A72A5172608.quest_desc: [
+		"Rice is the wealth of the land. Cooked, salted, and pressed in the palm, it becomes nigiri the soldier can carry."
+		"Shape four rice balls; a cook who masters rice need never see his people go hungry."
+		"Prepare 4 Rice Balls."
+	]
+	quest.2476122B8AEFB44E.quest_subtitle: "Sixteen pieces of jade, weighed and counted"
+	quest.2476122B8AEFB44E.quest_desc: [
+		"Every house of trade begins with a single coin set aside."
+		"Gather sixteen pieces of jade and learn the weight of wealth in your own hand."
+		"From this first zeni a fortune is reckoned. Keep it, and let it breed more."
+	]
+	quest.2496F1D390C392D9.quest_subtitle: "The grand rite of the realm"
+	quest.2496F1D390C392D9.quest_desc: [
+		"Daijōsai is offered but once: the rite where the caster and the unseen world become one body, one breath, one will."
+		"Complete the way of yin and yang in full, and the spirits acknowledge you as master."
+		"Master the hijiri tree. The Ancient Codex, legendary ink, and a sheaf of scrolls are the realm's thanks."
+	]
+	quest.2672EC2C09059F52.quest_subtitle: "The long hunt of the far shot"
+	quest.2672EC2C09059F52.quest_desc: [
+		"A retainer is not made in a single dusk. Thirty skeletons fall before the bow becomes a part of the arm."
+		"Range is patience worn as a skill. Hold the draw, read the wind, let the distant mark come to you."
+		"Earn the steel a lord lends his archers, and you have earned your place upon the wall."
+	]
+	quest.26BDE64F238325D1.quest_subtitle: "Test your steel against worthy foes"
+	quest.26BDE64F238325D1.quest_desc: [
+		"A warrior tempered on the road must prove the edge his journey has ground upon him."
+		"Seek out hard adversaries and cut them down without faltering or fleeing."
+		"This is the heart of the shugyō: not to wander, but to be changed by the wandering and to win."
+		"Twenty-five fell warriors, and not one step back."
+	]
+	quest.26D3151A313A2CCF.quest_subtitle: "Rise to gōshō, a great merchant of the realm"
+	quest.26D3151A313A2CCF.quest_desc: [
+		"The gōshō does not haggle in the stalls. The stalls send word to the gōshō."
+		"Your warehouses brim, your ledgers run deep, and lesser houses borrow at your word."
+		"You have mastered the way of commerce. Wealth bows to the one who commands its current."
+	]
+	quest.26FB7199484105D0.quest_subtitle: "Fill the coffers of the za"
+	quest.26FB7199484105D0.quest_desc: [
+		"The za, the trade guild, opens no doors to the empty-handed."
+		"Bring four blocks of jade to the guild's coffers and buy your place among its members."
+		"With the za behind you, the roads grow safer and the prices grow kinder."
+	]
+	quest.27C878805CC016C9.quest_subtitle: "Nyūbu, the entering of the peak"
+	quest.27C878805CC016C9.quest_desc: [
+		"The yamabushi do not pray in temples of the valley. Their dōjō is the bare ridge where the wind cuts and the snow does not melt."
+		"Climb to the jagged peaks. Stand where earth ends and let the mountain weigh your spirit."
+		"Only those who endure the high places may walk the way of Shugendō."
+	]
+	quest.2C451D1B90B72C81.quest_subtitle: "Climb the sacred peak of Fuji-san"
+	quest.2C451D1B90B72C81.quest_desc: [
+		"Fuji-san is the seat of the gods, a cone of fire and snow that all of Japan turns to face."
+		"The ascetic climbs it to burn away the soft flesh of comfort and temper the spirit on the cold summit."
+		"Set your feet on the slope and do not stop until the cinder cone is beneath you."
+		"The mountain stands near X 3860, Z -570 in the eastern provinces."
+	]
+	quest.2EE614E206C03B09.quest_subtitle: "Master of the turning works"
+	quest.2EE614E206C03B09.quest_desc: [
+		"You have walked the whole way of mechanisms."
+		"The precision mechanism, heart of every clever device, answers your hand."
+		"Stand now as a karakuri-shi, a master of the unseen gears."
+	]
+	quest.2EE776508BB46ABA.quest_subtitle: "Kenjutsu, the sword"
+	quest.2EE776508BB46ABA.quest_desc: [
+		"The katana is the soul of the samurai. Take up the blade, and the bow and the gun close to you forever."
+		"You receive your first katana and points toward the Way of the Sword."
+	]
+	quest.3095B4C374F68C84.quest_subtitle: "Words that bind the unseen"
+	quest.3095B4C374F68C84.quest_desc: [
+		"A mantra is not spoken. It is etched. Gather the blank scrolls on which the five elements will one day be bound."
+		"An onmyōji who cannot prepare his own scrolls is no onmyōji at all."
+		"Collect 4 Scroll."
+	]
+	quest.34B83A4F13BA6E7B.quest_subtitle: "Turn the blow aside and endure"
+	quest.34B83A4F13BA6E7B.quest_desc: [
+		"The ukedachi is the receiving stroke. To guard is not to flee; it is to take the blow on shield and steel and stand still standing."
+		"Soak the strikes meant to fell you. Iron over the heart, the wall unbroken."
+		"He who endures the first storm wins the field."
+	]
+	quest.350655219CA65817.quest_subtitle: "Lift your machines into the sky"
+	quest.350655219CA65817.quest_desc: [
+		"What turns upon the ground may yet rise above it."
+		"Bind levitite to propeller and bearing and ride the high winds."
+		"Take to the air, and carry your cannons where no road reaches."
+	]
+	quest.3AAAEDE083AAA0C8.quest_subtitle: "Master of the Blade"
+	quest.3AAAEDE083AAA0C8.quest_desc: [
+		"Spend your points and complete the Way of the Sword. When the final kata is yours, the realm will speak your name."
+		"Take up the Netherite Odachi, a blade fit for a legend."
+	]
+	quest.3B18878846A59F2C.quest_subtitle: "Branches of the one art (optional)"
+	quest.3B18878846A59F2C.quest_desc: [
+		"The art has many ryūha. Some onmyōji walk the road of flame, some of lightning, some of the void beyond Yomi's gate."
+		"Walk all three, if you dare carry their weight. The schools demand more blood than the trunk alone."
+		"Slay 20 blaze. Three points of insight and two elemental tomes await the one who studies every branch."
+	]
+	quest.3C289424C673F15E.quest_subtitle: "Bear the daimyō's seal upon your shop curtain"
+	quest.3C289424C673F15E.quest_desc: [
+		"To be named goyō shōnin, purveyor to the daimyō, is to clothe and arm a province."
+		"The castle's stores pass through your hands, and your noren bears the lord's own crest."
+		"No higher honor is given a merchant. Serve the daimyō well, and the realm is your market."
+	]
+	quest.3E33AA1296B7888D.quest_subtitle: "Loose your first arrow in anger"
+	quest.3E33AA1296B7888D.quest_desc: [
+		"The yumi is taller than the man who draws it, yet a child can bend it once shown the way."
+		"Take the bow to the bone-fields and let fly. Fifteen skeletons will teach the wrist what words cannot."
+		"Every master once stood here, quiver shaking, learning that the arrow goes where the eye rests."
+	]
+	quest.4099620EDE8071D2.quest_subtitle: "Beat the metal until it holds"
+	quest.4099620EDE8071D2.quest_desc: [
+		"Raw iron is brittle. Worked iron is strong."
+		"Press four blocks of iron, fold and temper them at the anvil."
+		"A smith who cannot temper iron has no business near steel."
+	]
+	quest.40CDFAC0D055F9DD.quest_subtitle: "Train as the mounted archers do"
+	quest.40CDFAC0D055F9DD.quest_desc: [
+		"Yabusame is the old discipline: to ride at a gallop and strike a target while the world streams past."
+		"First learn the moving shot on foot. Hunt the stray of the frozen wastes, fifteen in all."
+		"Loose between heartbeats, between hoofbeats. The cold ones do not wait."
+	]
+	quest.40E0215AEDFDE097.quest_subtitle: "Satori, the awakening of the mountain saint"
+	quest.40E0215AEDFDE097.quest_desc: [
+		"At the gate of Yomi the saint stands without fear, for he has burned away all that death could take. The spirits know his name and come when he calls."
+		"You have mastered the way of Shugendō."
+		"Receive the Dictionary of Spirits and the trinity gem, that the unseen world answer to your hand."
+	]
+	quest.413867063AC6431B.quest_subtitle: "Hōjutsu, the gun"
+	quest.413867063AC6431B.quest_desc: [
+		"The tanegashima matchlock remade the art of war. Take up the gun, and the blade and the bow close to you forever."
+		"You receive a hand cannon and points toward the Way of the Gun."
+	]
+	quest.44427792E21F7915.quest_subtitle: "Become the master of the kitchen"
+	quest.44427792E21F7915.quest_desc: [
+		"The itamae stands at the head of the kitchen, blade sure and dishes flawless. None question his table."
+		"Master the hōchō discipline and earn the rank of itamae."
+		"Complete the Hōchō mastery to claim the master's skillet."
+	]
+	quest.44B8C516D0F3C7C3.quest_subtitle: "Lay out the great table"
+	quest.44B8C516D0F3C7C3.quest_desc: [
+		"A victory deserves a feast. Set out fried rice, fish stew, and rolled rice so every guest leaves satisfied."
+		"Plate three hearty dishes worthy of the lord's hall."
+		"Provide Fried Rice, Fish Stew, and a Rice Roll."
+	]
+	quest.44F16C23A3DA5B25.quest_subtitle: "Practice without end"
+	quest.44F16C23A3DA5B25.quest_desc: [
+		"The blade is honed by repetition. Ten thousand cuts, and then ten thousand more."
+		"Strike down the skeletal archers that haunt the night."
+	]
+	quest.45F18ED78F2912B8.quest_subtitle: "Unlock the Mystic's Path"
+	quest.45F18ED78F2912B8.quest_desc: [
+		"Carry a book into the sacred places and find one who reads the unseen."
+		"Swear to walk the way of the hijiri. Then choose your tradition."
+	]
+	quest.464E038C5FDB4813.quest_subtitle: "The armorer's tribute in iron"
+	quest.464E038C5FDB4813.quest_desc: [
+		"A gunner stands exposed while he reloads. Plate of steel buys the seconds his hands need."
+		"Offer iron to the forge so the smith may beat out a breastplate worthy of the firing line."
+		"Surrender 4 blocks of iron and take up the ironclad's guard."
+	]
+	quest.468C0D1D8D675AED.quest_subtitle: "First blood"
+	quest.468C0D1D8D675AED.quest_desc: [
+		"Iaijutsu begins with the draw. Cut down the restless dead and learn the true weight of steel."
+	]
+	quest.47AAD499CE2EB5E2.quest_subtitle: "Odutsu, the great cannon of the daimyo"
+	quest.47AAD499CE2EB5E2.quest_desc: [
+		"Beyond the hand-gun lies the great cannon, the odutsu that breaks castle walls and turns a siege."
+		"Unlock the hojutsu capstone and the foundry's secrets of Create: Big Cannons are yours."
+		"Receive a starter kit of cannon-building parts and lay the first barrel of your own great gun."
+	]
+	quest.4A5BC21003370E88.quest_subtitle: "Master the mounted way"
+	quest.4A5BC21003370E88.quest_desc: [
+		"All the lane has led to this: the seat in the saddle, the arrow held loose, the target rushing near."
+		"Complete your bushi training and take up the yumi as a true mounted archer of the field."
+		"Ride, draw, loose. The way of the bow is finished, and only now begun."
+	]
+	quest.4B53F57FB4CB3163.quest_subtitle: "Raise the hall, lay the floor"
+	quest.4B53F57FB4CB3163.quest_desc: [
+		"Now the great work: the miyabushin, the temple-raising. Curved roof above, woven tatami below."
+		"Gather a haul of tatami blocks for the floor of the prayer hall."
+		"Reward: temple roofing, tatami matting, and two more daiku points."
+	]
+	quest.4EFFC3005AA1324C.quest_subtitle: "Black powder, the heart of the matchlock"
+	quest.4EFFC3005AA1324C.quest_desc: [
+		"The southern barbarians brought a strange black dust to Tanegashima, and with it a thunder no blade can answer."
+		"Before the gun, there is the kayaku. Gather the powder and learn its weight in your hand."
+		"Bring 16 gunpowder to begin the way of the hojutsushi."
+	]
+	quest.4F40F4F857297B6F.quest_subtitle: "Bring in a great mixed harvest beyond the rice alone"
+	quest.4F40F4F857297B6F.quest_desc: [
+		"A field of rice alone is a field one bad year from famine."
+		"The careful noka plants the dry beds too: cabbage (kyabetsu) and onion stand against the lean months."
+		"Gather a generous haul of both and prove the year a bountiful one."
+		"When the storehouse holds many crops, no single failed harvest can starve the village."
+	]
+	quest.51F51949184EFFD9.quest_subtitle: "Take up the kitchen blade"
+	quest.51F51949184EFFD9.quest_desc: [
+		"Before broth, before rice, there is the hōchō. A cook who cannot keep an edge cannot feed an army."
+		"Set a cutting board in your kitchen and learn to part flesh from bone with one clean stroke."
+		"Craft a Cutting Board to begin the way of the kitchen blade."
+	]
+	quest.56BFEC62F77679CB.quest_subtitle: "Fell the timber and read the grain"
+	quest.56BFEC62F77679CB.quest_desc: [
+		"Every temple begins in the forest. The miyadaiku does not buy his wood; he chooses each tree, judges its grain, and saws it true."
+		"Bring 32 logs to the workshop. Learn the saw before you learn the joint."
+		"Reward: a saw, and your first step on the daiku path."
+	]
+	quest.58F225EA499047C1.quest_subtitle: "Cast brass and let the works run themselves"
+	quest.58F225EA499047C1.quest_desc: [
+		"Smelt copper with zinc to win brass, the metal of finer engines."
+		"Bind it into casing and your contraptions gain memory and order."
+		"Craft brass casing and the age of jidou, true automation, begins."
+	]
+	quest.5A5AA48B04AFFCFB.quest_subtitle: "The yari held shoulder to shoulder"
+	quest.5A5AA48B04AFFCFB.quest_desc: [
+		"One spear is a stick. A hundred spears, set as one, are the yaribusuma, the spear wall that no charge breaks."
+		"Plant your feet. Level the point. Hold the line beside your fellows and meet what comes."
+		"Cut down the oni that test your wall. Let none through."
+	]
+	quest.5D124A2BDA7419AE.quest_subtitle: "Draw the dashi from bone"
+	quest.5D124A2BDA7419AE.quest_desc: [
+		"Every great dish rests on its broth. Simmer bone and water until the kettle gives up its strength."
+		"This dashi is the soul of the kitchen; from it come soups, stews, and noodle bowls fit for a daimyō."
+		"Cook a pot of Bone Broth."
+	]
+	quest.605BA284F0D1E0D5.quest_subtitle: "Reap the golden ears when the heads grow heavy"
+	quest.605BA284F0D1E0D5.quest_desc: [
+		"Summer has fattened the grain and bowed each stalk toward the water."
+		"Move down the rows with a steady hand and gather the harvested rice."
+		"A full granary is the truest wealth a village can hold."
+		"Bring in the crop before the autumn storms beat it into the mud."
+	]
+	quest.62282BC91365AAEC.quest_subtitle: "Onmyōdō, yin and yang"
+	quest.62282BC91365AAEC.quest_desc: [
+		"Read the stars, bind the spirits, and command the five elements. Choose Onmyōdō, and Shugendō closes to you."
+		"You receive a spell book and points toward the Way of Yin and Yang."
+	]
+	quest.6366E10C02C1998D.quest_subtitle: "Tie on your sandals and take to the road"
+	quest.6366E10C02C1998D.quest_desc: [
+		"The musha shugyō begins when a warrior leaves the safety of walls and lords behind."
+		"No master remains to teach you. The road itself is the dōjō now."
+		"Cut down a foe that bars the highway, then set out with your blade and your wits."
+		"Far shrines and far mountains await, and the self you carry there will not be the self that returns."
+	]
+	quest.6575034062A5DEA9.quest_subtitle: "Tanegashima no tatsujin, the lane's capstone"
+	quest.6575034062A5DEA9.quest_desc: [
+		"You have learned powder, nerve, and armor. Now the school names you a master gunner."
+		"Complete the bushi mastery to claim the founding parts of a true bronze cannon."
+	]
+	quest.678341C5F4B2C136.quest_subtitle: "The pilgrimage is fulfilled, the warrior is made"
+	quest.678341C5F4B2C136.quest_desc: [
+		"You have prayed at Itsukushima, climbed Fuji-san, and crossed the ashes of Osore-zan."
+		"You have shed blood on distant ground and returned with a steadier hand and a quieter heart."
+		"The musha shugyō is complete. The road has finished the work no master could."
+		"Take up the odachi of a true wanderer, and let the realm know a swordsman walks abroad."
+	]
+	quest.692DFA1DBFD8FEED.quest_subtitle: "The realm stirs"
+	quest.692DFA1DBFD8FEED.quest_desc: [
+		"You wake beneath an unfamiliar sky. The war-torn realm of 天空戦国 lies spread before you, its provinces at each other's throats."
+		"Gather your wits. A long road waits."
+	]
+	quest.6BA1EC560ADA71E4.quest_subtitle: "Walk the mountain of the dead"
+	quest.6BA1EC560ADA71E4.quest_desc: [
+		"Osore-zan, the Mountain of Dread, smokes with sulfur in the cold far north."
+		"Here the living come to speak with the departed across the river of the threshold."
+		"Light incense among the barren stones and prove your nerve where lesser men turn back."
+		"The grey mountain lies near X 6028, Z -7210 in the northern wastes."
+	]
+	quest.6DC05FE5A141146E.quest_subtitle: "Cut the first tooth of the gear"
+	quest.6DC05FE5A141146E.quest_desc: [
+		"The karakuri masters say all motion begins with the cogwheel."
+		"Crush andesite with iron in the mixer and shape the alloy into toothed wheels."
+		"Forge eight cogwheels and learn the rhythm of turning."
+	]
+	quest.6DE5D7D751E519B3.quest_subtitle: "Take up the shield and stand in the line"
+	quest.6DE5D7D751E519B3.quest_desc: [
+		"You are ashigaru. No great name, no fine horse. Only your two feet, the line beside you, and the wall you raise with your own arm."
+		"Take up a shield. The man who can be moved is already dead. The man who holds is the wall."
+		"Stand fast, and learn the heihō, the foot soldier's discipline."
+	]
+	quest.6E3F4A96B4B35B23.quest_subtitle: "Master the blast before you master the barrel"
+	quest.6E3F4A96B4B35B23.quest_desc: [
+		"The tanegashima matchlock is loud, slow, and unforgiving. A man who fears the flash will never hold the line."
+		"Steady your nerve against the creeper's blast, the closest thing these lands offer to a misfired charge."
+		"Fell 12 creepers and you will flinch no more when the powder roars."
+	]
+	quest.6FF891D55C9DF029.quest_subtitle: "The tome answers a steady hand"
+	quest.6FF891D55C9DF029.quest_desc: [
+		"Spellcraft is patience. The Ironbound Tome holds more than the copper journal ever could, but it answers only the disciplined caster."
+		"Prove your discipline against the endless dead, and the deeper trunk of the art opens to you."
+		"Slay 25 foes. With this milestone your training is ripe for the Grand Rite."
+	]
+	quest.701E52A08CD66693.quest_subtitle: "Strike like lightning"
+	quest.701E52A08CD66693.quest_desc: [
+		"A true swordsman ends a duel in a single breath. Hunt the crawling things and perfect the killing stroke."
+		"You earn the steel armor of a sworn retainer."
+	]
+	quest.746DD4C8DE72CA47.quest_subtitle: "Fire, water, wood, metal, earth"
+	quest.746DD4C8DE72CA47.quest_desc: [
+		"Gogyō: the five phases turn one into the next without end. To command fire, first you must stand in its breath unburned."
+		"The blaze of the lower world carries the phase of fire in its very bones. Read it, then end it."
+		"Slay 10 blaze. A scroll of true working is yours when the smoke clears."
+	]
+	quest.757A638874919E5B.quest_subtitle: "Open the Ways"
+	quest.757A638874919E5B.quest_desc: [
+		"Press your skills key and behold the Ways (道), the paths of mastery open to you."
+		"Quests pour points into your Ways. Spend them to grow in strength and craft."
+		"Take these first points into Heihō, the footsoldier's discipline, and feel how it is done."
+	]
+	quest.763B6CDC748018F4.quest_subtitle: "Master of five hundred koku, lord of the harvest"
+	quest.763B6CDC748018F4.quest_desc: [
+		"Five hundred koku of rice: enough to feed a village for a year and still pay the daimyo's due."
+		"You have walked every season, from the flooded planting to the heavy autumn sickle."
+		"The way of the rice field holds no more secrets from you."
+		"Take up this fine kama (hoe). You are now a master of the harvest, and the land answers to your hand."
+	]
+	quest.7855C54E2C1328AA.quest_subtitle: "Light the coals and raise the hammer"
+	quest.7855C54E2C1328AA.quest_desc: [
+		"Every blade begins as common iron and a hot fire."
+		"Smelt and gather sixteen iron ingots to stock the kaji's forge."
+		"From this iron the long road to the katana begins."
+	]
+	quest.785E916556B8C2A4.quest_subtitle: "The road forks"
+	quest.785E916556B8C2A4.quest_desc: [
+		"A warrior must find a calling. Some take up arms at a dōjō. Others seek a teacher in the high mountains."
+		"Set out, and decide who you will become."
+	]
+	quest.78E1EAED17CA2C81.quest_subtitle: "Yobiyose, the calling-near"
+	quest.78E1EAED17CA2C81.quest_desc: [
+		"The smoke of the goma opens the road between worlds. From the high air the tengu answer, restless spirits drawn to the chant."
+		"Strike down eight tengu and prove you can stand against what you summon."
+		"Bind their essence in the fragile soul-gem before it scatters."
+	]
+	quest.7DB050E1B6EFBD97.quest_subtitle: "Yamabushi, one who lies down in the mountains"
+	quest.7DB050E1B6EFBD97.quest_desc: [
+		"Hardship is the whole of the teaching. The ascetic walks until his feet bleed and fights until his arms fail, seeking the death of the lesser self."
+		"Cut down five-and-twenty foes upon the slopes."
+		"From the crucible take the spirit-attuned crystal, hardened as you are hardened."
+	]
+	quest.001B37D9696DD027.title: "石臼・The Millstone"
+	quest.0117C3FE4AA4482B.title: "弾丸・Round Shot"
+	quest.0194B39FEC1552BF.title: "河豚・The Pufferfish"
+	quest.01F883898569E208.title: "降魔・Exorcism"
+	quest.02A97E9A6EA10D6F.title: "味噌汁・Miso Soup"
+	quest.036A0E3F11362AE5.title: "漆器・Lacquerware"
+	quest.053664718D888599.title: "砲車・The Cannon Carriage"
+	quest.054EC5BAB94C23FC.title: "蓑・The Straw Rain-Cape"
+	quest.05B70CD693EB0C36.title: "緋緋色金の大刀・The Hihi'irokane Ōdachi"
+	quest.05D21C06A57E3CBE.title: "兜首・The Taking of Heads"
+	quest.087ECF07B1908063.title: "漆喰・The Shikkui Plaster"
+	quest.09566C08866EF790.title: "木を伐る・Fell the First Tree"
+	quest.09844067C9215F37.title: "御神酒・The Offered Sake"
+	quest.0A34BA56AE17FA76.title: "唐物・Goods from Abroad"
+	quest.0A9E1680284D7ED2.title: "剣聖の刃・Blade of the Kensei"
+	quest.0ADFB6534D8DEADE.title: "山賊退治・The Bandit Hunt"
+	quest.0B274E6DD87DD0A7.title: "兜・The Kabuto"
+	quest.0E290057B75B86F2.title: "野盗狩り・The Bandit Hunt"
+	quest.0FB6196D1542BF1B.title: "灯籠・The Stone Lantern"
+	quest.111DAED6577227DE.title: "杖・The Conduit Staff"
+	quest.12A81C2A41C30A2E.title: "西瓜・The Melon Patch"
+	quest.1466336DE9665086.title: "工房・The First Workshop"
+	quest.15C733FE66F0F370.title: "鉧・The Bloom"
+	quest.165BBCE9FA2321EA.title: "南蛮鋼・Nethersteel"
+	quest.16D45D5ED42F0A62.title: "野盗を討つ・Cut Down the Bandit"
+	quest.18BE867921047AC5.title: "千両箱・The Thousand-Ryō Chest"
+	quest.1A4BFF6DF127C5FF.title: "金貨・The Gold Koban"
+	quest.1BABE988E1BC865B.title: "墨・Ink and Brush"
+	quest.1C19A7D13FBAB074.title: "砂鉄・Satetsu"
+	quest.1C591DCE9A3FDD24.title: "遠郷・The Far Village"
+	quest.1C696378E17460EF.title: "中ぐり・The Cannon Drill"
+	quest.1D01C3BE962CEFBB.title: "商いを交わす・What a Deal"
+	quest.1D0CB6881B589C39.title: "笈・The Pilgrim's Pack"
+	quest.1D489C9CFDD9C73A.title: "蕃茄・The Tomato Trellis"
+	quest.1E73C1C3773B9EFF.title: "鞍を置く・Take to the Saddle"
+	quest.205BA663E19548C9.title: "軸受・The Bearing"
+	quest.20A82A3FBCFF9329.title: "薙刀・The Naginata"
+	quest.20BE23EB72E1B753.title: "玉鋼の槍・The Tamahagane Yari"
+	quest.229BEAF6B98B3606.title: "金棒・The Kanabō"
+	quest.240CD9AECEE2AC65.title: "矢羽根・Fletching the Shaft"
+	quest.278C4AF780BDC3CD.title: "石を割る・Break the Stone"
+	quest.2863A45C9396D584.title: "蔵・A Place for Things"
+	quest.28F21B6054511D63.title: "槍・The Ashigaru's Yari"
+	quest.291C9BCFB855DCC2.title: "漬物・The Pickles"
+	quest.2974D353AAC92E6D.title: "矢師の台・The Fletcher's Bench"
+	quest.29EDC4F849FFC757.title: "大豆・Beans for Miso"
+	quest.29F94703FCBD83D5.title: "的稽古・Target Practice"
+	quest.2A600A89322A7B6F.title: "神火・The Spiritfire"
+	quest.2AACB4605CB4EB43.title: "香・The Incense Offering"
+	quest.2B3A218C4142DE0A.title: "膳を整える・A Warm Meal"
+	quest.2BA19E928B00D575.title: "蒸気機関・The Steam Engine"
+	quest.2C1CBF69C0156A37.title: "魂の提灯・The Soul Lantern"
+	quest.2C8EACAE71FC1A02.title: "浪人・The Masterless"
+	quest.2D0520FDEBCAB54C.title: "寿司・Sushi"
+	quest.2DA8FF4557E10403.title: "黄泉比良坂・The Road to the Hells"
+	quest.2E2B811814A8E7FF.title: "短刀・The Tantō"
+	quest.2E35F79E7DB9BC08.title: "提灯・The Paper Lantern"
+	quest.2EA67EF02761E5C5.title: "胴・The Dō"
+	quest.2F654C03F7490860.title: "野伏の薙刀・The Nobushi's Naginata"
+	quest.3155D36FFB0CE885.title: "提灯・The Paper Lantern"
+	quest.319EF8A72650FB2A.title: "曼陀羅華・Demon's Dream"
+	quest.3209E2F5918580B2.title: "占い・Divination"
+	quest.324F8F95461CD654.title: "菅笠・The Farmer's Hat"
+	quest.332F2EB4BE388BF6.title: "玉鋼の鎧・The Tamahagane Dō"
+	quest.3380BB3BE3F6DD2E.title: "木刀・The Bokken"
+	quest.343195BB775F1775.title: "速射砲・The Autocannon"
+	quest.37BEED6D59538789.title: "濡女狩り・Hunting the Nure-onago"
+	quest.38912F3C516DD314.title: "得物・A Warrior's First Blade"
+	quest.39004B00A9D873F0.title: "鉄・First Iron"
+	quest.3957AD92BF8A0A66.title: "野伏狩り・The Outlaw Ashigaru"
+	quest.3A61F14D8B0AF22C.title: "帯と漏斗・Belt and Funnel"
+	quest.3A80D6E0D9E6069F.title: "霊視の眼鏡・The Spirit-Sight Goggles"
+	quest.3AB41662A8FE97A4.title: "写経・The Inscription Desk"
+	quest.3CDBD022A559BE47.title: "木刀・The Practice Blade"
+	quest.3D1AF6F2A709A2E4.title: "大根・The Daikon Bed"
+	quest.3D9D9C516C37BA96.title: "散弾・Grapeshot"
+	quest.3DB0527D3ACDA1DD.title: "玉鋼・Sand of the Gods"
+	quest.3E28D9A7AD8DEED6.title: "兜・The Kabuto"
+	quest.3ECCCECD32CF5242.title: "竈・The Hearth"
+	quest.3F28CE2889761B81.title: "機械腕・The Mechanical Arm"
+	quest.4007C4901922B145.title: "野伏狩り・Cull the Road Bandits"
+	quest.403325FA289F79F7.title: "鉄の包丁・The Iron Knife"
+	quest.4045E21B4F8E1F14.title: "銅銭・Copper Mon"
+	quest.41B9C473EB36A660.title: "飛子・The Roe Roll"
+	quest.42A623FAA62A1BF2.title: "結界・Kekkai, the Ward"
+	quest.433A1D5A2D723E64.title: "短刀・The Tantō"
+	quest.44B07BB811673B3E.title: "里を訪ねる・Reach the Village"
+	quest.4662CF036ED4F2A0.title: "弓作り・Crafting the Yumi"
+	quest.46B94E7C1D378BAE.title: "停車場・The Train Station"
+	quest.4757F9C22730A684.title: "混合機・The Mixer"
+	quest.47A0D4E397266336.title: "米・Koku of Rice"
+	quest.47AA48D60D98B24F.title: "武将討ち・The Warlord's Head"
+	quest.47C5147BD43E5E35.title: "白壁・The White Wall"
+	quest.4841EC81CE942099.title: "名弓・The Fine Bow"
+	quest.4A82A2B2CD6D0729.title: "酒・The Sake"
+	quest.4ACD678A0351D9B2.title: "祭壇・The Ritual Pedestal"
+	quest.4B406D180341D483.title: "雪女・The Snow Woman"
+	quest.4B52AFB06B0A7842.title: "旅の糧・Traveler's Rations"
+	quest.4BABE5E39BB9BECB.title: "草摺・The Kusazuri"
+	quest.4C1ABECB14B6E82C.title: "寝床・A Place to Rest"
+	quest.4CD369F3FFA38379.title: "足軽の試し・Soldier Against Soldier"
+	quest.4CD837DC2E5F700F.title: "鉄棒・The Tetsubō"
+	quest.4D6E881748F9D789.title: "調速機・The Speed Controller"
+	quest.4F2D2319D53992F0.title: "灯火・First Light"
+	quest.510292BB88FE1B87.title: "相輪・The Pagoda Finial"
+	quest.5199BD332A9CF44F.title: "猿神・The Monkey God"
+	quest.538FA0C2062E1A75.title: "素麺・Sōmen Noodles"
+	quest.542978B8D66D5A58.title: "丼・The Rice Bowl"
+	quest.546FEBE112B3F65A.title: "酒蔵・The Sake Brewery"
+	quest.54EB1E663B4C617C.title: "瓦・The Kawara Roof-Tiles"
+	quest.563DB9675A65C4B7.title: "霊力・Spirit Power"
+	quest.56653D704C013A0A.title: "矢矧ぎ・Make Your Arrows"
+	quest.577CB38BAB4FBB9D.title: "薬包・The Powder Charge"
+	quest.57A1085CB8C40528.title: "浪人との立合・Crossing Blades with Ronin"
+	quest.586A3BAF8BDDC1D2.title: "砕車・The Crushing Wheels"
+	quest.5937797A2F2FD603.title: "炉を据える・Set the Hearth"
+	quest.5A836459A6A49EC7.title: "木の道具・Wooden Tools"
+	quest.5BCABB20B5F766DD.title: "護符・The Blank Talisman"
+	quest.5C83B1E19AEC1A53.title: "鬼退治・The Oni Hunt"
+	quest.5C88635B6EAD3BBA.title: "米を集める・Gather the Rice"
+	quest.5D378088A5C78E6C.title: "一つ目入道・The One-Eyed Priest"
+	quest.5DA406D1618D7CF4.title: "鍛鋼・Folded Steel"
+	quest.5DB4D46BB6C42DBD.title: "炸裂弾・High-Explosive Shell"
+	quest.5E57399F1849A33F.title: "茶の湯・The Way of Tea"
+	quest.5EEA7607209F634C.title: "玉・The First Jade"
+	quest.5F656B28984E0295.title: "薙刀・The Naginata"
+	quest.60CBE8E538C6BB1C.title: "狙い・Take Aim"
+	quest.629B5A44434812CD.title: "茶・The Tea Road"
+	quest.62F549B8738D3589.title: "鬼斬り・Slay the Oni"
+	quest.64679EE0FB4D8755.title: "蓑笠・The Pilgrim's Straw Cape"
+	quest.647785830C5A632D.title: "指物・The Cabinetmaker"
+	quest.649E90816322FBD0.title: "南瓜・The Kabocha Field"
+	quest.64AA1D7AE6EE0FB9.title: "菅笠・The Pilgrim's Sedge Hat"
+	quest.65D04C7DB0C4C18D.title: "風箱・The Encased Fan"
+	quest.662F462DAA2C2D54.title: "梁・The Great Beam"
+	quest.666FD566630BDA2A.title: "遠矢比べ・The Sniper Duel"
+	quest.67171410B527E3D6.title: "鋳鉄・Cast Iron"
+	quest.67EC13CF571C6B40.title: "飯・A First Meal"
+	quest.69A1C7A7A0EF43A4.title: "箪笥・The Tansu Chest"
+	quest.69AFC58953A06A07.title: "道標を求めて・Find Your Bearings"
+	quest.69C87BBBE8659D07.title: "浪人との立合・Duel of the Ronin"
+	quest.6B2321B7148D4462.title: "薙刀・The Naginata"
+	quest.6DCA0375D3B77D23.title: "大店・The Great Shop"
+	quest.6DE1A30F996C9631.title: "機械鋸・The Mechanical Saw"
+	quest.6E02038099096C04.title: "緋緋色金の儀・Rite of Hihi'irokane"
+	quest.6E48ABB3E4446E66.title: "朱の筆・The Vermilion Brush"
+	quest.6EC525B38EE61882.title: "信管・The Fuze"
+	quest.6EECFB24AB749E40.title: "茶の湯・The Way of Tea"
+	quest.6FB99640AEA6A4F3.title: "関の鬼・The Oni at the Barrier"
+	quest.723B7CE73C53DCE9.title: "式神・Shikigami"
+	quest.73678F164D16CC4B.title: "鋼の砲身・The Steel Barrel"
+	quest.73E645BEF3877292.title: "鉄の大刀・The Iron Ōdachi"
+	quest.748A2ECECFA9DE9F.title: "堆肥・The Compost Heap"
+	quest.771C11A14F88C13F.title: "高嶺・The High Peaks"
+	quest.7727BE555EFE5F63.title: "天蓋・The Tengai Veil"
+	quest.774D6BD9E65CDB42.title: "傀儡・The Deployer"
+	quest.7856CECB8534BB74.title: "銭を稼ぐ・Coin of the Realm"
+	quest.7861BC586A1C8127.title: "試し撃ち・Proving the Gun"
+	quest.7AB46A101ABC054B.title: "玉鋼の大刀・The Tamahagane Ōdachi"
+	quest.7B3ED8957CA391F4.title: "漆塗り・Lacquered Timber"
+	quest.7B75A9D5E4564614.title: "天の市・The Sky Market"
+	quest.7C9856EDF6FE6474.title: "茶畑・The Tea Garden"
+	quest.7D6C01D89D685A99.title: "酒・Casks of Sake"
+	quest.7DD82B003B1563C7.title: "浪人・Duel the Rōnin"
+	quest.7DE55C5858CDD7C4.title: "炉を築く・Raise the Tatara"
+	quest.7F133A8B5ADFF59B.title: "組子・The Kumiko Lattice"
+	quest.7FDAE1E19453D6F9.title: "金棒・The Kanabō"
+	reward.009C40395F55F380.title: "1 Hijiri Point"
+	reward.00FD37AA331FFDF0.title: "1 Akinai Point"
+	reward.0183E48E95E0AE75.title: "1 Hijiri Point"
+	reward.01EAD970D0A9CE69.title: "1 Heiho Point"
+	reward.027945078591B940.title: "2 Bushi Points"
+	reward.02D7E4429A2F6C6B.title: "包丁の心得・A Cook's Point"
+	reward.048DA5C132D369FA.title: "1 Bushi Point"
+	reward.04A059CE43682B93.title: "1 Kaji Point"
+	reward.055413EFB325915E.title: "1 Heiho Point"
+	reward.05B35E5722C6BD12.title: "1 Heiho Point"
+	reward.05E6818C4D3C29A9.title: "1 Bushi Point"
+	reward.06B90F3DF5327740.title: "1 Hijiri Point"
+	reward.074E55B889069879.title: "2 Akinai Points"
+	reward.0750FC46ECC05A43.title: "1 Daiku Point"
+	reward.07FF77060CBD82B5.title: "1 Akinai Point"
+	reward.08B53FB0A65DE721.title: "1 Heiho Point"
+	reward.090A9966B6824C87.title: "1 Noka Point"
+	reward.0A27604C7504F69F.title: "1 Bushi Point"
+	reward.0AD0AD4F27333B3D.title: "1 Karakuri Point"
+	reward.0B15EF62A9A07190.title: "2 Akinai Points"
+	reward.0C3C2914131C0E8D.title: "1 Heiho Point"
+	reward.0D17BF4704680AAD.title: "1 Bushi Point"
+	reward.0E1C834823BD13E0.title: "1 Bushi Point"
+	reward.0F01357C85D05EE1.title: "1 Karakuri Point"
+	reward.10DCA4437D96C4A1.title: "2 Musha Points"
+	reward.12EA4241AB167AE8.title: "1 Bushi Point"
+	reward.13E2DA76CC6B941B.title: "1 Bushi Point"
+	reward.148C0EE4CF0D96D7.title: "2 Bushi Points"
+	reward.14F4B262008822B6.title: "2 Bushi Points"
+	reward.151BBD068372ED5C.title: "1 Kaji Point"
+	reward.162E3C05A68332DC.title: "2 Hijiri Points"
+	reward.16878596B91FD60E.title: "2 Musha Points"
+	reward.1894C95D980BEEFA.title: "1 Akinai Point"
+	reward.18CCFA7AD6160BE7.title: "1 Bushi Point"
+	reward.1A87618065E1A517.title: "1 Heiho Point"
+	reward.1A9041C5D47B8481.title: "1 Heiho Point"
+	reward.1A9DF866B07E857B.title: "1 Karakuri Point"
+	reward.1B031E4B72F68F5F.title: "2 Bushi Points"
+	reward.1C27ACE60EDD1F05.title: "1 Daiku Point"
+	reward.1C94D4747D3DCCBF.title: "1 Noka Point"
+	reward.1D7914A4084D4985.title: "1 Musha Point"
+	reward.1DA6365535AAF2FD.title: "1 Musha Point"
+	reward.1E17C747A8C35FDA.title: "1 Bushi Point"
+	reward.1EA412C3C75898A6.title: "1 Hijiri Point"
+	reward.1EEC4E94CD35CA58.title: "1 Noka Point"
+	reward.204EA05765764863.title: "1 Bushi Point"
+	reward.205DE5640C862D3C.title: "包丁の心得・A Cook's Point"
+	reward.22AA41714D8DF988.title: "1 Daiku Point"
+	reward.22D495B9E5DF8948.title: "包丁の心得・A Cook's Point"
+	reward.239EF477F5CCD691.title: "1 Daiku Point"
+	reward.24E70D044167179E.title: "1 Hijiri Point"
+	reward.25216EDA1E20540A.title: "1 Bushi Point"
+	reward.254C3A5A22CCAE75.title: "1 Daiku Point"
+	reward.2627BE3085DC8FD1.title: "包丁の心得・A Cook's Point"
+	reward.280DC2C46CE1D3A3.title: "1 Hijiri Point"
+	reward.283F4D528A1442D0.title: "2 Noka Points"
+	reward.28E971DBD7A4DB05.title: "1 Bushi Point"
+	reward.2ACA233C564600B5.title: "1 Daiku Point"
+	reward.2BFB700FCDDC073F.title: "1 Akinai Point"
+	reward.2E838693CCCF61AD.title: "2 Daiku Points"
+	reward.304173B8C3B1A8D8.title: "1 Hijiri Point"
+	reward.3045534778EAFECF.title: "1 Bushi Point"
+	reward.32197A6D90DC9145.title: "1 Hijiri Point"
+	reward.346E8281C5229753.title: "1 Bushi Point"
+	reward.349D9DA9CD2B4A9A.title: "2 Bushi Points"
+	reward.36D63BC2A2D0C215.title: "1 Hijiri Point"
+	reward.3794BB93B3DD98B6.title: "1 Bushi Point"
+	reward.37BEE7281E873402.title: "1 Karakuri Point"
+	reward.37C9A9BA5306DD89.title: "1 Akinai Point"
+	reward.3841433AC0B4D6C8.title: "1 Heiho Point"
+	reward.39E1F712192B71BD.title: "包丁の心得・A Cook's Point"
+	reward.3B08E06AB7974DC1.title: "1 Musha Point"
+	reward.3BFAC8CCEC7C4FAB.title: "2 Hijiri Points"
+	reward.3C4F86057253B816.title: "1 Hijiri Point"
+	reward.3E7C90C843854BF8.title: "1 Noka Point"
+	reward.3FBD22C9B294C9C7.title: "1 Hijiri Point"
+	reward.4081B3F84CB0F66F.title: "1 Heiho Point"
+	reward.412967F8760798D1.title: "1 Hijiri Point"
+	reward.415857D1A391980D.title: "1 Bushi Point"
+	reward.431FAF46DFABB76D.title: "1 Heiho Point"
+	reward.442A7F833CB826FB.title: "1 Bushi Point"
+	reward.45622526264A5055.title: "1 Hijiri Point"
+	reward.45B5213EBFE52641.title: "1 Kaji Point"
+	reward.46E37ADAA5275F00.title: "1 Kaji Point"
+	reward.46F53391FEA8AEF6.title: "1 Noka Point"
+	reward.46F7A0121F37D0A7.title: "1 Heiho Point"
+	reward.494C69307A5D70CE.title: "1 Hijiri Point"
+	reward.49DB8BC077F5C4D1.title: "1 Bushi Point"
+	reward.4A3589851D993219.title: "1 Heiho Point"
+	reward.4AB70F0D448993A4.title: "1 Noka Point"
+	reward.4AF39C2B610B6A54.title: "1 Heiho Point"
+	reward.4B2E91783E4F820C.title: "1 Bushi Point"
+	reward.4B320BC29B4D2B3F.title: "1 Heiho Point"
+	reward.4B4C87775624321B.title: "1 Kaji Point"
+	reward.4BF534BA39FC39AE.title: "1 Hijiri Point"
+	reward.4BF81BDA28DDB921.title: "1 Bushi Point"
+	reward.4C63AA2839467426.title: "1 Hijiri Point"
+	reward.4EF1E1D6DC3C6478.title: "1 Bushi Point"
+	reward.4F14BF527DC7B74E.title: "1 Bushi Point"
+	reward.4FB3150A8696AEC2.title: "1 Noka Point"
+	reward.5150B3380D3E55F5.title: "2 Hijiri Points"
+	reward.5276E65AD8D4BB9C.title: "1 Bushi Point"
+	reward.52C74663E667A156.title: "1 Heiho Point"
+	reward.5419134432C57A6D.title: "1 Bushi Point"
+	reward.54690F76EC02FFDB.title: "1 Kaji Point"
+	reward.55153F13862F66A5.title: "1 Akinai Point"
+	reward.5528231583DF9321.title: "板前の心得・A Cook's Two Points"
+	reward.559C39D0C285D0A5.title: "1 Bushi Point"
+	reward.564BEEC8ABCF9594.title: "1 Karakuri Point"
+	reward.5670FBED68A406C0.title: "1 Heiho Point"
+	reward.56C839223C7125D1.title: "2 Kaji Points"
+	reward.578F818D8754CA1B.title: "1 Karakuri Point"
+	reward.57EA229788DC787F.title: "2 Hijiri Points"
+	reward.58CCED2D0A999C71.title: "1 Musha Point"
+	reward.5A330B53953D50D2.title: "1 Daiku Point"
+	reward.5AE9DE1A992F13DB.title: "1 Hijiri Point"
+	reward.5C4BB6FE5F1C3D40.title: "1 Daiku Point"
+	reward.5C85D8D484F518DD.title: "1 Karakuri Point"
+	reward.5CB1DA1817446B6A.title: "1 Kaji Point"
+	reward.5CC3AFCD073EB529.title: "1 Kaji Point"
+	reward.5D3D669C58943548.title: "包丁の心得・A Cook's Point"
+	reward.5E61AEBAE1EB7361.title: "1 Musha Point"
+	reward.5EAB8308D13751E9.title: "1 Heiho Point"
+	reward.5FF278ACCA1E5843.title: "1 Heiho Point"
+	reward.6009F77DA12E5123.title: "2 Akinai Points"
+	reward.614CDF3CE40B8F7E.title: "2 Bushi Points"
+	reward.62D4BD37AAC1B2D8.title: "包丁の心得・A Cook's Point"
+	reward.62E9454322F78354.title: "1 Bushi Point"
+	reward.638B7DE3E476709C.title: "1 Musha Point"
+	reward.63A4CC01F0FE5A37.title: "1 Bushi Point"
+	reward.63C66D4DBD4F283D.title: "1 Heiho Point"
+	reward.643F47D5FFE4C904.title: "1 Bushi Point"
+	reward.649C9992D3FEACB9.title: "1 Heiho Point"
+	reward.64AE860E1D8BE975.title: "1 Noka Point"
+	reward.65CC3AAE2443E1C8.title: "板前の心得・A Cook's Two Points"
+	reward.65D5EEC4319327A7.title: "1 Heiho Point"
+	reward.664C1C8149867C6E.title: "1 Bushi Point"
+	reward.68DEFF8D7CD4DD3E.title: "1 Bushi Point"
+	reward.692D4F8AA5E1E4F0.title: "1 Bushi Point"
+	reward.694F487B6D75CCB7.title: "1 Bushi Point"
+	reward.6954734E7EDB11D4.title: "1 Karakuri Point"
+	reward.6954E17644849903.title: "1 Noka Point"
+	reward.699C8ED64F8EF0A0.title: "1 Hijiri Point"
+	reward.6CB05E5189678EDA.title: "1 Karakuri Point"
+	reward.6F55BA4BB8C9C711.title: "1 Heiho Point"
+	reward.6F5F0BE960913A2F.title: "1 Bushi Point"
+	reward.6F61E2DFBF298F8A.title: "1 Daiku Point"
+	reward.6F9A04CA09CFC294.title: "包丁の心得・A Cook's Point"
+	reward.6FE5F46F1897B0C7.title: "1 Hijiri Point"
+	reward.70EFC2BF70118FCA.title: "2 Hijiri Points"
+	reward.721571F22CFE8326.title: "1 Bushi Point"
+	reward.736C75682BFA3353.title: "1 Kaji Point"
+	reward.7678085A19304194.title: "1 Karakuri Point"
+	reward.76845E8046A4FF7A.title: "1 Kaji Point"
+	reward.78435BF81863404D.title: "2 Hijiri Points"
+	reward.787FC2D537F14373.title: "包丁の心得・A Cook's Point"
+	reward.7902EE4E13B4527E.title: "1 Musha Point"
+	reward.7937DD0FB1447FA9.title: "1 Akinai Point"
+	reward.799355807677336C.title: "1 Hijiri Point"
+	reward.7ABC4C1D6F650E02.title: "1 Karakuri Point"
+	reward.7C3366D135A96D03.title: "1 Musha Point"
+	reward.7D37657B7103B73E.title: "1 Karakuri Point"
+	reward.7D85C7F1504D936E.title: "1 Bushi Point"
+	reward.7E2609CB2B21343E.title: "1 Hijiri Point"
+	reward.7EE955D71B9853C5.title: "1 Noka Point"
+	reward.7F6694139401148A.title: "1 Heiho Point"
+	reward.7FC29922BD2FDDBD.title: "1 Daiku Point"
+	quest.001B37D9696DD027.quest_subtitle: "Grind stone to powder with the turning wheel"
+	quest.001B37D9696DD027.quest_desc: [
+		"The simplest of mills needs no casing, only a wheel and a steady turn."
+		"Set the millstone spinning and let it crush ore and grain to meal."
+		"From dust comes flour, and from flour, bread for the long campaign."
+	]
+	quest.0117C3FE4AA4482B.quest_subtitle: "Cast the iron balls the cannon spits"
+	quest.0117C3FE4AA4482B.quest_desc: [
+		"Powder is only half the shot. Before the gun can answer, the foundry must pour the iron round that flies."
+		"Cast shot balls in the mould and stack them by the breech."
+		"Forge 16 shot balls, the plain round shot of every gunline."
+	]
+	quest.0194B39FEC1552BF.quest_subtitle: "Court death for the finest cut"
+	quest.0194B39FEC1552BF.quest_desc: [
+		"Fugu — the pufferfish whose flesh is prized and whose poison kills. Only a steady hand and a trusted blade may serve it."
+		"To plate the pufferfish roll is to stake your reputation, and the diner's life, on your skill."
+		"Prepare 2 Pufferfish Rolls."
+	]
+	quest.01F883898569E208.quest_subtitle: "Put the rival callers in the ground"
+	quest.01F883898569E208.quest_desc: [
+		"Not every wielder of the dead serves the realm. The necromancer raises corpses and bends them to spite."
+		"Hunt down the grave-callers and scatter their puppets, twelve dark masters laid low."
+		"Slay 12 Necromancer."
+	]
+	quest.02A97E9A6EA10D6F.quest_subtitle: "Ladle the everyday bowl"
+	quest.02A97E9A6EA10D6F.quest_desc: [
+		"Fermented bean paste dissolved in warm dashi — miso soup is the quiet companion to every meal in Japan."
+		"Humble and warming, it sits beside the rice from a peasant's hut to a daimyō's hall."
+		"Prepare 2 bowls of Miso Soup."
+	]
+	quest.036A0E3F11362AE5.quest_subtitle: "Stack the black-and-gold lacquer"
+	quest.036A0E3F11362AE5.quest_desc: [
+		"Layer upon patient layer the urushi sap is laid, until wood gleams like polished stone."
+		"Gather sixteen lengths of lacquered keyaki, the luxury good that foreign ships cross oceans to buy."
+	]
+	quest.053664718D888599.quest_subtitle: "Put the gun on wheels"
+	quest.053664718D888599.quest_desc: [
+		"A cannon rooted to one spot is a target. Mount it on a carriage and the gun rolls where the battle turns."
+		"The carriage bears the recoil and lets a crew wheel the great barrel into line."
+		"Build a Cannon Carriage and take your artillery to the field."
+	]
+	quest.054EC5BAB94C23FC.quest_subtitle: "Don the mino to shed the mountain rains"
+	quest.054EC5BAB94C23FC.quest_desc: [
+		"Where the hat ends, the mino begins — a cape of layered straw that turns the cold rain from your shoulders."
+		"Hat and cape together make the silhouette of the wanderer, hunched against the weather of a hundred ri."
+	]
+	quest.05B70CD693EB0C36.quest_subtitle: "Forge the legendary blade of scarlet metal"
+	quest.05B70CD693EB0C36.quest_desc: [
+		"Hihi'irokane, the scarlet metal of myth, surrenders to none but the master smith."
+		"Fold it into the tamahagane and forge the ōdachi that legends are written about."
+		"This is the smith's masterpiece — a blade that will outlive its maker and his name."
+	]
+	quest.05D21C06A57E3CBE.quest_subtitle: "Fell a mounted man with a footsoldier's spear"
+	quest.05D21C06A57E3CBE.quest_desc: [
+		"Kabutokubi, the helmeted head, was the prize that raised a poor ashigaru's name above his birth."
+		"A samurai is worth ten footsoldiers; bring him down with the spear-wall and the reward is yours."
+		"Take the heads of eight samurai, and let the captains learn your name."
+	]
+	quest.087ECF07B1908063.quest_subtitle: "Slake the lime, smooth the wall"
+	quest.087ECF07B1908063.quest_desc: [
+		"Shikkui is lime plaster burnished to a soft white sheen, cool in summer and proof against fire."
+		"Mix and trowel sakura shikkui across the timber frame until the surface is smooth as still water."
+		"Reward: extra shikkui for the rooms still bare."
+	]
+	quest.09566C08866EF790.quest_subtitle: "Take up the axe and gather your first wood"
+	quest.09566C08866EF790.quest_desc: [
+		"Every road in this realm begins with the forest."
+		"Fell a few trees and gather their logs; from wood come the workbench, the haft, and the home."
+		"Even a daimyō's castle began as a single felled tree."
+	]
+	quest.09844067C9215F37.quest_subtitle: "Pour the first cup for the gods of the harvest"
+	quest.09844067C9215F37.quest_desc: [
+		"The first sake of the season is omiki, poured at the shrine for the kami who guard the fields."
+		"Brew and bottle a good store of rice wine; what the gods do not drink, the village shares at festival."
+		"From a single grain of rice to a cup raised in thanks, the year has come full circle."
+		"Reward: fermented sake, stronger for the waiting."
+	]
+	quest.0A34BA56AE17FA76.quest_subtitle: "Hoard gold to barter beyond the border"
+	quest.0A34BA56AE17FA76.quest_desc: [
+		"Karamono, goods from abroad, pass through hands that take no copper mon, only bright gold."
+		"Amass thirty-two ingots to barter with the keneō who trade across the burning frontier."
+	]
+	quest.0A9E1680284D7ED2.quest_subtitle: "The sword-saint's edge"
+	quest.0A9E1680284D7ED2.quest_desc: [
+		"The kensei, the sword-saint, carries a blade folded by a master's hand and quenched in a master's patience. To hold it is to inherit a lineage."
+		"Forge the Blade of the Kensei, the truest katana these provinces can yield."
+		"Two points and a measure of jewel steel reward the one who reaches this peak."
+	]
+	quest.0ADFB6534D8DEADE.quest_subtitle: "Clear the hills of the robber bands"
+	quest.0ADFB6534D8DEADE.quest_desc: [
+		"The sanzoku descend from the hills when the rice is heavy and the guard is thin."
+		"Drive twenty bandits from the province with the bow before they reach the granaries."
+		"A village remembers the archer who kept the harvest in their bowls."
+	]
+	quest.0B274E6DD87DD0A7.quest_subtitle: "Crown the warrior's head"
+	quest.0B274E6DD87DD0A7.quest_desc: [
+		"The kabuto is more than iron over the skull; it is the face a samurai shows to death. Lacquered, crested, and fearsome."
+		"Forge the Daimyo Kabuto and take your place among the armored lords."
+		"A matching kusazuri is given to gird your stride."
+	]
+	quest.0E290057B75B86F2.quest_subtitle: "Clear the hills of brigands"
+	quest.0E290057B75B86F2.quest_desc: [
+		"Where law is thin, bandits thicken. They take the harvest the daimyō does not, and leave less behind."
+		"The ashigaru's first duty in peace is the same as in war: hold the ground and keep the weak unharmed."
+		"Hunt down fifteen bandits and make the roads safe."
+	]
+	quest.0FB6196D1542BF1B.quest_subtitle: "A standing lantern for the garden path"
+	quest.0FB6196D1542BF1B.quest_desc: [
+		"The tōrō stands silent along the approach, its single flame marking the way to the shrine."
+		"Set pagoda lanterns of tiered stone to light the garden and the temple precinct."
+		"Reward: a white pagoda lantern, and a daiku point."
+	]
+	quest.111DAED6577227DE.quest_subtitle: "Channel the fire through pyrium"
+	quest.111DAED6577227DE.quest_desc: [
+		"A staff is a spine for the spell, focusing what the bare hand would let scatter."
+		"Take up the Pyrium Staff, forged of fire-touched metal, and let your flame strike true and far."
+		"Obtain the Pyrium Staff."
+	]
+	quest.12A81C2A41C30A2E.quest_subtitle: "Raise the prized melon in the summer sun"
+	quest.12A81C2A41C30A2E.quest_desc: [
+		"The suika swells fat and sweet on the vine through the long summer days."
+		"Tend the patch and cut the ripe fruit, prized above all in the heat of the seventh month."
+		"A perfect melon is a gift fit for a lord; lesser ones cool the field hands at noon."
+	]
+	quest.1466336DE9665086.quest_subtitle: "Lay out a bench to work upon"
+	quest.1466336DE9665086.quest_desc: [
+		"Bare hands shape little. A craftsman needs a place to work."
+		"Set your planks into a crafting table, and the patterns of a thousand tools open to you."
+	]
+	quest.15C733FE66F0F370.quest_subtitle: "Pull the glowing kera from the tatara's broken walls"
+	quest.15C733FE66F0F370.quest_desc: [
+		"The tatara burns for three days and nights, swallowing satetsu and charcoal."
+		"When the clay furnace is broken open, the kera — the raw bloom of tamahagane — is dragged from the embers."
+		"Win six lumps of raw tamahagane; the living steel still sleeps within."
+	]
+	quest.165BBCE9FA2321EA.quest_subtitle: "The southern barbarians' hardest steel"
+	quest.165BBCE9FA2321EA.quest_desc: [
+		"Beyond steel lies nethersteel, quenched in the fires of the lower world. No charge yet packed has split a barrel forged of it."
+		"This is the metal of siege guns and the heaviest mortars, won only by those who brave the nether's heat."
+		"Smith 8 nethersteel ingots for the guns that break castle walls."
+	]
+	quest.16D45D5ED42F0A62.quest_subtitle: "Clear the highways of brigands"
+	quest.16D45D5ED42F0A62.quest_desc: [
+		"The roads of a divided land crawl with masterless men who take by force what they will not earn."
+		"Put down the bandits who prey on travelers, and let honest folk pass in peace."
+		"Slay 5 Bandits."
+	]
+	quest.18BE867921047AC5.quest_subtitle: "Pile six blocks of gold in the strongbox"
+	quest.18BE867921047AC5.quest_desc: [
+		"The senryōbako, the thousand-ryō chest, is the strongbox of the truly rich, bound in iron and never opened lightly."
+		"Stack six blocks of gold within and let your house be counted among the wealthy of the realm."
+	]
+	quest.1A4BFF6DF127C5FF.quest_subtitle: "Weigh sixteen koban of bright gold"
+	quest.1A4BFF6DF127C5FF.quest_desc: [
+		"Above the copper mon gleams the koban, an oval of pressed gold that buys a season's rice."
+		"Gather sixteen and you carry the weight of a samurai's stipend in a single pouch."
+	]
+	quest.1BABE988E1BC865B.quest_subtitle: "Grind the stick, wet the stone"
+	quest.1BABE988E1BC865B.quest_desc: [
+		"Cheap ink fades, and a fading talisman is a lie told to the spirits. The careful caster grinds finer ink for finer work."
+		"Refine your craft until rare ink flows black and unbroken from the brush."
+		"Gather 4 Rare Ink."
+	]
+	quest.1C19A7D13FBAB074.quest_subtitle: "Gather the black river-sand that feeds the tatara"
+	quest.1C19A7D13FBAB074.quest_desc: [
+		"Before steel there is sand — satetsu, the iron-bearing grains washed down from the mountains."
+		"Pan sixteen measures of the dark iron sand from riverbeds and dunes."
+		"From this black grit the tatara furnace draws all of its iron."
+	]
+	quest.1C591DCE9A3FDD24.quest_subtitle: "Reach a village far from where you began"
+	quest.1C591DCE9A3FDD24.quest_desc: [
+		"The shugyō is measured in distance as much as in blood."
+		"Walk until the dialect changes and the faces are strangers' — stand in the streets of a village far from your own."
+		"Take a blank map at the headman's gate and begin to chart the road behind you."
+	]
+	quest.1C696378E17460EF.quest_subtitle: "Bore the barrel true with Create's power"
+	quest.1C696378E17460EF.quest_desc: [
+		"A cast barrel is solid metal until the drill carves its throat. Set the cannon drill against the bore and let the kinetics of Create grind it smooth."
+		"An untrue bore sends the shot wild; a clean one sends it where the eye points."
+		"Craft a Cannon Drill and bore your barrels to a mirror finish."
+	]
+	quest.1D01C3BE962CEFBB.quest_subtitle: "Open the ledger of commerce"
+	quest.1D01C3BE962CEFBB.quest_desc: [
+		"The merchant bows low, but his abacus rules the province as surely as any sword."
+		"Strike a bargain with a villager and learn how jade changes hands in the wider realm."
+		"Trade with a villager."
+	]
+	quest.1D0CB6881B589C39.quest_subtitle: "Oi, the box-pack of the wandering ascetic"
+	quest.1D0CB6881B589C39.quest_desc: [
+		"Upon his back the yamabushi bears the oi, a woven pack that carries altar, scroll, and provision across a hundred mountains."
+		"Weave the basket-pack and shoulder the whole of your practice."
+		"What a man can carry, a man can never lose."
+	]
+	quest.1D489C9CFDD9C73A.quest_subtitle: "Train the southern vine up its bamboo poles"
+	quest.1D489C9CFDD9C73A.quest_desc: [
+		"The tomato came late on the southern barbarians' ships, but it has found a home in the warm beds."
+		"Tie the heavy vines to bamboo stakes and let the red fruit ripen in the sun."
+		"Gather a generous picking; the bamboo you cut already stands ready as its trellis."
+	]
+	quest.1E73C1C3773B9EFF.quest_subtitle: "Outpace the marching column"
+	quest.1E73C1C3773B9EFF.quest_desc: [
+		"The messenger who rides arrives before the army that walks."
+		"Lay a saddle across a willing mount, and the distances of the realm shrink beneath the hooves."
+		"Obtain a Saddle."
+	]
+	quest.205BA663E19548C9.quest_subtitle: "Set a whole structure turning"
+	quest.205BA663E19548C9.quest_desc: [
+		"A shaft turns a wheel, but a bearing turns a world."
+		"Anchor a mechanical bearing, glue your build to its face, and watch it revolve as one body."
+		"Windmills, gates, and rotating halls all begin here."
+	]
+	quest.20A82A3FBCFF9329.quest_subtitle: "The blade that sweeps the whole rank"
+	quest.20A82A3FBCFF9329.quest_desc: [
+		"Where the yari thrusts, the naginata reaps. Its curved blade is swung in wide arcs that cut the legs from a charge."
+		"Sōhei monks and temple guards favored it; a single sweep clears a doorway or a horse's path."
+		"Shape a naginata and learn the cut that answers the thrust."
+	]
+	quest.20BE23EB72E1B753.quest_subtitle: "Forge the point in folded steel"
+	quest.20BE23EB72E1B753.quest_desc: [
+		"Wood splinters; tamahagane endures. The smith folds the steel until the grain runs true and the edge will not roll."
+		"Fit a head of tamahagane to your shaft. The same length, the same stance, but now the point bites through lacquer and bone alike."
+	]
+	quest.229BEAF6B98B3606.quest_subtitle: "The studded club of legend"
+	quest.229BEAF6B98B3606.quest_desc: [
+		"Oni carry the kanabō, and so do the men brave enough to fight as oni do. Iron-studded, unsubtle, and crushing."
+		"Forge a Kanabō. There is no parry for a weapon that needs no edge."
+	]
+	quest.240CD9AECEE2AC65.quest_subtitle: "Gather the feathers that steer the flight"
+	quest.240CD9AECEE2AC65.quest_desc: [
+		"An arrow without feathers tumbles like a falling leaf and strikes nothing."
+		"Take sixteen feathers from the birds of the field; these are the rudder of every shaft."
+		"The fletcher knows: it is the tail, not the head, that decides where the arrow goes."
+	]
+	quest.278C4AF780BDC3CD.quest_subtitle: "Descend and break the living rock"
+	quest.278C4AF780BDC3CD.quest_desc: [
+		"Beneath the soil waits stone, patient and plentiful."
+		"Mine cobble and bind it to a haft. Stone tools bite deeper and tire less than wood."
+		"Now the earth begins to answer you."
+	]
+	quest.2863A45C9396D584.quest_subtitle: "Build a chest to keep what you gather"
+	quest.2863A45C9396D584.quest_desc: [
+		"A warrior who carries everything carries nothing well."
+		"Craft a chest and store your goods safely. An ordered storehouse is the start of a settled life."
+	]
+	quest.28F21B6054511D63.quest_subtitle: "Sharpen the spear of the common soldier"
+	quest.28F21B6054511D63.quest_desc: [
+		"The yari is the first weapon set in an ashigaru's hands, and the last he sets down."
+		"A shaft of wood, a point of will. Reach is the poor man's armor; keep the foe at the spear's length and he can never touch you."
+		"Cut and bind a wooden yari, and learn why a wall of points turns away horses."
+	]
+	quest.291C9BCFB855DCC2.quest_subtitle: "Preserve the garden in salt"
+	quest.291C9BCFB855DCC2.quest_desc: [
+		"Tsukemono — vegetables pressed in salt and rice bran until sharp and crisp. They keep through winter and wake a tired palate."
+		"A side of pickles turns plain rice into a meal a soldier will remember."
+		"Make 4 Pickles."
+	]
+	quest.2974D353AAC92E6D.quest_subtitle: "Raise the bench of the arrow-smith"
+	quest.2974D353AAC92E6D.quest_desc: [
+		"The yashi, the arrow-maker, does not work upon his knee."
+		"Set up the fletching table, the proper bench where heads are seated and shafts run true."
+		"With a craftsman's station, the making of arrows becomes a discipline, not a chore."
+	]
+	quest.29EDC4F849FFC757.quest_subtitle: "Gather the daizu, the bean behind every broth"
+	quest.29EDC4F849FFC757.quest_desc: [
+		"The daizu, the soybean, is the quiet foundation of the whole kitchen."
+		"From it come miso, shōyu, tofu, and nattō; without it the pot stands empty."
+		"Gather a basket of beans and set them by to ferment into miso."
+		"Reward: a bowl of miso soup, the morning comfort of every home."
+	]
+	quest.29F94703FCBD83D5.quest_subtitle: "Set the mato upon the range"
+	quest.29F94703FCBD83D5.quest_desc: [
+		"The mato, the straw target, suffers ten thousand arrows without complaint."
+		"Raise a target block upon your range and drill the draw until it is wordless habit."
+		"Skill is not won in battle; it is only spent there. It is won here, at the practice butt."
+	]
+	quest.2A600A89322A7B6F.quest_subtitle: "Shinka, the cold flame of the other world"
+	quest.2A600A89322A7B6F.quest_desc: [
+		"There is a fire that does not warm and does not consume, blue as a drowned star. The adept kindles it to purify what iron cannot touch."
+		"Light the spiritfire and pass your offerings through its strange and patient burning."
+		"Receive white altar candles to carry its light into the dark halls."
+	]
+	quest.2AACB4605CB4EB43.quest_subtitle: "Kō, the smoke that carries the prayer"
+	quest.2AACB4605CB4EB43.quest_desc: [
+		"Kindle the incense before the rock-cut shrine, that its thin thread of smoke may climb to where the voice cannot reach."
+		"Gather eight bundles of incense and lay them upon the altar stone."
+		"The kami lean close to the fragrance and listen."
+	]
+	quest.2B3A218C4142DE0A.quest_subtitle: "Turn the harvest into strength"
+	quest.2B3A218C4142DE0A.quest_desc: [
+		"Raw grain is mere promise. Set the pot over the fire and let the steam rise."
+		"A bowl of cooked rice steadies the hand and clears the mind for whatever the day demands."
+		"Prepare 4 Cooked Rice."
+	]
+	quest.2BA19E928B00D575.quest_subtitle: "Boil water into boundless power"
+	quest.2BA19E928B00D575.quest_desc: [
+		"When river and windmill no longer suffice, raise steam."
+		"Fire a boiler beneath a steam engine and let pressure drive your greatest works."
+		"This is the heart that beats beneath an empire of brass."
+	]
+	quest.2C1CBF69C0156A37.quest_subtitle: "Tama-chōchin, the lamp for wandering souls"
+	quest.2C1CBF69C0156A37.quest_desc: [
+		"On the night roads the dead lose their way. The ascetic hangs a soul lantern at the trailhead, a small blue flame to call them home."
+		"Craft the soul paper lantern and set it burning against the dark."
+		"Where its light falls, no lost spirit walks alone."
+	]
+	quest.2C8EACAE71FC1A02.quest_subtitle: "Cut down the lordless swords that prey on the road"
+	quest.2C8EACAE71FC1A02.quest_desc: [
+		"A rōnin is a samurai whose lord has fallen, his stipend gone, his oath dissolved. Some keep their honor; many turn to the road."
+		"These masterless blades waylay villages and travelers alike. The discipline of the line has no place for them."
+		"Drive ten rōnin from the province."
+	]
+	quest.2D0520FDEBCAB54C.quest_subtitle: "Marry vinegared rice and fish"
+	quest.2D0520FDEBCAB54C.quest_desc: [
+		"Vinegared rice pressed beneath a sliver of fish — sushi is precision made edible, the cook's discipline laid bare."
+		"Each piece must be shaped in a single breath, neither too tight nor too loose."
+		"Prepare 4 Sushi."
+	]
+	quest.2DA8FF4557E10403.quest_subtitle: "Descend the slope to the burning underworld"
+	quest.2DA8FF4557E10403.quest_desc: [
+		"Yomotsu Hirasaka is the slope that joins the world of the living to the land of the dead."
+		"Step through the fire-gate into the burning hells, where the ash falls like grey snow and nothing living should walk."
+		"Carry fire-warding sake, and do not look back as you cross the threshold."
+	]
+	quest.2E2B811814A8E7FF.quest_subtitle: "The blade worn closest"
+	quest.2E2B811814A8E7FF.quest_desc: [
+		"The tantō is the dagger a bushi never sets aside, for close work, for honor, for the last resort no warrior speaks aloud."
+		"Forge a Tamahagane Tantō. Short steel, but no less sacred than the long."
+	]
+	quest.2E35F79E7DB9BC08.quest_subtitle: "Carry a chōchin to light the night road"
+	quest.2E35F79E7DB9BC08.quest_desc: [
+		"The road does not stop at dusk, and the mountain passes are black as ink."
+		"Carry a folding paper lantern to throw a small circle of light against the dark — and against what moves in it."
+	]
+	quest.2EA67EF02761E5C5.quest_subtitle: "Plate the dō, the cuirass of the samurai"
+	quest.2EA67EF02761E5C5.quest_desc: [
+		"The smith forges armor as readily as blades."
+		"Lace and rivet the dō, the lamellar cuirass that guards a warrior's chest and belly."
+		"Worn by the daimyo's retainers, it turns aside the arrow and the glancing cut."
+	]
+	quest.2F654C03F7490860.quest_subtitle: "Claim the wanderer-warrior's storied blade"
+	quest.2F654C03F7490860.quest_desc: [
+		"The nobushi were the wild warriors of the hills, half-soldier and half-bandit, who lived and died by the naginata."
+		"Their finest blades passed from hand to hand on the field, taken from the fallen and carried on."
+		"Win the Naginata of the Nobushi, and let the long road of the footsoldier reach its end in your grip."
+	]
+	quest.3155D36FFB0CE885.quest_subtitle: "A paper moon at the gate"
+	quest.3155D36FFB0CE885.quest_desc: [
+		"When dusk settles on the temple road, the chōchin glows like a small caught moon."
+		"Fold paper over a bamboo frame and hang four lanterns to light the way for night travellers."
+		"Reward: white paper lanterns, and a daiku point."
+	]
+	quest.319EF8A72650FB2A.quest_subtitle: "Mandarage, the flower of visions"
+	quest.319EF8A72650FB2A.quest_desc: [
+		"The datura blooms where the path grows thin, its fruit a door into dreaming. The ascetic eats of it and walks among the spirits awake."
+		"Harvest eight of the demon's dream fruit from the mountain herb-beds."
+		"Tread its visions with care, for not all who enter them return whole."
+	]
+	quest.3209E2F5918580B2.quest_subtitle: "Read the road the spirits hide"
+	quest.3209E2F5918580B2.quest_desc: [
+		"Onmyōdō is not only striking; it is seeing. The diviner reads what is hidden in earth and distance."
+		"Carry a Wayward Compass and let it point you toward the secrets the land keeps."
+		"Obtain the Wayward Compass."
+	]
+	quest.324F8F95461CD654.quest_subtitle: "Weave the sedge hat that shades every field-hand"
+	quest.324F8F95461CD654.quest_desc: [
+		"The sugegasa, woven from sedge and straw, turns the summer sun and the autumn rain alike."
+		"Weave one for yourself; it is the crown of the noka, worn from planting to harvest."
+		"Reward: a straw cape, that neither downpour nor cold wind will drive you from the rows."
+	]
+	quest.332F2EB4BE388BF6.quest_subtitle: "Clad yourself in jewel steel"
+	quest.332F2EB4BE388BF6.quest_desc: [
+		"From the tatara's heat comes the dō, the cuirass that turns aside the careless blow."
+		"Buckle it on. Iron between you and the world is iron well spent."
+		"Forge and equip a Tamahagane Dō."
+	]
+	quest.3380BB3BE3F6DD2E.quest_subtitle: "Bruises before blood"
+	quest.3380BB3BE3F6DD2E.quest_desc: [
+		"No student touches live steel on the first day. The bokken, the wooden blade, teaches the hands before the edge can betray them."
+		"Carve a wooden odachi and drill until the form is true. Wood breaks bone as surely as steel breaks flesh."
+	]
+	quest.343195BB775F1775.quest_subtitle: "Many small shots where one great one served"
+	quest.343195BB775F1775.quest_desc: [
+		"Where the great cannon speaks once and slow, the autocannon stammers a hail of brass cartridges without pause."
+		"Each round is crimped, filled, and belted ready for the breech's hungry pace."
+		"Load 16 autocannon cartridges and learn the rhythm of rapid fire."
+	]
+	quest.37BEED6D59538789.quest_subtitle: "Cull the marsh-dead and their venom arrows"
+	quest.37BEED6D59538789.quest_desc: [
+		"From the wet reeds rise the swamp-dead, loosing arrows tipped with creeping poison."
+		"Fifteen of these venomous archers must fall before the marsh is yours."
+		"Learn to close the distance before their bows learn to close it on you."
+	]
+	quest.38912F3C516DD314.quest_subtitle: "Forge a tantō, your first true blade"
+	quest.38912F3C516DD314.quest_desc: [
+		"A warrior is known by the steel he carries. Begin with the tantō, the short blade kept close at hand."
+		"Forge one with your own iron and wear it always."
+		"It is a humble start, yet every legend of the sword begins with a first edge drawn."
+	]
+	quest.39004B00A9D873F0.quest_subtitle: "Smelt your first iron from the ore"
+	quest.39004B00A9D873F0.quest_desc: [
+		"Iron is the spine of every blade, plough, and bucket in the realm."
+		"Smelt a handful of ingots in your new furnace."
+		"From this dull grey metal, the long road to tamahagane begins."
+	]
+	quest.3957AD92BF8A0A66.quest_subtitle: "Break the crossbow bands of the road"
+	quest.3957AD92BF8A0A66.quest_desc: [
+		"Masterless footmen turned brigand haunt the highways, crossbows cocked for any traveler."
+		"Hunt down fifteen of these outlaw ashigaru and make the roads safe again."
+		"An arrow answers a bolt; trade them, and see whose aim is the truer."
+	]
+	quest.3A61F14D8B0AF22C.quest_subtitle: "Let the goods walk without hands"
+	quest.3A61F14D8B0AF22C.quest_desc: [
+		"No workshop runs on wheels alone; goods must travel between them."
+		"String a mechanical belt from shaft to shaft and set funnels to feed and draw."
+		"Now the contraption carries its own burden, and your hands are free."
+	]
+	quest.3A80D6E0D9E6069F.quest_subtitle: "Reishi, the eyes that see the unseen"
+	quest.3A80D6E0D9E6069F.quest_desc: [
+		"The world is thronged with things the common eye slides past. Grind the infused lenses and set them in a frame to look upon them at last."
+		"Don the otherworld goggles and the hidden ores, the lurking spirits, all stand revealed."
+		"To see truly is the first discipline of the saint."
+	]
+	quest.3AB41662A8FE97A4.quest_subtitle: "Where the brush meets the vellum"
+	quest.3AB41662A8FE97A4.quest_desc: [
+		"No ofuda is born in the field. It is born at the desk, where ink, brush, and blank parchment wait in silent order."
+		"Raise an Inscription Table, the onmyōji's writing altar, and learn to bind spell to scroll with your own hand."
+		"Place the Inscription Table."
+	]
+	quest.3CDBD022A559BE47.quest_subtitle: "Carve a bokutō and learn the great blade's balance"
+	quest.3CDBD022A559BE47.quest_desc: [
+		"No apprentice touches steel before wood."
+		"Carve a wooden ōdachi and swing it ten thousand times to learn the weight and reach of the long blade."
+		"Form must live in the hands before the forge will answer."
+	]
+	quest.3D1AF6F2A709A2E4.quest_subtitle: "Pull the long white roots from the dry bed"
+	quest.3D1AF6F2A709A2E4.quest_desc: [
+		"Beside the flooded paddy lies the dry bed, where the daikon drives its long white root deep into the loosened earth."
+		"Pull a good harvest of the radish; salted in rice bran it feeds the household through the snows."
+		"No farm table in Japan is set without the crisp white root."
+	]
+	quest.3D9D9C516C37BA96.quest_subtitle: "A storm of iron for massed ranks"
+	quest.3D9D9C516C37BA96.quest_desc: [
+		"Against a charging line, one ball is a poor answer. Bind a sack of small shot and the cannon becomes a scythe."
+		"The grapeshot scatters wide, tearing through ashigaru and oni alike at close range."
+		"Bag 8 loads of grapeshot for the day the enemy comes too near."
+	]
+	quest.3DB0527D3ACDA1DD.quest_subtitle: "From black sand, the soul of the blade"
+	quest.3DB0527D3ACDA1DD.quest_desc: [
+		"Before the smith, before the fire, there is the sand. The rivers of the old country run black with iron, and the tatara furnace hungers for it."
+		"Gather sixteen measures of iron sand. From this humble grit the gods of the forge wake tamahagane, the jewel steel."
+	]
+	quest.3E28D9A7AD8DEED6.quest_subtitle: "Raise the kabuto, the crested war-helm"
+	quest.3E28D9A7AD8DEED6.quest_desc: [
+		"Above the dō sits the kabuto, the great helm of riveted iron plates."
+		"Forge it with its flaring neck-guard and proud crest to crown the samurai."
+		"A lord is known across the field by the silhouette of his kabuto."
+	]
+	quest.3ECCCECD32CF5242.quest_subtitle: "Raise the kitchen fire"
+	quest.3ECCCECD32CF5242.quest_desc: [
+		"No dish is born without flame. Set a stove of clay and iron so pot and skillet may rest above a steady fire."
+		"From this hearth comes broth, rice, and every grilled thing the lord's table demands."
+		"Build a Stove."
+	]
+	quest.3F28CE2889761B81.quest_subtitle: "One arm to tend many stations"
+	quest.3F28CE2889761B81.quest_desc: [
+		"Where the deployer is a single hand, the arm reaches across the whole bench."
+		"Teach a mechanical arm its inputs and outputs, and it will sort and ferry without rest."
+		"The clever master sets it once and walks away."
+	]
+	quest.4007C4901922B145.quest_subtitle: "Clear the highway of the bandits who prey on it"
+	quest.4007C4901922B145.quest_desc: [
+		"The nobushi lie in wait at the lonely bends of the road, falling on merchants and pilgrims alike."
+		"Cut down fifteen of these highway brigands and make the road a little safer for those who follow."
+	]
+	quest.403325FA289F79F7.quest_subtitle: "Forge an edge worthy of the kitchen"
+	quest.403325FA289F79F7.quest_desc: [
+		"The flint blade serves the desperate, but the itamae deserves steel. Hammer iron to a fine edge and feel the difference in every cut."
+		"A true knife parts fish from bone without bruising the flesh — the first mark of a real cook."
+		"Craft an Iron Knife."
+	]
+	quest.4045E21B4F8E1F14.quest_subtitle: "String thirty-two mon upon the cord"
+	quest.4045E21B4F8E1F14.quest_desc: [
+		"Beneath the gold and jade of the great houses runs the humble mon, the copper coin of the common purse."
+		"Gather thirty-two pieces and learn that no fortune is too small to begin counting."
+	]
+	quest.41B9C473EB36A660.quest_subtitle: "Crown the roll with glittering roe"
+	quest.41B9C473EB36A660.quest_desc: [
+		"Tobiko — flying-fish roe, bright orange beads that pop against the tongue and crown the finest rolls."
+		"A garnish of roe marks a cook who spares no detail for the lord's pleasure."
+		"Roll 2 Tobiko Rolls."
+	]
+	quest.42A623FAA62A1BF2.quest_subtitle: "Draw the circle no harm may cross"
+	quest.42A623FAA62A1BF2.quest_desc: [
+		"The kekkai is the barrier the caster sets between himself and the hungry dark."
+		"Etch protective runes and learn to throw a ward about your body before the first blow lands."
+		"Gather 4 Protective Rune."
+	]
+	quest.433A1D5A2D723E64.quest_subtitle: "Forge the tantō, the warrior's close companion"
+	quest.433A1D5A2D723E64.quest_desc: [
+		"Not every blade is long. The tantō is the dagger carried close — for the press of the melee and the warrior's rites."
+		"Forge and grind a tantō to ride beside the longer steel."
+		"A short blade, but one a samurai is never without."
+	]
+	quest.44B07BB811673B3E.quest_subtitle: "Walk among the realm's people"
+	quest.44B07BB811673B3E.quest_desc: [
+		"A lord is nothing without subjects, a road nothing without those who travel it."
+		"Seek out a village and stand within its lanes, where rice is traded and rumor flies faster than any horse."
+		"Find a village."
+	]
+	quest.4662CF036ED4F2A0.quest_subtitle: "Shape the great bow with your own hands"
+	quest.4662CF036ED4F2A0.quest_desc: [
+		"Before the arrow flies, the bow must be born: a stave of supple wood, three lengths of taut string."
+		"Bend the wood and bind the cord until the yumi answers your pull."
+		"No archer borrows his bow. Craft your own, and it becomes an arm you were not born with."
+	]
+	quest.46B94E7C1D378BAE.quest_subtitle: "Lay the iron road across the provinces"
+	quest.46B94E7C1D378BAE.quest_desc: [
+		"The kaidō roads bound the old realm; now iron rails will bind the new."
+		"Raise a train station, lay track from province to province, and assemble a locomotive of your own design."
+		"Carry goods and warriors the length of the land while you sit at ease."
+	]
+	quest.4757F9C22730A684.quest_subtitle: "Stir the basin and brew new alloys"
+	quest.4757F9C22730A684.quest_desc: [
+		"Heat and motion married above a basin yield what no forge alone can make."
+		"Lower the mechanical mixer over a basin and compound your reagents."
+		"From the swirling brew rise alloys, brass, and the stuff of finer engines."
+	]
+	quest.47A0D4E397266336.quest_subtitle: "Measure out a koku of grain"
+	quest.47A0D4E397266336.quest_desc: [
+		"In this age a lord's worth is reckoned not in coin but in koku, the rice that feeds a man for a year."
+		"Gather sixty-four measures of rice, the true currency upon which every domain is weighed."
+	]
+	quest.47AA48D60D98B24F.quest_subtitle: "Take the head, end the war"
+	quest.47AA48D60D98B24F.quest_desc: [
+		"A war ends when a banner falls. Cut your way to the enemy warlord through his guard and take the head that rallies the field."
+		"This is the soldier's highest deed and the swordsman's truest test."
+		"Two points and the spoils of victory crown the one who returns from the warlord's tent."
+	]
+	quest.47C5147BD43E5E35.quest_subtitle: "Shirasu-kabe, white against the tile"
+	quest.47C5147BD43E5E35.quest_desc: [
+		"The white shirasu-kabe wall is the face a manor turns to the road, bright between dark beams and grey tile."
+		"Finish the plastered walls in shirasu and let the hall stand proud as any castle keep."
+		"Reward: shirasu-kabe panels, and a daiku point."
+	]
+	quest.4841EC81CE942099.quest_subtitle: "Earn a bow worthy of your name"
+	quest.4841EC81CE942099.quest_desc: [
+		"A master outgrows the plain stave and seeks a meika, a named and storied bow."
+		"Forge the fine bow of deep-sea metal, swifter and surer than any common yumi."
+		"Carry it, and let the realm learn the name of the one who draws it."
+		"Two points of honor are yours."
+	]
+	quest.4A82A2B2CD6D0729.quest_subtitle: "Ferment rice into spirit"
+	quest.4A82A2B2CD6D0729.quest_desc: [
+		"Polished rice, water, and kōji mold left to ferment in cedar — sake is the drink of festival, oath, and offering."
+		"Brew it well and the gods, and your lord, will smile upon your table."
+		"Brew a bottle of Sake."
+	]
+	quest.4ACD678A0351D9B2.quest_subtitle: "The altar that holds the offering"
+	quest.4ACD678A0351D9B2.quest_desc: [
+		"Great rites are not cast from an empty hand. They are laid upon an altar and offered up."
+		"Set a Pedestal at the heart of your shrine to hold the implements of the higher arts."
+		"Place the Pedestal."
+	]
+	quest.4B406D180341D483.quest_subtitle: "Yuki-onna, the breath of the white death"
+	quest.4B406D180341D483.quest_desc: [
+		"She comes down with the blizzard, pale and beautiful, and the breath she gives freezes the marrow in a man."
+		"Stand against five yuki-onna upon the snowfields and do not let her smile undo you."
+		"Bind the chill of her passing within a fragile soul-gem."
+	]
+	quest.4B52AFB06B0A7842.quest_subtitle: "Pack rice for the road before you leave"
+	quest.4B52AFB06B0A7842.quest_desc: [
+		"No inn waits between the provinces, and a starving warrior is a dead one."
+		"Roll out sixteen rice balls and stow them in your pack against the long, empty stretches of the highway."
+		"Onigiri keep for days and need no fire — the truest provision of the wandering musha."
+	]
+	quest.4BABE5E39BB9BECB.quest_subtitle: "Hang the skirt of plates that guards the thigh"
+	quest.4BABE5E39BB9BECB.quest_desc: [
+		"Below the dō hang the kusazuri, the laced skirts of plate that cover the hips and thighs from a low cut."
+		"An ashigaru who has stood in the line learns that the killing blow often comes from beneath the shield."
+		"Lace on the kusazuri, and close the last gap in your armor."
+	]
+	quest.4C1ABECB14B6E82C.quest_subtitle: "Lay a bed and survive the first night"
+	quest.4C1ABECB14B6E82C.quest_desc: [
+		"A weary body is a careless one. Even a wanderer needs a place to lay his head."
+		"Set down a bed and sleep until dawn; let the first night pass, and wake to a quieter world."
+	]
+	quest.4CD369F3FFA38379.quest_subtitle: "Measure your drill against an enemy's"
+	quest.4CD369F3FFA38379.quest_desc: [
+		"Across the field stands another line, drilled as you were drilled, holding spears as you hold yours."
+		"There is no malice in it and no mercy either. The army that breaks first feeds the crows."
+		"Defeat twelve enemy ashigaru, and learn that discipline, not hatred, decides the day."
+	]
+	quest.4CD837DC2E5F700F.quest_subtitle: "Forge the studded iron war-club"
+	quest.4CD837DC2E5F700F.quest_desc: [
+		"Not all of the smith's craft is edged. The tetsubō is a great iron-bound club, studded and unbreakable."
+		"Forge this crushing weapon for those who would shatter armor rather than cut it."
+		"An oni's own bar of iron, said to break bone through steel."
+	]
+	quest.4D6E881748F9D789.quest_subtitle: "Command the exact pace of the works"
+	quest.4D6E881748F9D789.quest_desc: [
+		"Some works demand a crawl, others a fury; one source cannot serve both."
+		"Set a rotation speed controller upon a large cogwheel and dial the rotation to your will."
+		"Master the tempo, and every machine obeys your measure."
+	]
+	quest.4F2D2319D53992F0.quest_subtitle: "Drive back the dark with torchlight"
+	quest.4F2D2319D53992F0.quest_desc: [
+		"When the sun sets, the realm grows hungry and the dark hides teeth."
+		"Bind coal to a stick and make torches. Light is the first wall between you and the night."
+	]
+	quest.510292BB88FE1B87.quest_subtitle: "The spire that crowns the tower"
+	quest.510292BB88FE1B87.quest_desc: [
+		"Above the topmost roof rises the sōrin, the bronze spire of rings that gathers heaven to the pagoda's peak."
+		"Raise the finished pagoda crown and set the highest piece a temple-builder ever places."
+		"Reward: a vermilion pagoda, and two daiku points."
+	]
+	quest.5199BD332A9CF44F.quest_subtitle: "Sarugami, the wrathful god of the peaks"
+	quest.5199BD332A9CF44F.quest_desc: [
+		"Older than the shrines, the monkey-god rules the high forests and demands his tribute in blood and in fear."
+		"Subdue eight sarugami and break the terror they hold over the mountain folk."
+		"From the greatest of them take a soul-gem worthy of a master."
+	]
+	quest.538FA0C2062E1A75.quest_subtitle: "Pull the thin summer strands"
+	quest.538FA0C2062E1A75.quest_desc: [
+		"Fine wheat noodles, boiled and chilled, served in clear broth against the summer heat."
+		"Sōmen asks patience of the cook and rewards the guest with cool relief."
+		"Serve 2 bowls of Sōmen Noodles."
+	]
+	quest.542978B8D66D5A58.quest_subtitle: "Heap the bowl with rice and topping"
+	quest.542978B8D66D5A58.quest_desc: [
+		"Donburi — a deep bowl of rice crowned with whatever the kitchen offers, here gilded with mushrooms simmered soft."
+		"One bowl, one meal: filling, fast, and dear to every traveler on the road."
+		"Cook 2 servings of Mushroom Rice."
+	]
+	quest.546FEBE112B3F65A.quest_subtitle: "Raise the brewhouse where rice becomes spirit"
+	quest.546FEBE112B3F65A.quest_desc: [
+		"When the granary overflows, the surplus rice is given to the kura, the brewery."
+		"Build the sake brewery, where steamed rice, water, and kōji mould begin their slow change."
+		"Reward: a sake barrel, that the brewing may age in the cool dark."
+	]
+	quest.54EB1E663B4C617C.quest_subtitle: "Lay the grey tile to the ridge"
+	quest.54EB1E663B4C617C.quest_desc: [
+		"Thatch burns and rots; the kawara tile sheds a typhoon and outlives the carpenter who set it."
+		"Fire and stack grey roof tiles enough to clad a hall, course by overlapping course."
+		"Reward: roof slabs to finish the eaves."
+	]
+	quest.563DB9675A65C4B7.quest_subtitle: "The well from which all spells are drawn"
+	quest.563DB9675A65C4B7.quest_desc: [
+		"Every mantra spends spirit, and the deep caster carries a deeper well."
+		"Forge a Ring of Mana and feel your reserve swell beyond the bounds of flesh."
+		"Obtain the Ring of Mana."
+	]
+	quest.56653D704C013A0A.quest_subtitle: "Knap the heads, cut the shafts"
+	quest.56653D704C013A0A.quest_desc: [
+		"Flint for the head, a straight shaft of wood, a feather for the tail."
+		"Fold them together sixty-four times over and fill your quiver against the long night."
+		"A bow is hunger; arrows are the bread that feeds it."
+	]
+	quest.577CB38BAB4FBB9D.quest_subtitle: "The cartridge that feeds the great gun"
+	quest.577CB38BAB4FBB9D.quest_desc: [
+		"A loose handful of powder burns; a measured charge speaks. The hojutsushi packs each shot into a paper-bound case so the gun roars true every time."
+		"Assemble the empty powder charges that will cradle the gunpowder behind the shot."
+		"Craft 16 empty powder charges and learn the gunner's measure."
+	]
+	quest.57A1085CB8C40528.quest_subtitle: "Test your edge against masterless swordsmen"
+	quest.57A1085CB8C40528.quest_desc: [
+		"The rōnin wander as you do, but lordless and hungry, selling their steel to any who will pay."
+		"Among them are swordsmen worthy of the name. Cross blades with twelve and learn what your own journey has made of you."
+	]
+	quest.586A3BAF8BDDC1D2.quest_subtitle: "Set two wheels to bite as one"
+	quest.586A3BAF8BDDC1D2.quest_desc: [
+		"A single wheel grinds slow; a matched pair devours."
+		"Mount two crushing wheels to turn against each other and feed ore between their teeth."
+		"What the millstone whispers, the crushing wheels roar."
+	]
+	quest.5937797A2F2FD603.quest_subtitle: "Raise a hearth and tame the fire"
+	quest.5937797A2F2FD603.quest_desc: [
+		"Raw ore and wet clay are useless until the fire has had its way with them."
+		"Build a furnace and learn to smelt: ore becomes metal, sand becomes glass, and meat becomes a meal."
+	]
+	quest.5A836459A6A49EC7.quest_subtitle: "Shape your first humble tools"
+	quest.5A836459A6A49EC7.quest_desc: [
+		"Wood is soft and the world is hard, yet every master once held a wooden tool."
+		"Carve a simple pickaxe. It will not last long, but it will break the first stone for you."
+	]
+	quest.5BCABB20B5F766DD.quest_subtitle: "Stone awaiting its sigil"
+	quest.5BCABB20B5F766DD.quest_desc: [
+		"Before the sigil is cut, the talisman is only stone, mute and waiting."
+		"Cut blank runestones in number, for a single rite may spend a dozen and leave you wanting."
+		"Gather 6 Blank Runestone."
+	]
+	quest.5C83B1E19AEC1A53.quest_subtitle: "Hold the line against the demon"
+	quest.5C83B1E19AEC1A53.quest_desc: [
+		"When the oni come down from the hills, swords are not enough. Only a wall of disciplined spears can hold them."
+		"The oni-brute fears no single warrior, but it cannot break a line that does not break itself."
+		"Slay five oni-brutes, and prove the heihō stronger than the demon's fury."
+	]
+	quest.5C88635B6EAD3BBA.quest_subtitle: "Fill your stores against the long road"
+	quest.5C88635B6EAD3BBA.quest_desc: [
+		"No campaign was ever won on an empty belly. Before steel or sutra, a warrior must eat."
+		"Bend your back in the paddies and gather the rice that feeds province and army alike."
+		"Collect 16 Rice."
+	]
+	quest.5D378088A5C78E6C.quest_subtitle: "Hitotsume-nyūdō, the one-eyed mountain monk"
+	quest.5D378088A5C78E6C.quest_desc: [
+		"On the lonely passes a great shaven head turns toward you, and in its brow there burns a single staring eye."
+		"Cut down five of the one-eyed priests that haunt the ridgelines."
+		"Take the soul that scatters from them into a fragile gem."
+	]
+	quest.5DA406D1618D7CF4.quest_subtitle: "Fold the steel a thousand times"
+	quest.5DA406D1618D7CF4.quest_desc: [
+		"Tamahagane is born in the tatara and reborn at the anvil. The smith folds it, beats it, folds it again, driving out the dross with every blow."
+		"Refine four ingots of jewel steel. Only from this will a true blade be drawn."
+	]
+	quest.5DB4D46BB6C42DBD.quest_subtitle: "A charge that bursts among the foe"
+	quest.5DB4D46BB6C42DBD.quest_desc: [
+		"Pack a hollow shell with powder, seat the fuze, and the gun no longer merely strikes — it detonates within the enemy's ranks."
+		"The high-explosive shell scatters fire and iron where it lands, the cruelest fruit of the foundry."
+		"Assemble 4 HE shells and rain ruin from the great cannon."
+	]
+	quest.5E57399F1849A33F.quest_subtitle: "Brew the cha and learn the quiet of the bowl"
+	quest.5E57399F1849A33F.quest_desc: [
+		"Chanoyu, the way of tea, is harmony, respect, purity, and stillness poured into a single bowl."
+		"Brew your gathered leaves into fragrant tea and serve it with a calm hand."
+		"In a war-torn realm, the tea room is the one place where no sword is drawn."
+	]
+	quest.5EEA7607209F634C.quest_subtitle: "Gather the green stone the realm counts as coin"
+	quest.5EEA7607209F634C.quest_desc: [
+		"In these provinces, wealth is weighed in jade, the green stone the merchants prize."
+		"Dig a few shards from the deep rock and feel the realm's currency in your palm."
+		"From such small stones, great houses of trade are one day built."
+	]
+	quest.5F656B28984E0295.quest_subtitle: "Set a curved blade upon a long haft"
+	quest.5F656B28984E0295.quest_desc: [
+		"The naginata is a sword given the reach of a spear — a curved tamahagane blade lashed to a long shaft."
+		"Forge the blade and mount it; it armed the sōhei warrior-monks and the women who guarded the home."
+		"With it you sweep a circle of enemies from beyond their reach."
+	]
+	quest.60CBE8E538C6BB1C.quest_subtitle: "The first true shot"
+	quest.60CBE8E538C6BB1C.quest_desc: [
+		"Take aim and loose: the simplest act of the way, and the hardest to perfect."
+		"Strike a living mark with the bow and feel the line drawn between eye and target."
+		"Every kata of kyūjutsu begins from this single, steady breath."
+	]
+	quest.629B5A44434812CD.quest_subtitle: "Carry the season's leaf to market"
+	quest.629B5A44434812CD.quest_desc: [
+		"From the misted slopes the tea leaf travels, prized by monk and warlord alike."
+		"Bring thirty-two leaves down the tea road and trade them where the chajin gather."
+	]
+	quest.62F549B8738D3589.quest_subtitle: "Demon-cutting"
+	quest.62F549B8738D3589.quest_desc: [
+		"When the oni comes down from the mountains, the village prays and the bushi draws. Horned, vast, and merciless, it tests every lesson at once."
+		"Fell five oni brutes. Meet the demon's club with your own and prove which iron is harder."
+	]
+	quest.64679EE0FB4D8755.quest_subtitle: "Minogasa, the rain-cape and woven hat"
+	quest.64679EE0FB4D8755.quest_desc: [
+		"Before the high passes the yamabushi sheds the silks of the valley and takes up the mino, the straw cape that turns the rain and the cold wind."
+		"Weave the straw cape and wear the road upon your shoulders."
+		"The mountain receives only those who come to it humble and unadorned."
+	]
+	quest.647785830C5A632D.quest_subtitle: "Sashimono joinery for the daily room"
+	quest.647785830C5A632D.quest_desc: [
+		"Sashimono is furniture joined without nails, drawer and door fitted so close no gap admits the dust."
+		"Craft cupboards for the living quarters and prove your joints hold in the small as in the great."
+		"Reward: a fine table for the hall."
+	]
+	quest.649E90816322FBD0.quest_subtitle: "Let the squash ripen heavy on the vine"
+	quest.649E90816322FBD0.quest_desc: [
+		"The kabocha, the winter squash, lies fat among its broad leaves as autumn cools."
+		"Gather the hard-skinned gourds; simmered in dashi they sweeten the lean months."
+		"What ripens late keeps longest, and the wise farmer plants for the winter to come."
+	]
+	quest.64AA1D7AE6EE0FB9.quest_subtitle: "Weave a sedge hat against sun and rain"
+	quest.64AA1D7AE6EE0FB9.quest_desc: [
+		"The kasa shields the pilgrim from the summer glare and the driving rain alike."
+		"Take up a woven straw hat — the mark of every traveler who walks the realm on foot."
+	]
+	quest.65D04C7DB0C4C18D.quest_subtitle: "Bend wind through fire, water, and smoke"
+	quest.65D04C7DB0C4C18D.quest_desc: [
+		"The fuigo, the bellows of the old smithy, lives again in cased iron."
+		"Drive an encased fan and push its breath through flame to blast, through water to wash, through smoke to cure."
+		"One wind, many works."
+	]
+	quest.662F462DAA2C2D54.quest_subtitle: "The ridgepole that carries the hall"
+	quest.662F462DAA2C2D54.quest_desc: [
+		"Walls hold nothing; it is the hari, the great beam, that bears the weight of the whole roof."
+		"Hew framed beams from your seasoned timber and learn how the span is carried across open space."
+		"Reward: spare framed beams for the next raising."
+	]
+	quest.666FD566630BDA2A.quest_subtitle: "Strike a foe from across the field"
+	quest.666FD566630BDA2A.quest_desc: [
+		"Tōya, the far shot: to fell an enemy who is little more than a speck upon the wind."
+		"Drop a distant archer from fifty paces and more, arrow against arrow."
+		"When you can kill what you can barely see, the field belongs to your bow."
+	]
+	quest.67171410B527E3D6.quest_subtitle: "The foundry's first metal"
+	quest.67171410B527E3D6.quest_desc: [
+		"Bronze served the early guns, but the great cannon hungers for iron. Smelt the ore down and pour it hard and grey."
+		"Cast iron is the bones of the foundry, the metal from which barrels, breeches, and shot are wrought."
+		"Smelt 16 cast iron ingots and stoke the great foundry to life."
+	]
+	quest.67EC13CF571C6B40.quest_subtitle: "Cook your first hot meal over the fire"
+	quest.67EC13CF571C6B40.quest_desc: [
+		"An empty belly wins no battles and walks no roads."
+		"Cook meat at your hearth and eat your fill; warm food restores the strength the day has spent."
+	]
+	quest.69A1C7A7A0EF43A4.quest_subtitle: "Drawers of zelkova heartwood"
+	quest.69A1C7A7A0EF43A4.quest_desc: [
+		"The keyaki tansu holds a household's cloth and coin behind drawers that glide on a breath."
+		"Build chests of zelkova, the prized hardwood of the cabinetmaker, fit for a merchant's storeroom."
+		"Reward: keyaki tatami matting, and a daiku point."
+	]
+	quest.69AFC58953A06A07.quest_subtitle: "Never lose the way again"
+	quest.69AFC58953A06A07.quest_desc: [
+		"A province at war is a maze of unmarked trails and false turns."
+		"Carry a compass, and the four directions will keep their counsel no matter how thick the mist."
+		"Obtain a Compass."
+	]
+	quest.69C87BBBE8659D07.quest_subtitle: "Face the masterless blades at range"
+	quest.69C87BBBE8659D07.quest_desc: [
+		"The rōnin carries no lord's banner, only a hungry sword and nothing left to lose."
+		"Ten of these wave-men will test whether your bow can answer cold steel."
+		"Loose before he reaches you; range is the bowman's only mercy."
+		"Take up the tengai hat and two points of honor."
+	]
+	quest.6B2321B7148D4462.quest_subtitle: "The reach of the warrior monk"
+	quest.6B2321B7148D4462.quest_desc: [
+		"The naginata sweeps where the sword cannot reach, the curved blade upon the long haft favored by the sōhei and the women who guarded the hall."
+		"Forge a Tamahagane Naginata and learn to cut the legs from beneath a charging line."
+	]
+	quest.6DCA0375D3B77D23.quest_subtitle: "Strike sixty bargains across the land"
+	quest.6DCA0375D3B77D23.quest_desc: [
+		"The ōdana, the great shop, keeps its noren raised from first light to last and turns no customer away."
+		"Conclude sixty trades through the villages and your ledgers will outgrow any single town."
+	]
+	quest.6DE1A30F996C9631.quest_subtitle: "Let the blade fell the tree for you"
+	quest.6DE1A30F996C9631.quest_desc: [
+		"The nokogiri in a tireless hand cuts where no carpenter stands."
+		"Mount a mechanical saw to fell trees, cut logs to planks, and carve stone in a single pass."
+		"Set it upon a belt and the lumber comes to you, sawn and stacked."
+	]
+	quest.6E02038099096C04.quest_subtitle: "The legendary scarlet metal of the gods"
+	quest.6E02038099096C04.quest_desc: [
+		"Beyond steel lies hihi'irokane, the scarlet metal of legend, soft as ash to the unworthy and harder than oni-bone to the worthy."
+		"Obtain the smithing template that unlocks its working. With it a mortal blade may be remade into the stuff of myth."
+		"Two points toward the Way of the Sword reward this rite."
+	]
+	quest.6E48ABB3E4446E66.quest_subtitle: "Fude, the brush that draws the sacred bounds"
+	quest.6E48ABB3E4446E66.quest_desc: [
+		"No rite is raised without its circle. The ascetic takes up the chalk brush and lays the pentacle stroke by careful stroke."
+		"Craft the brush, that your hand may write the figures that bind and ward."
+		"A line untrue is a door left open to the dark."
+	]
+	quest.6EC525B38EE61882.quest_subtitle: "The heartbeat of the bursting shell"
+	quest.6EC525B38EE61882.quest_desc: [
+		"A solid ball merely strikes; a shell must burst at the right breath. The timed fuze counts the seconds from muzzle to target."
+		"Set it too long and the shell digs harmlessly; too short and it bursts in the air."
+		"Craft 4 timed fuzes to give your shells their deadly timing."
+	]
+	quest.6EECFB24AB749E40.quest_subtitle: "Whisk the bowl of green"
+	quest.6EECFB24AB749E40.quest_desc: [
+		"Chanoyu, the way of tea — leaves grown, dried, and steeped into a quiet ritual older than any war."
+		"To pour tea well is to offer peace; even daimyō set down their swords for a single bowl."
+		"Brew 2 cups of Tea."
+	]
+	quest.6FB99640AEA6A4F3.quest_subtitle: "Break the oni that hold the mountain passes"
+	quest.6FB99640AEA6A4F3.quest_desc: [
+		"Where the road narrows to a barrier-gate in the high passes, the oni gather to bar the way."
+		"These brutes are stronger than any man and fear no blade — break eight of them and the passes are yours."
+		"Few wanderers face the oni of the barrier and return to speak of it."
+	]
+	quest.723B7CE73C53DCE9.quest_subtitle: "A servant bound to paper"
+	quest.723B7CE73C53DCE9.quest_desc: [
+		"The shikigami is the onmyōji's familiar, a spirit folded into a slip of paper and loosed at a word."
+		"Inscribe a Conjurer's Talisman, and never again walk to battle alone."
+		"Obtain the Conjurer's Talisman."
+	]
+	quest.73678F164D16CC4B.quest_subtitle: "A barrel that will not burst"
+	quest.73678F164D16CC4B.quest_desc: [
+		"Cast iron cracks under a heavy charge. Refine it to steel and the barrel holds where lesser metal splits."
+		"Each layer is cast, bored, and welded true before it can stand the blast within."
+		"Forge 2 steel cannon barrels, the spine of a gun that can be trusted."
+	]
+	quest.73E645BEF3877292.quest_subtitle: "Forge your first true blade from common iron"
+	quest.73E645BEF3877292.quest_desc: [
+		"The first metal ōdachi is plain iron — heavy, blunt of grain, and honest."
+		"Beat it out at the anvil and grind an edge that bites."
+		"It is no masterwork, but it is the first blade you may truly call your own."
+	]
+	quest.748A2ECECFA9DE9F.quest_subtitle: "Turn rot and straw into the soil's strength"
+	quest.748A2ECECFA9DE9F.quest_desc: [
+		"A field gives only what it is given. The careful noka returns to the soil what the harvest takes away."
+		"Build a composter and let straw, leaves, and scraps rot down into dark, rich earth."
+		"Reward: organic compost and bone meal to feed the next year's planting."
+	]
+	quest.771C11A14F88C13F.quest_subtitle: "Climb to the jagged peaks and endure the cold"
+	quest.771C11A14F88C13F.quest_desc: [
+		"Above the tree line the air thins and the wind cuts like a drawn blade."
+		"Climb to the jagged peaks where the snow never melts, and prove the body can carry the spirit as far as it must go."
+	]
+	quest.7727BE555EFE5F63.quest_subtitle: "Tengai, the basket that hides the face"
+	quest.7727BE555EFE5F63.quest_desc: [
+		"The wandering monk weaves a deep basket-hat and lets it swallow his face, that none may know the man beneath the calling."
+		"Make the tengai and walk nameless among the villages of the plain."
+		"He who has no face cannot be turned aside."
+	]
+	quest.774D6BD9E65CDB42.quest_subtitle: "A puppet hand that works the recipe"
+	quest.774D6BD9E65CDB42.quest_desc: [
+		"The kairai, the puppet, mimics the motions of a living hand."
+		"Build a deployer to place, use, and craft upon the block before it, tireless and exact."
+		"Give it tools and it labors as a karakuri ningyō, the mechanical doll of legend."
+	]
+	quest.7856CECB8534BB74.quest_subtitle: "Gather the green jade men barter for"
+	quest.7856CECB8534BB74.quest_desc: [
+		"Steel wins battles, but jade wins the years between them, buying rice, roads, and loyalty alike."
+		"Gather a purse of the green stone the realm accepts as coin."
+		"Collect 6 Jade."
+	]
+	quest.7861BC586A1C8127.quest_subtitle: "Turn the new guns on a worthy foe"
+	quest.7861BC586A1C8127.quest_desc: [
+		"Steel and powder mean nothing until they are proven in fire. The oni brute is armored, furious, and slow to fall — the perfect proving ground."
+		"Bring your shells and shot to bear and break 5 of the brutes where they stand."
+		"Prove your guns in blood, and the school names you a true master of hojutsu."
+	]
+	quest.7AB46A101ABC054B.quest_subtitle: "Fold tamahagane into a great blade worthy of the name"
+	quest.7AB46A101ABC054B.quest_desc: [
+		"Now the swordsmith's art begins in earnest."
+		"Fold the tamahagane upon itself, drawing out the slag and layering the grain like flowing water."
+		"The tamahagane ōdachi holds an edge no iron blade can match."
+	]
+	quest.7B3ED8957CA391F4.quest_subtitle: "Seal the grain in urushi lacquer"
+	quest.7B3ED8957CA391F4.quest_desc: [
+		"Raw timber drinks the rain and rots; lacquered timber endures a hundred winters."
+		"Coat sakura wood in urushi until it gleams black-red, the finish of pillars and beams meant to last."
+		"Reward: lacquered sakura logs, and a daiku point."
+	]
+	quest.7B75A9D5E4564614.quest_subtitle: "Close a bargain among the clouds"
+	quest.7B75A9D5E4564614.quest_desc: [
+		"Where the sky islands drift, a market hangs nearer the heavens than any castle keep."
+		"Trade once at the roof of the world and earn the name hoshi-akindo, the star trader of Tenkū."
+	]
+	quest.7C9856EDF6FE6474.quest_subtitle: "Pluck the first tender leaves from the tea rows"
+	quest.7C9856EDF6FE6474.quest_desc: [
+		"On the warm hillside the tea bushes grow in long trimmed rows."
+		"Pluck only the youngest leaves, two and a bud, in the cool of the morning."
+		"Steamed and rolled, these leaves become the drink that steadies monk and warrior alike."
+	]
+	quest.7D6C01D89D685A99.quest_subtitle: "Bear sixteen flasks of rice wine"
+	quest.7D6C01D89D685A99.quest_desc: [
+		"No festival nor treaty is sealed without sake, the brewed spirit of the harvest rice."
+		"Haul sixteen flasks to the stalls; where the cups are filled, coin flows freely."
+	]
+	quest.7DD82B003B1563C7.quest_subtitle: "Masterless, but not harmless"
+	quest.7DD82B003B1563C7.quest_desc: [
+		"The rōnin serves no lord, yet his sword forgot none of its lessons. The roads are thick with them, hungry and quick."
+		"Cross ten of them and live. A wandering blade respects only a better one."
+	]
+	quest.7DE55C5858CDD7C4.quest_subtitle: "Kindle the steelmaker's fire"
+	quest.7DE55C5858CDD7C4.quest_desc: [
+		"The tatara is the heart of every forge in the land, breathing night and day to wed iron sand and charcoal."
+		"Build the furnace whose flame will one day yield tamahagane, the jewel steel of the smiths."
+		"Place a Tatara Furnace."
+	]
+	quest.7F133A8B5ADFF59B.quest_subtitle: "Lattice fitted without a nail"
+	quest.7F133A8B5ADFF59B.quest_desc: [
+		"Kumiko is the art of slotting thin slats into patterns of light and shadow, each piece shaped to lock the next."
+		"Assemble checkered shoji panels and let the lattice do the work of glue and iron alike."
+		"Reward: checkered shoji frames for the rooms to come."
+	]
+	quest.7FDAE1E19453D6F9.quest_subtitle: "Iron enough to break armor and bone"
+	quest.7FDAE1E19453D6F9.quest_desc: [
+		"The kanabō is no subtle weapon. It is a studded bar of iron, swung to shatter helms and snap the legs of warhorses."
+		"Oni are said to carry them; so do the strongest footsoldiers, who need no edge, only weight and wrath."
+		"Forge a kanabō, and let the heavy blow do what no point can."
+	]
+}

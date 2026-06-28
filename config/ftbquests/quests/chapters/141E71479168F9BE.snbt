@@ -1,0 +1,506 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "141E71479168F9BE"
+	group: "5800B18E73212D69"
+	icon: {
+		id: "minecraft:anvil"
+	}
+	id: "141E71479168F9BE"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "7855C54E2C1328AA"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "1D6B64207FFAC6C5"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "010E1F82E4CD6D8E"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					id: "78656312609440D9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "63BC889885CE7A06"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7855C54E2C1328AA"]
+			icon: {
+				id: "minecraft:iron_block"
+			}
+			id: "4099620EDE8071D2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "26C74AB76C07747B"
+					type: "command"
+				}
+				{
+					count: 4
+					id: "40FD6F3F863F8C3D"
+					item: {
+						count: 1
+						id: "sengoku:tamahagane_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "6130F314DCBBC9D7"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "5A2E7905C62AD288"
+				item: { count: 1, id: "minecraft:iron_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4099620EDE8071D2"]
+			icon: {
+				id: "sengoku:tamahagane_ingot"
+			}
+			id: "01F396184B1D8764"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "0FF37C4222F350D7"
+					type: "command"
+				}
+				{
+					id: "5E2EFF3E4C90E65B"
+					item: {
+						count: 1
+						id: "sengoku:tamahagane_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "5A08BE6DFBB07E75"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "4B268DA130C80B12"
+				item: { count: 1, id: "sengoku:tamahagane_ingot" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01F396184B1D8764"]
+			icon: {
+				id: "sengoku:tamahagane_upgrade_smithing_template"
+			}
+			id: "06E7CDA90DD62A0B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 2"
+					id: "5A470D0AA542B129"
+					type: "command"
+				}
+				{
+					id: "06D9A8F9796F50CC"
+					item: {
+						count: 1
+						id: "minecraft:netherite_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "00437A3DE93435C1"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "2703BA08D2073D4C"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["06E7CDA90DD62A0B"]
+			icon: {
+				id: "sengoku:netherite_blade_of_the_kensei"
+			}
+			id: "21DB5B7881631418"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "4B40EA65730B26FC"
+					type: "command"
+				}
+				{
+					id: "43573AEF881269E8"
+					item: {
+						count: 1
+						id: "sengoku:netherite_blade_of_the_kensei"
+					}
+					type: "item"
+				}
+				{
+					id: "6BC812CA5559AE00"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:kaji/master"
+				criterion: ""
+				id: "33AABD55F1C90440"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7855C54E2C1328AA"]
+			icon: {
+				id: "sengoku:iron_sand"
+			}
+			id: "1C19A7D13FBAB074"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "4B4C87775624321B"
+					type: "command"
+				}
+				{
+					id: "1997EC30D653499D"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 6
+					id: "32A102B5CF740575"
+					item: {
+						count: 1
+						id: "minecraft:charcoal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "6C2D5B104C2C420B"
+				item: { count: 1, id: "sengoku:iron_sand" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1C19A7D13FBAB074"]
+			icon: {
+				id: "sengoku:raw_tamahagane"
+			}
+			id: "15C733FE66F0F370"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "45B5213EBFE52641"
+					type: "command"
+				}
+				{
+					id: "1ACC92F6984EFA7C"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 2
+					id: "73024B934050D457"
+					item: {
+						count: 1
+						id: "sengoku:tamahagane_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 6L
+				id: "3D0B4485953E6C61"
+				item: { count: 1, id: "sengoku:raw_tamahagane" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4099620EDE8071D2"]
+			icon: {
+				id: "sengoku:wooden_odachi"
+			}
+			id: "3CDBD022A559BE47"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "76845E8046A4FF7A"
+					type: "command"
+				}
+				{
+					id: "475575E23E27DE8C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				id: "2CDADF2E5F65A851"
+				item: { count: 1, id: "sengoku:wooden_odachi" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["01F396184B1D8764"]
+			icon: {
+				id: "sengoku:iron_odachi"
+			}
+			id: "7AB46A101ABC054B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "04A059CE43682B93"
+					type: "command"
+				}
+				{
+					id: "0A2E1B5D336EA3D6"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "6D23DAC7F2D07EB5"
+				item: { count: 1, id: "sengoku:iron_odachi" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["06E7CDA90DD62A0B"]
+			icon: {
+				id: "sengoku:daimyo_do"
+			}
+			id: "2EA67EF02761E5C5"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "151BBD068372ED5C"
+					type: "command"
+				}
+				{
+					id: "41383F2AA7CB9393"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "26354AB08425B10F"
+				item: { count: 1, id: "sengoku:daimyo_do" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["06E7CDA90DD62A0B"]
+			icon: {
+				id: "sengoku:netherite_odachi"
+			}
+			id: "05B70CD693EB0C36"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 2"
+					id: "56C839223C7125D1"
+					type: "command"
+				}
+				{
+					id: "3917CA57FC0F6FB8"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "59DC575E09A96251"
+					item: {
+						count: 1
+						id: "sengoku:seigun_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "30B1E98356510A2D"
+				item: { count: 1, id: "sengoku:netherite_odachi" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3CDBD022A559BE47"]
+			icon: {
+				id: "sengoku:stone_odachi"
+			}
+			id: "73E645BEF3877292"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "54690F76EC02FFDB"
+					type: "command"
+				}
+				{
+					id: "0CE1D7A01F0090E1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				id: "78C48C1FB772C812"
+				item: { count: 1, id: "sengoku:stone_odachi" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7AB46A101ABC054B"]
+			icon: {
+				id: "sengoku:iron_naginata"
+			}
+			id: "5F656B28984E0295"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "736C75682BFA3353"
+					type: "command"
+				}
+				{
+					id: "08E3DD25A40FB486"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "00E63C4BF4735961"
+				item: { count: 1, id: "sengoku:iron_naginata" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7AB46A101ABC054B"]
+			icon: {
+				id: "sengoku:iron_tetsubo"
+			}
+			id: "4CD837DC2E5F700F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "5CB1DA1817446B6A"
+					type: "command"
+				}
+				{
+					id: "3CF78A4220C01F7E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "42837B0A66095EC1"
+				item: { count: 1, id: "sengoku:iron_tetsubo" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2EA67EF02761E5C5"]
+			icon: {
+				id: "sengoku:daimyo_kabuto"
+			}
+			id: "3E28D9A7AD8DEED6"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "5CC3AFCD073EB529"
+					type: "command"
+				}
+				{
+					id: "7D07EDB0CEA78AC4"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "4B82A42AAB8EBC1D"
+				item: { count: 1, id: "sengoku:daimyo_kabuto" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["73E645BEF3877292"]
+			icon: {
+				id: "sengoku:stone_tanto"
+			}
+			id: "433A1D5A2D723E64"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:kaji 1"
+					id: "46E37ADAA5275F00"
+					type: "command"
+				}
+				{
+					id: "35A5EC0F86AF7FB1"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				id: "0FF6BAEC2ED0A628"
+				item: { count: 1, id: "sengoku:stone_tanto" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+	]
+}

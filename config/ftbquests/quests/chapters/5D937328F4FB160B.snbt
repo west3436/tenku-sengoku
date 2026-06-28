@@ -1,0 +1,461 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5D937328F4FB160B"
+	group: "791D73F5FEB83BBB"
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "5D937328F4FB160B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:torch"
+			}
+			id: "692DFA1DBFD8FEED"
+			rewards: [
+				{
+					count: 3
+					id: "1808F1EFBA9CD880"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "32AA9E25F4E7FCC2"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "5761F6DEF2C8A414"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["692DFA1DBFD8FEED"]
+			icon: {
+				id: "minecraft:stone_sword"
+			}
+			id: "1DB03F3393E7426C"
+			rewards: [
+				{
+					count: 3
+					id: "59C9CDF8D89F54FB"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "1F73E7834AEDAA60"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "5C6E7BF57EF71D62"
+				item: { count: 1, id: "minecraft:stone_sword" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1DB03F3393E7426C"]
+			icon: {
+				id: "minecraft:knowledge_book"
+			}
+			id: "757A638874919E5B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 2"
+					id: "50FDD615A8F3ADA7"
+					type: "command"
+				}
+				{
+					id: "048A81E9B76BFB7D"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "5E76E3FED58CB1A6"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "785E916556B8C2A4"
+			rewards: [{
+				id: "486DFB39399EDB3A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6AE64D9F75E5760F"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["692DFA1DBFD8FEED"]
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "09566C08866EF790"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "4AF39C2B610B6A54"
+					type: "command"
+				}
+				{
+					id: "6B8970A0DB27EEC2"
+					type: "xp"
+					xp: 15
+				}
+				{
+					count: 4
+					id: "458F628D200A71D7"
+					item: {
+						count: 1
+						id: "minecraft:oak_planks"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 6L
+				id: "7028BA945BF5CD03"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["09566C08866EF790"]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "1466336DE9665086"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "5EAB8308D13751E9"
+					type: "command"
+				}
+				{
+					id: "248DD641797DF535"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				id: "093C6CAEB7B5739B"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1466336DE9665086"]
+			icon: {
+				id: "minecraft:wooden_pickaxe"
+			}
+			id: "5A836459A6A49EC7"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "05B35E5722C6BD12"
+					type: "command"
+				}
+				{
+					id: "579CAD742E604FD9"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				id: "2108543FFFDEE78C"
+				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5A836459A6A49EC7"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "278C4AF780BDC3CD"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "055413EFB325915E"
+					type: "command"
+				}
+				{
+					id: "63F3F2895E0F4714"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "0FBFE2822815177B"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["278C4AF780BDC3CD"]
+			icon: {
+				id: "minecraft:furnace"
+			}
+			id: "5937797A2F2FD603"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "5670FBED68A406C0"
+					type: "command"
+				}
+				{
+					id: "42695D93C1B5737B"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "5666CC98C877BF64"
+					item: {
+						count: 1
+						id: "minecraft:charcoal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "20CF5EE84209BAC0"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5937797A2F2FD603"]
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "39004B00A9D873F0"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "4081B3F84CB0F66F"
+					type: "command"
+				}
+				{
+					id: "028C3A2825AD41CB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "0E6451609EF1CD24"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["09566C08866EF790"]
+			icon: {
+				id: "minecraft:torch"
+			}
+			id: "4F2D2319D53992F0"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "52C74663E667A156"
+					type: "command"
+				}
+				{
+					id: "5AB9C8EC3B8886E0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "684689A0E1B27765"
+				item: { count: 1, id: "minecraft:torch" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4F2D2319D53992F0"]
+			icon: {
+				id: "minecraft:red_bed"
+			}
+			id: "4C1ABECB14B6E82C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "649C9992D3FEACB9"
+					type: "command"
+				}
+				{
+					id: "699D44811DCD69ED"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "46C15D1997CF6D8F"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4C1ABECB14B6E82C"]
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "2863A45C9396D584"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "63C66D4DBD4F283D"
+					type: "command"
+				}
+				{
+					id: "045101D241B8C2E7"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				id: "2CC3D4E375DA6850"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2863A45C9396D584"]
+			icon: {
+				id: "minecraft:cooked_porkchop"
+			}
+			id: "67EC13CF571C6B40"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "4A3589851D993219"
+					type: "command"
+				}
+				{
+					id: "4402856AB35BDDE9"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 3
+					id: "5D130DCA6E125F96"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "1ABE258BAB8FA31B"
+				item: { count: 1, id: "minecraft:cooked_porkchop" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["39004B00A9D873F0"]
+			icon: {
+				id: "iss_magicfromtheeast:jade"
+			}
+			id: "5EEA7607209F634C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "3841433AC0B4D6C8"
+					type: "command"
+				}
+				{
+					id: "22419F251F19D14F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "4A2CB0BED39A91CC"
+				item: { count: 1, id: "iss_magicfromtheeast:jade" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["39004B00A9D873F0"]
+			icon: {
+				id: "sengoku:stone_tanto"
+			}
+			id: "38912F3C516DD314"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:heiho 1"
+					id: "46F7A0121F37D0A7"
+					type: "command"
+				}
+				{
+					id: "18DE9D4B5824A595"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				id: "68D048EE28358F80"
+				item: { count: 1, id: "sengoku:stone_tanto" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+	]
+}

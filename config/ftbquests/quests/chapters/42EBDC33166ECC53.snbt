@@ -1,0 +1,566 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "42EBDC33166ECC53"
+	group: "21B6E4552DFF1556"
+	icon: {
+		id: "minecraft:bow"
+	}
+	id: "42EBDC33166ECC53"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["16E40843A6F9E5AE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "3E33AA1296B7888D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "2B8F94F7A2499EB0"
+					type: "command"
+				}
+				{
+					id: "48C6535F8FD053C0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "5E3408D28C6DEC13"
+				type: "kill"
+				value: 15L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E33AA1296B7888D"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "40CDFAC0D055F9DD"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "5D226F232AE7B6D7"
+					type: "command"
+				}
+				{
+					count: 64
+					id: "5816864D93CEABCE"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+				{
+					id: "6CDDEABF7FA341ED"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				entity: "minecraft:stray"
+				id: "35561FD9FDF64E30"
+				type: "kill"
+				value: 15L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40CDFAC0D055F9DD"]
+			icon: {
+				id: "sengoku:kunai"
+			}
+			id: "2672EC2C09059F52"
+			rewards: [
+				{
+					id: "5AF93D6B6FBDCCDA"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_do"
+					}
+					type: "item"
+				}
+				{
+					id: "3363CE7C70ECCFDA"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "51662AB51026CB73"
+				type: "kill"
+				value: 30L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2672EC2C09059F52"]
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "4A5BC21003370E88"
+			rewards: [
+				{
+					id: "537304396EB6B21F"
+					item: {
+						count: 1
+						id: "minecraft:bow"
+					}
+					type: "item"
+				}
+				{
+					id: "736AA61B926B45DD"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:bushi/master"
+				criterion: ""
+				id: "1DA6922618F430B7"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E33AA1296B7888D"]
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "4662CF036ED4F2A0"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "0E1C834823BD13E0"
+					type: "command"
+				}
+				{
+					id: "5EAFB34F418DD3F7"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 16
+					id: "4E6CD90B19CA29AC"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F5A2FC47B7BAF62"
+				item: { count: 1, id: "minecraft:bow" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3E33AA1296B7888D"]
+			icon: {
+				id: "minecraft:tipped_arrow"
+			}
+			id: "37BEED6D59538789"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "5419134432C57A6D"
+					type: "command"
+				}
+				{
+					id: "0A1434C0D804344B"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 16
+					id: "6CD229350D12698F"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:bogged"
+				id: "246B7AB358068015"
+				type: "kill"
+				value: 15L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4662CF036ED4F2A0"]
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "240CD9AECEE2AC65"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "692D4F8AA5E1E4F0"
+					type: "command"
+				}
+				{
+					id: "4EDEB649B9CC797A"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 8
+					id: "3AFC4F1A228AF41D"
+					item: {
+						count: 1
+						id: "minecraft:flint"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "49C4ED03F507FEC6"
+				item: { count: 1, id: "minecraft:feather" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4662CF036ED4F2A0"]
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "60CBE8E538C6BB1C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "63A4CC01F0FE5A37"
+					type: "command"
+				}
+				{
+					id: "385A618A0B7F035F"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 16
+					id: "4FF3903EE080DEE5"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/shoot_arrow"
+				criterion: ""
+				id: "40B553A13DAABD25"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["37BEED6D59538789"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "3957AD92BF8A0A66"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "18CCFA7AD6160BE7"
+					type: "command"
+				}
+				{
+					id: "0768D6AD516A06C8"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 4
+					id: "6190BF751AC174E1"
+					item: {
+						count: 1
+						id: "minecraft:tipped_arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:pillager"
+				id: "6D84191196B072CE"
+				type: "kill"
+				value: 15L
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["240CD9AECEE2AC65"]
+			icon: {
+				id: "minecraft:arrow"
+			}
+			id: "56653D704C013A0A"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "664C1C8149867C6E"
+					type: "command"
+				}
+				{
+					id: "03DF0530B5E190B8"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "1D9AD6C9E3BCD77D"
+					item: {
+						count: 1
+						id: "minecraft:tipped_arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "550A77FC26D1C97B"
+				item: { count: 1, id: "minecraft:arrow" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60CBE8E538C6BB1C"]
+			icon: {
+				id: "minecraft:target"
+			}
+			id: "29F94703FCBD83D5"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "694F487B6D75CCB7"
+					type: "command"
+				}
+				{
+					id: "0487E607459E2795"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "6A336D114AE5D81B"
+					item: {
+						count: 1
+						id: "minecraft:target"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "54428DCF0AA0BB34"
+				item: { count: 1, id: "minecraft:target" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3957AD92BF8A0A66"]
+			icon: {
+				id: "sengoku:kunai"
+			}
+			id: "0ADFB6534D8DEADE"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "559C39D0C285D0A5"
+					type: "command"
+				}
+				{
+					id: "316CA66C1C6436AF"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "42984DB17C999AB8"
+					item: {
+						count: 1
+						id: "sengoku:basket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:bandit"
+				id: "1856E5D2A374A705"
+				type: "kill"
+				value: 20L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["56653D704C013A0A"]
+			icon: {
+				id: "minecraft:fletching_table"
+			}
+			id: "2974D353AAC92E6D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "0D17BF4704680AAD"
+					type: "command"
+				}
+				{
+					id: "00507AD2A3E3E86D"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 16
+					id: "101320DCE47CE86B"
+					item: {
+						count: 1
+						id: "minecraft:feather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FF536D02AE5DFE6"
+				item: { count: 1, id: "minecraft:fletching_table" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["56653D704C013A0A"]
+			icon: {
+				id: "minecraft:arrow"
+			}
+			id: "666FD566630BDA2A"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "5276E65AD8D4BB9C"
+					type: "command"
+				}
+				{
+					id: "32D07A759E6316BE"
+					type: "xp"
+					xp: 55
+				}
+				{
+					count: 8
+					id: "1E135A640334FE67"
+					item: {
+						count: 1
+						id: "minecraft:tipped_arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/sniper_duel"
+				criterion: ""
+				id: "4371CDFFC1A29091"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0ADFB6534D8DEADE"]
+			icon: {
+				id: "sengoku:wooden_odachi"
+			}
+			id: "69C87BBBE8659D07"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 2"
+					id: "1B031E4B72F68F5F"
+					type: "command"
+				}
+				{
+					id: "6D4E520185A742C5"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "332418B113CC4680"
+					item: {
+						count: 1
+						id: "sengoku:tengai_hat"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:ronin"
+				id: "41F49C3308D1E9C2"
+				type: "kill"
+				value: 10L
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2974D353AAC92E6D"]
+			icon: {
+				id: "aquaculture:neptunium_bow"
+			}
+			id: "4841EC81CE942099"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 2"
+					id: "14F4B262008822B6"
+					type: "command"
+				}
+				{
+					id: "6F79D423EA577388"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 64
+					id: "0AAABB20C1A28788"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "38B73B773F97B173"
+				item: { count: 1, id: "aquaculture:neptunium_bow" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+	]
+}

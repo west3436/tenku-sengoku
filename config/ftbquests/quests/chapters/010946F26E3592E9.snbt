@@ -1,0 +1,561 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "010946F26E3592E9"
+	group: "3E1BFD48B85C55D4"
+	icon: {
+		id: "minecraft:filled_map"
+	}
+	id: "010946F26E3592E9"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["785E916556B8C2A4"]
+			icon: {
+				id: "sengoku:tattered_shinobi_cloth"
+			}
+			id: "6366E10C02C1998D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "5793201316ADF366"
+					type: "command"
+				}
+				{
+					count: 8
+					id: "5398722FE75C1278"
+					item: {
+						count: 8
+						id: "culturaldelights:rice_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "2A28293DC1529CD2"
+					item: {
+						count: 1
+						id: "minecraft:netherite_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "2F29272EB81BEF7F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "52981B267A7B4581"
+				type: "kill"
+				value: 20L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6366E10C02C1998D"]
+			icon: {
+				id: "sengoku:stone_lantern"
+			}
+			id: "1F04B7A079FE06ED"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "4B828E947BB97DFB"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "7826FC6602241500"
+					item: {
+						count: 2
+						id: "sengoku:sake_of_water_breathing"
+					}
+					type: "item"
+				}
+				{
+					id: "5C232D501DB39D52"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "50D9B6EC3C8F5DF8"
+				ignore_dimension: false
+				position: [I;
+					-2036
+					-64
+					566
+				]
+				size: [I;
+					96
+					384
+					96
+				]
+				type: "location"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6366E10C02C1998D"]
+			icon: {
+				id: "sengoku:sake_of_fire_resist"
+			}
+			id: "2C451D1B90B72C81"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 2"
+					id: "1D63E5AD2F0F5705"
+					type: "command"
+				}
+				{
+					id: "5FAC83D43B6D55E8"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_do"
+					}
+					type: "item"
+				}
+				{
+					id: "4C01C7A3D1506D7B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "6665879F20C2B941"
+				ignore_dimension: false
+				position: [I;
+					3812
+					-64
+					-618
+				]
+				size: [I;
+					96
+					384
+					96
+				]
+				type: "location"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6366E10C02C1998D"]
+			icon: {
+				id: "fetzisasiandeco:white_incense_sticks"
+			}
+			id: "6BA1EC560ADA71E4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "7C1352C00F09CDEA"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "23037BED265FFA93"
+					item: {
+						count: 2
+						id: "sengoku:sake_of_regen"
+					}
+					type: "item"
+				}
+				{
+					id: "3C21ECC01C5E3B93"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "0D31411A95F500D8"
+				ignore_dimension: false
+				position: [I;
+					5980
+					-64
+					-7258
+				]
+				size: [I;
+					96
+					384
+					96
+				]
+				type: "location"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"1F04B7A079FE06ED"
+				"2C451D1B90B72C81"
+				"6BA1EC560ADA71E4"
+			]
+			icon: {
+				id: "sengoku:iron_odachi"
+			}
+			id: "26BDE64F238325D1"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 2"
+					id: "6B35AC89DD3CA006"
+					type: "command"
+				}
+				{
+					id: "7D1CEF184C43F34F"
+					item: {
+						count: 1
+						id: "sengoku:netherite_blade_of_the_kensei"
+					}
+					type: "item"
+				}
+				{
+					id: "4C0F0B39BB3435B9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "54AD11A4DEBF68D9"
+				type: "kill"
+				value: 25L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["26BDE64F238325D1"]
+			icon: {
+				id: "sengoku:netherite_odachi_of_the_shugodai"
+			}
+			id: "678341C5F4B2C136"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "04EBF05B808E52C4"
+					type: "command"
+				}
+				{
+					id: "54819277B3DA06D9"
+					item: {
+						count: 1
+						id: "sengoku:netherite_odachi_of_the_shugodai"
+					}
+					type: "item"
+				}
+				{
+					id: "7DBE83174DC515DC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:musha/master"
+				criterion: ""
+				id: "445957635B3A33D8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6366E10C02C1998D"]
+			icon: {
+				id: "culturaldelights:rice_ball"
+			}
+			id: "4B52AFB06B0A7842"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "638B7DE3E476709C"
+					type: "command"
+				}
+				{
+					id: "7A46A079012CA544"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "511D32E3586C311C"
+				item: { count: 1, id: "culturaldelights:rice_ball" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B52AFB06B0A7842"]
+			icon: {
+				id: "sengoku:straw_hat"
+			}
+			id: "64AA1D7AE6EE0FB9"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "1DA6365535AAF2FD"
+					type: "command"
+				}
+				{
+					id: "050F490B69BED6AE"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "37F4BC3B37E68A59"
+				item: { count: 1, id: "sengoku:straw_hat" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B52AFB06B0A7842"]
+			icon: {
+				id: "fetzisasiandeco:white_paper_lantern"
+			}
+			id: "2E35F79E7DB9BC08"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "1D7914A4084D4985"
+					type: "command"
+				}
+				{
+					id: "35C5DEA21488F73C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [{
+				id: "76DBCF30166C4E32"
+				item: { count: 1, id: "fetzisasiandeco:white_paper_lantern" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6366E10C02C1998D"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "1C591DCE9A3FDD24"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "5E61AEBAE1EB7361"
+					type: "command"
+				}
+				{
+					id: "0D0AF26B111CEC3A"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "58C381F489F833D7"
+					item: {
+						count: 1
+						id: "minecraft:map"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "585CF64A2B4FB569"
+				structure: "#minecraft:village"
+				type: "structure"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6366E10C02C1998D"]
+			icon: {
+				id: "sengoku:bandit_spawn_egg"
+			}
+			id: "4007C4901922B145"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "58CCED2D0A999C71"
+					type: "command"
+				}
+				{
+					id: "1B8A2BEAE45B8027"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				entity: "sengoku:bandit"
+				id: "617C43C6F023F628"
+				type: "kill"
+				value: 15L
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64AA1D7AE6EE0FB9"]
+			icon: {
+				id: "sengoku:straw_cape"
+			}
+			id: "054EC5BAB94C23FC"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "7C3366D135A96D03"
+					type: "command"
+				}
+				{
+					id: "7CF29914A338B0DE"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "0C941EDD095DDCF1"
+				item: { count: 1, id: "sengoku:straw_cape" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1C591DCE9A3FDD24"]
+			icon: {
+				id: "minecraft:snow_block"
+			}
+			id: "771C11A14F88C13F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "7902EE4E13B4527E"
+					type: "command"
+				}
+				{
+					id: "0D50A211CDB1FE28"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				biome: "minecraft:jagged_peaks"
+				id: "10065E13C5D408BD"
+				type: "biome"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C591DCE9A3FDD24"]
+			icon: {
+				id: "minecraft:flint_and_steel"
+			}
+			id: "2DA8FF4557E10403"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 2"
+					id: "16878596B91FD60E"
+					type: "command"
+				}
+				{
+					id: "09A3EDD3D461BF84"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 2
+					id: "622C05761D383649"
+					item: {
+						count: 1
+						id: "sengoku:sake_of_fire_resist"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "4B212F085B213FEE"
+				type: "dimension"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4007C4901922B145"]
+			icon: {
+				id: "sengoku:ronin_spawn_egg"
+			}
+			id: "57A1085CB8C40528"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 1"
+					id: "3B08E06AB7974DC1"
+					type: "command"
+				}
+				{
+					id: "422AAA93C2412206"
+					type: "xp"
+					xp: 45
+				}
+			]
+			tasks: [{
+				entity: "sengoku:ronin"
+				id: "68ECD74CFFA845AA"
+				type: "kill"
+				value: 12L
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["57A1085CB8C40528"]
+			icon: {
+				id: "sengoku:oni_brute_spawn_egg"
+			}
+			id: "6FB99640AEA6A4F3"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:musha 2"
+					id: "10DCA4437D96C4A1"
+					type: "command"
+				}
+				{
+					id: "769A5E9501414659"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 2
+					id: "0674DF170072846A"
+					item: {
+						count: 1
+						id: "sengoku:sake_of_regen"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:oni_brute"
+				id: "364A50D4B13A9539"
+				type: "kill"
+				value: 8L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+}

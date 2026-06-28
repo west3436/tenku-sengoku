@@ -1,0 +1,640 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "35485FC8026C6FF4"
+	group: "21B6E4552DFF1556"
+	icon: {
+		id: "minecraft:fire_charge"
+	}
+	id: "35485FC8026C6FF4"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["413867063AC6431B"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:gunpowder"
+			}
+			id: "4EFFC3005AA1324C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "7156FBCCFC0B2F86"
+					type: "command"
+				}
+				{
+					id: "1BF00DCE7316EAFB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "106CA7AA324CFD32"
+				item: { count: 1, id: "minecraft:gunpowder" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EFFC3005AA1324C"]
+			icon: {
+				id: "create:potato_cannon"
+			}
+			id: "6E3F4A96B4B35B23"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "1B258F1CE546D7D7"
+					type: "command"
+				}
+				{
+					count: 5
+					id: "72849384BDED734F"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2B91D3DBA49FBE2F"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+				{
+					id: "52667CC9957F8998"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "6D95B8A1DFEB0255"
+				type: "kill"
+				value: 12L
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E3F4A96B4B35B23"]
+			icon: {
+				id: "sengoku:daimyo_do"
+			}
+			id: "464E038C5FDB4813"
+			rewards: [
+				{
+					id: "283A1A85BDFAD979"
+					item: {
+						count: 1
+						id: "sengoku:daimyo_do"
+					}
+					type: "item"
+				}
+				{
+					id: "39B5EB02BB79C551"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "302EB438BD2431F9"
+				item: { count: 1, id: "minecraft:iron_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["464E038C5FDB4813"]
+			icon: {
+				id: "createbigcannons:bronze_cannon_barrel"
+			}
+			id: "6575034062A5DEA9"
+			rewards: [
+				{
+					count: 3
+					id: "28CF14543B10E7B0"
+					item: {
+						count: 1
+						id: "createbigcannons:bronze_cannon_barrel"
+					}
+					type: "item"
+				}
+				{
+					id: "1DAFA2ADA09F1751"
+					item: {
+						count: 1
+						id: "createbigcannons:bronze_cannon_end"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "374267729583F888"
+					item: {
+						count: 1
+						id: "createbigcannons:powder_charge"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "0977CD83419CA8D0"
+					item: {
+						count: 1
+						id: "createbigcannons:solid_shot"
+					}
+					type: "item"
+				}
+				{
+					id: "4836E2C9FB43BE74"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:bushi/master"
+				criterion: ""
+				id: "7C0FE96682CC24B5"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6575034062A5DEA9"]
+			icon: {
+				id: "createbigcannons:cannon_builder"
+			}
+			id: "47AAD499CE2EB5E2"
+			rewards: [
+				{
+					id: "66B4073B7BC4B044"
+					item: {
+						count: 1
+						id: "createbigcannons:cannon_builder"
+					}
+					type: "item"
+				}
+				{
+					id: "18C641EBE2AB54E8"
+					item: {
+						count: 1
+						id: "createbigcannons:cannon_loader"
+					}
+					type: "item"
+				}
+				{
+					id: "13B77EBCD4B63A9C"
+					item: {
+						count: 1
+						id: "createbigcannons:bronze_sliding_breech"
+					}
+					type: "item"
+				}
+				{
+					id: "7E4B7B5923FFA7F7"
+					item: {
+						count: 1
+						id: "createbigcannons:fixed_cannon_mount"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3950358DBAB8927C"
+					item: {
+						count: 1
+						id: "createbigcannons:powder_charge"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "66CCB2B22DFAD3FA"
+					item: {
+						count: 1
+						id: "createbigcannons:solid_shot"
+					}
+					type: "item"
+				}
+				{
+					id: "1794E092061B0530"
+					type: "xp"
+					xp: 75
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "japan_skills:hojutsu/unlocked"
+				criterion: ""
+				id: "4645533794D0E78A"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EFFC3005AA1324C"]
+			icon: {
+				id: "createbigcannons:empty_powder_charge"
+			}
+			id: "577CB38BAB4FBB9D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "643F47D5FFE4C904"
+					type: "command"
+				}
+				{
+					id: "72E0761611002E25"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 8
+					id: "368579B50450D19A"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "4EEE580689EE98C2"
+				item: { count: 1, id: "createbigcannons:empty_powder_charge" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["47AAD499CE2EB5E2"]
+			icon: {
+				id: "createbigcannons:cast_iron_ingot"
+			}
+			id: "67171410B527E3D6"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "204EA05765764863"
+					type: "command"
+				}
+				{
+					id: "73E617917B103669"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 8
+					id: "454592EA04918694"
+					item: {
+						count: 1
+						id: "createbigcannons:cast_iron_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "18B8BCF28DC4F9E9"
+				item: { count: 1, id: "createbigcannons:cast_iron_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["577CB38BAB4FBB9D"]
+			icon: {
+				id: "createbigcannons:shot_balls"
+			}
+			id: "0117C3FE4AA4482B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "12EA4241AB167AE8"
+					type: "command"
+				}
+				{
+					id: "31B4DEB44AE08D79"
+					type: "xp"
+					xp: 30
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "64BEA9E5041D06DB"
+				item: { count: 1, id: "createbigcannons:shot_balls" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["577CB38BAB4FBB9D"]
+			icon: {
+				id: "createbigcannons:bag_of_grapeshot"
+			}
+			id: "3D9D9C516C37BA96"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "3794BB93B3DD98B6"
+					type: "command"
+				}
+				{
+					id: "3785DBAC8643C2B3"
+					type: "xp"
+					xp: 35
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "38B353EA835AFDE0"
+				item: { count: 1, id: "createbigcannons:bag_of_grapeshot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["67171410B527E3D6"]
+			icon: {
+				id: "createbigcannons:steel_cannon_barrel"
+			}
+			id: "73678F164D16CC4B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "13E2DA76CC6B941B"
+					type: "command"
+				}
+				{
+					id: "14E6EC48D85D0B9E"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 8
+					id: "18AFECBD26918841"
+					item: {
+						count: 1
+						id: "createbigcannons:powder_charge"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "441605562D3B08F6"
+				item: { count: 1, id: "createbigcannons:steel_cannon_barrel" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["67171410B527E3D6"]
+			icon: {
+				id: "createbigcannons:cannon_drill"
+			}
+			id: "1C696378E17460EF"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "7D85C7F1504D936E"
+					type: "command"
+				}
+				{
+					id: "40870F105D3457F1"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "283AAE61E5B99D2E"
+				item: { count: 1, id: "createbigcannons:cannon_drill" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["73678F164D16CC4B"]
+			icon: {
+				id: "createbigcannons:cannon_carriage"
+			}
+			id: "053664718D888599"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "6F5F0BE960913A2F"
+					type: "command"
+				}
+				{
+					id: "779DE32168981F28"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "512319054B4E4DCF"
+				item: { count: 1, id: "createbigcannons:cannon_carriage" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["73678F164D16CC4B"]
+			icon: {
+				id: "createbigcannons:nethersteel_ingot"
+			}
+			id: "165BBCE9FA2321EA"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "68DEFF8D7CD4DD3E"
+					type: "command"
+				}
+				{
+					id: "5858FAB892C3B6F1"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 4
+					id: "3733D3DD8BBEBDB6"
+					item: {
+						count: 1
+						id: "createbigcannons:nethersteel_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "02BFC1470004DE44"
+				item: { count: 1, id: "createbigcannons:nethersteel_ingot" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73678F164D16CC4B"]
+			icon: {
+				id: "createbigcannons:timed_fuze"
+			}
+			id: "6EC525B38EE61882"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "28E971DBD7A4DB05"
+					type: "command"
+				}
+				{
+					id: "1D531787542A3691"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "215AE44F80D0FD81"
+				item: { count: 1, id: "createbigcannons:timed_fuze" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1C696378E17460EF"]
+			icon: {
+				id: "createbigcannons:solid_shot"
+			}
+			id: "7861BC586A1C8127"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 2"
+					id: "349D9DA9CD2B4A9A"
+					type: "command"
+				}
+				{
+					id: "4BED0FF5691A14AF"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 8
+					id: "695442D95CCC62CD"
+					item: {
+						count: 1
+						id: "createbigcannons:ap_shot"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "sengoku:oni_brute"
+				id: "77B4AB7B87DE873A"
+				type: "kill"
+				value: 5L
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6EC525B38EE61882"]
+			icon: {
+				id: "createbigcannons:he_shell"
+			}
+			id: "5DB4D46BB6C42DBD"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "346E8281C5229753"
+					type: "command"
+				}
+				{
+					id: "013505DDD8FB21A6"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 2
+					id: "6A2B17FAC9983C82"
+					item: {
+						count: 1
+						id: "createbigcannons:ap_shell"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "175A0CB7AE3C69A8"
+				item: { count: 1, id: "createbigcannons:he_shell" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["053664718D888599"]
+			icon: {
+				id: "createbigcannons:autocannon_cartridge"
+			}
+			id: "343195BB775F1775"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:bushi 1"
+					id: "25216EDA1E20540A"
+					type: "command"
+				}
+				{
+					id: "21D1C0058F87ECC8"
+					type: "xp"
+					xp: 60
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "14FE4F08B4292A9C"
+				item: { count: 1, id: "createbigcannons:autocannon_cartridge" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+	]
+}

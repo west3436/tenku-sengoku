@@ -1,0 +1,649 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "208891D4328F00BB"
+	group: "5800B18E73212D69"
+	icon: {
+		id: "minecraft:oak_planks"
+	}
+	id: "208891D4328F00BB"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "chipped:saw"
+			}
+			id: "56BFEC62F77679CB"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "1CDA16E7DC412CB5"
+					type: "command"
+				}
+				{
+					id: "6EBF53DD7643549E"
+					item: {
+						count: 1
+						id: "chipped:saw"
+					}
+					type: "item"
+				}
+				{
+					id: "3383F8DFBE6405D0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "180C533C1686AF98"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56BFEC62F77679CB"]
+			icon: {
+				id: "minecraft:cherry_stairs"
+			}
+			id: "0BBE4A9EEC507EAE"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "05F3601BCE35F9D7"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "095078C69D7C7E1A"
+					item: {
+						count: 1
+						id: "minecraft:cherry_wood"
+					}
+					type: "item"
+				}
+				{
+					id: "633A2CCA90E452AA"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "132A80ADB9FBFBD4"
+				item: { count: 1, id: "minecraft:cherry_stairs" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0BBE4A9EEC507EAE"]
+			icon: {
+				id: "sengoku:sakura_shoji_panel"
+			}
+			id: "0D984FBA2C5EE04C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "5EF67881E55DB638"
+					type: "command"
+				}
+				{
+					count: 8
+					id: "08AACE2DAA5F9754"
+					item: {
+						count: 1
+						id: "sengoku:sakura_shoji_frame"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "294750BA7AAAE61F"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:short_red_paper_lantern"
+					}
+					type: "item"
+				}
+				{
+					id: "7720E4489FE2EB4F"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "576B48A7E178DCBF"
+				item: { count: 1, id: "sengoku:sakura_shoji_panel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D984FBA2C5EE04C"]
+			icon: {
+				id: "fetzisasiandeco:roof_top_block_jungle"
+			}
+			id: "4B53F57FB4CB3163"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 2"
+					id: "6ED2726498DF02A0"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "7C3AEE7ECD91E1CF"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:roof_top_block_jungle"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4F522ED43A707BA6"
+					item: {
+						count: 1
+						id: "sengoku:sakura_tatami_mat"
+					}
+					type: "item"
+				}
+				{
+					id: "6384403DA37B0A79"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 24L
+				id: "55F1ADF49BB37B3A"
+				item: { count: 1, id: "sengoku:sakura_tatami_block" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B53F57FB4CB3163"]
+			icon: {
+				id: "fetzisasiandeco:light_gray_pagoda_lantern"
+			}
+			id: "0F9B983A73EE1C19"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "4760B8BEA3D99CCC"
+					type: "command"
+				}
+				{
+					count: 4
+					id: "515887144A788DA2"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:light_gray_pagoda_lantern"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7908BE20E67A0E13"
+					item: {
+						count: 1
+						id: "sengoku:sakura_tansu_cabinet"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3D5CA695524DFAB8"
+					item: {
+						count: 1
+						id: "handcrafted:cherry_chair"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7B35445E5206FDD9"
+					item: {
+						count: 1
+						id: "handcrafted:cherry_table"
+					}
+					type: "item"
+				}
+				{
+					id: "36856BA280DC5C58"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:daiku/master"
+				criterion: ""
+				id: "72D72C1DD9372ABC"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56BFEC62F77679CB"]
+			icon: {
+				id: "sengoku:lacquered_sakura_wood"
+			}
+			id: "7B3ED8957CA391F4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "5C4BB6FE5F1C3D40"
+					type: "command"
+				}
+				{
+					id: "4D739E3BF0C8CD83"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "03748B1C856373CE"
+					item: {
+						count: 1
+						id: "sengoku:lacquered_sakura_log"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "3946183A1A545156"
+				item: { count: 1, id: "sengoku:lacquered_sakura_wood" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0BBE4A9EEC507EAE"]
+			icon: {
+				id: "sengoku:sakura_checkered_shoji_panel"
+			}
+			id: "7F133A8B5ADFF59B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "6F61E2DFBF298F8A"
+					type: "command"
+				}
+				{
+					id: "62B1B842F8A5E1E5"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 6
+					id: "67867C101757677F"
+					item: {
+						count: 1
+						id: "sengoku:sakura_checkered_shoji_frame"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "4EA6758349423B8E"
+				item: { count: 1, id: "sengoku:sakura_checkered_shoji_panel" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D984FBA2C5EE04C"]
+			icon: {
+				id: "fetzisasiandeco:red_paper_lantern"
+			}
+			id: "3155D36FFB0CE885"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "0750FC46ECC05A43"
+					type: "command"
+				}
+				{
+					id: "2FACE48D0EA3560C"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "1FF578CFD3AACEFF"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:white_paper_lantern"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "327E052A7C3144B0"
+				item: { count: 1, id: "fetzisasiandeco:red_paper_lantern" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4B53F57FB4CB3163"]
+			icon: {
+				id: "fetzisasiandeco:gray_roof_block"
+			}
+			id: "54EB1E663B4C617C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "254C3A5A22CCAE75"
+					type: "command"
+				}
+				{
+					id: "247E5C316D117766"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 8
+					id: "0AF0A670393D7258"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:gray_roof_slab"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 24L
+				id: "0879CC20BCB56D9A"
+				item: { count: 1, id: "fetzisasiandeco:gray_roof_block" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4B53F57FB4CB3163"]
+			icon: {
+				id: "sengoku:keyaki_tansu_cabinet"
+			}
+			id: "69A1C7A7A0EF43A4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "22AA41714D8DF988"
+					type: "command"
+				}
+				{
+					id: "64BC78D7F1116B2D"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 6
+					id: "6DD9B2422E5DB4B3"
+					item: {
+						count: 1
+						id: "sengoku:keyaki_tatami_mat"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "7EB85A813D39163E"
+				item: { count: 1, id: "sengoku:keyaki_tansu_cabinet" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B3ED8957CA391F4"]
+			icon: {
+				id: "fetzisasiandeco:beam_block_framed_double_block"
+			}
+			id: "662F462DAA2C2D54"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "239EF477F5CCD691"
+					type: "command"
+				}
+				{
+					id: "014011C38E9A79E8"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 6
+					id: "2D251B407CC18537"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:beam_block_framed_double_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 12L
+				id: "4A1728132CFDE2BB"
+				item: { count: 1, id: "fetzisasiandeco:beam_block_framed_double_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3155D36FFB0CE885"]
+			icon: {
+				id: "fetzisasiandeco:pagoda_lantern"
+			}
+			id: "0FB6196D1542BF1B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "1C27ACE60EDD1F05"
+					type: "command"
+				}
+				{
+					id: "4D070B5AA78A610C"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 2
+					id: "2C846EDA3BA58A6A"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:white_pagoda_lantern"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "17FDB614CB11BA07"
+				item: { count: 1, id: "fetzisasiandeco:pagoda_lantern" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["69A1C7A7A0EF43A4"]
+			icon: {
+				id: "handcrafted:bamboo_cupboard"
+			}
+			id: "647785830C5A632D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "7FC29922BD2FDDBD"
+					type: "command"
+				}
+				{
+					id: "5A23C7AF19705B00"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "04AFC5E8D06BFA91"
+					item: {
+						count: 1
+						id: "handcrafted:bamboo_table"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "6017C0A12FAB6A1A"
+				item: { count: 1, id: "handcrafted:bamboo_cupboard" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["54EB1E663B4C617C"]
+			icon: {
+				id: "fetzisasiandeco:white_pagoda"
+			}
+			id: "510292BB88FE1B87"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 2"
+					id: "2E838693CCCF61AD"
+					type: "command"
+				}
+				{
+					id: "43FD894762E30BDD"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "65161C3DC017DF95"
+					item: {
+						count: 1
+						id: "fetzisasiandeco:red_pagoda"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "419912CC16C95141"
+				item: { count: 1, id: "fetzisasiandeco:white_pagoda" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["662F462DAA2C2D54"]
+			icon: {
+				id: "sengoku:sakura_shikkui"
+			}
+			id: "087ECF07B1908063"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "5A330B53953D50D2"
+					type: "command"
+				}
+				{
+					id: "73AFA00B7BB72713"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 8
+					id: "6A238402AAF11444"
+					item: {
+						count: 1
+						id: "sengoku:oak_shikkui"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "2D4CF4CB1F2AD0A6"
+				item: { count: 1, id: "sengoku:sakura_shikkui" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["087ECF07B1908063"]
+			icon: {
+				id: "sengoku:sakura_white_shirasu_kabe"
+			}
+			id: "47C5147BD43E5E35"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:daiku 1"
+					id: "2ACA233C564600B5"
+					type: "command"
+				}
+				{
+					id: "43483BA0EE2D4DEE"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 8
+					id: "2091F48328B39C0E"
+					item: {
+						count: 1
+						id: "sengoku:oak_white_shirasu_kabe"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "1E10C62E974847F7"
+				item: { count: 1, id: "sengoku:sakura_white_shirasu_kabe" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+	]
+}

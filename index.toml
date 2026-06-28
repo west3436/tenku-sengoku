@@ -5,6 +5,82 @@ file = "config/defaultoptions/options.txt"
 hash = "5cfaaf7f70baa83c7dd4324a8361327db3e14a170ff3d1e55847d3d7f57a7c12"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e6770adbe35d1d9793e00bfd5ba673ddf3cc5112ad97667a174f078a3cb71075"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/010946F26E3592E9.snbt"
+hash = "249a7baac9333710f0454f48d06e871694732f2cba033f626008de8504928e22"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/04A9DECAF75366E6.snbt"
+hash = "f9e9f369d2b7b24f6e24e336187c5d797b104edddcb35c2e8905f0bf1be9a336"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/0640EF942377DAFF.snbt"
+hash = "fb05045028e30a6f15f53f24d5353c6687a46ff583ff2178f141bb896d0e26df"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/122A3A8E7D7F35A0.snbt"
+hash = "3f0491c2d066a4870096d14514e5913a6ac4b6ae92c6f643cdf11cd1897a1c99"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/13345834AAA3F650.snbt"
+hash = "65074ce3c69dcb29a747450615211e1ae51d107acb1bf45a8b82abb535017cef"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/141E71479168F9BE.snbt"
+hash = "3d83a84d9e0932a1c2571247195849257f6a64291fe184f234c1f3efdf8cadd1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/1925947BCD1D5515.snbt"
+hash = "f8c33b12337d75e1da673b6edcfb2e2047ccd959f1f47785a0075cab7a23865d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/208891D4328F00BB.snbt"
+hash = "2957ba06d82d55efe8b7de03d3e15328b1a5f124ec7d1697eabead9482d85bbc"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/35485FC8026C6FF4.snbt"
+hash = "9cda92da3b701020155cdb143d6f7abc80c9067f038865ca772ce4d29af873fc"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/3660C09E948C24FE.snbt"
+hash = "5befa22658faea75943c3a75093da3448167f7223c89346ccd092d3645ef7e34"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/39274410101C460B.snbt"
+hash = "8927a324d54ca39f992e9379f93045bad02bf7d0624f358583cf5f174ad40ff3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/3B3FE73184F3EFDE.snbt"
+hash = "ffa305cf9be131dfce444095225278d53b1c13a17b3110472e0b3d378631dfad"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/42EBDC33166ECC53.snbt"
+hash = "769fbb171a3bec014ed9580b83acbf7c539ea2ffeb558d9b0c46fd9761b41ee7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/5D937328F4FB160B.snbt"
+hash = "4d2ef09eb4d01830e6d1d80ff3f1dc4fb42acefec436f105264b21e80397c148"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7E37F464A4C10A9B.snbt"
+hash = "5388cce37e51e33084514fa2142daba6088925fc98d8ea768e46c26b7e98178a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/F50BB9313ED7AE17.snbt"
+hash = "2fb86598aed1c0955d05e277b29597ba072efa3757ba3fe722f03b6ca1ab306c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "63b37f90d0496c2136ae40f5c5d8fd06e801a70054b2355e554b8f015b44d863"
+
+[[files]]
 file = "kubejs/client_scripts/balance_hide_items.js"
 hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 
@@ -548,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
-hash = "84511136b481d47b5f2fa5e2e1485e8cb95f778e035da274c898762f18ea306b"
+hash = "46293301962a0e59eaa73d5feaf1f62a5ae2566a24272241f6994b09d42718f0"
 metafile = true
 
 [[files]]

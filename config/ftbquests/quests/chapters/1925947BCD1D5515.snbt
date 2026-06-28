@@ -1,0 +1,603 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1925947BCD1D5515"
+	group: "5800B18E73212D69"
+	icon: {
+		id: "minecraft:cooked_beef"
+	}
+	id: "1925947BCD1D5515"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "farmersdelight:cutting_board"
+			}
+			id: "51F51949184EFFD9"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "71D7F57691DD00A6"
+					type: "command"
+				}
+				{
+					id: "6C529336AC280116"
+					item: {
+						count: 1
+						id: "farmersdelight:cooking_pot"
+					}
+					type: "item"
+				}
+				{
+					id: "595ECDB7942F0F92"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0567E01E67A27B27"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51F51949184EFFD9"]
+			icon: {
+				id: "farmersdelight:bone_broth"
+			}
+			id: "5D124A2BDA7419AE"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "2B9A253691AB54D4"
+					type: "command"
+				}
+				{
+					count: 3
+					id: "27B0B559BC382D84"
+					item: {
+						count: 1
+						id: "farmersdelight:noodle_soup"
+					}
+					type: "item"
+				}
+				{
+					id: "2DB2B46525A1E047"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "182793DE93616832"
+				item: { count: 1, id: "farmersdelight:bone_broth" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D124A2BDA7419AE"]
+			icon: {
+				id: "culturaldelights:rice_ball"
+			}
+			id: "221E3A72A5172608"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "63DD6A6A8A473B08"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "3F9342F67028EF43"
+					item: {
+						count: 1
+						id: "roll_delight:amazing_salmon_roll"
+					}
+					type: "item"
+				}
+				{
+					id: "04CC079DD55A7CA1"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "428A9FB9CAFD6254"
+				item: { count: 1, id: "culturaldelights:rice_ball" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["221E3A72A5172608"]
+			icon: {
+				id: "farmersdelight:roast_chicken"
+			}
+			id: "44B8C516D0F3C7C3"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 2"
+					id: "383087E3D407EE73"
+					type: "command"
+				}
+				{
+					id: "41BE7591059C2165"
+					item: {
+						count: 1
+						id: "farmersdelight:roast_chicken"
+					}
+					type: "item"
+				}
+				{
+					id: "0BEE82EED02BD778"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [
+				{
+					id: "35881576E71DB534"
+					item: { count: 1, id: "farmersdelight:fried_rice" }
+					type: "item"
+				}
+				{
+					id: "5BB3CE03FEFDD9B2"
+					item: { count: 1, id: "farmersdelight:fish_stew" }
+					type: "item"
+				}
+				{
+					id: "0499BA0D6375622D"
+					item: { count: 1, id: "roll_delight:rice_roll" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["44B8C516D0F3C7C3"]
+			icon: {
+				id: "farmersdelight:skillet"
+			}
+			id: "44427792E21F7915"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "4AE42B78B5048693"
+					type: "command"
+				}
+				{
+					id: "01E85E158A7EB2D7"
+					item: {
+						count: 1
+						id: "roll_delight:legendary_roll_medley"
+					}
+					type: "item"
+				}
+				{
+					id: "2A5D51A719F59358"
+					item: {
+						count: 1
+						id: "farmersdelight:skillet"
+					}
+					type: "item"
+				}
+				{
+					id: "76B198D9CE75AA20"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:hocho/master"
+				criterion: ""
+				id: "74BA2F74E81F88BC"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51F51949184EFFD9"]
+			icon: {
+				id: "farmersdelight:iron_knife"
+			}
+			id: "403325FA289F79F7"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "39E1F712192B71BD"
+					type: "command"
+				}
+				{
+					id: "79455EE2ECC08941"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "2D83CA3F67FD4C9F"
+					item: {
+						count: 1
+						id: "farmersdelight:salmon_slice"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6A07D897BC0D70EE"
+				item: { count: 1, id: "farmersdelight:iron_knife" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5D124A2BDA7419AE"]
+			icon: {
+				id: "minecraft:beetroot_soup"
+			}
+			id: "02A97E9A6EA10D6F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "62D4BD37AAC1B2D8"
+					type: "command"
+				}
+				{
+					id: "012409C8AFA4CB4F"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 3
+					id: "28FAF54A134F01D0"
+					item: {
+						count: 1
+						id: "farmersdelight:cooked_rice"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "1F856E54446B6FF0"
+				item: { count: 1, id: "minecraft:beetroot_soup" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["221E3A72A5172608"]
+			icon: {
+				id: "minecraft:rabbit_stew"
+			}
+			id: "538FA0C2062E1A75"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "5D3D669C58943548"
+					type: "command"
+				}
+				{
+					id: "05E702588F9B0EEC"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "5ED0CAB04D20343C"
+					item: {
+						count: 1
+						id: "farmersdelight:noodle_soup"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "1B6409BC74C9A092"
+				item: { count: 1, id: "minecraft:rabbit_stew" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44B8C516D0F3C7C3"]
+			icon: {
+				id: "aquaculture:sushi"
+			}
+			id: "2D0520FDEBCAB54C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "787FC2D537F14373"
+					type: "command"
+				}
+				{
+					id: "465F05D9EFC84BD8"
+					type: "xp"
+					xp: 45
+				}
+				{
+					count: 2
+					id: "4BBDFA5EC26F57A4"
+					item: {
+						count: 1
+						id: "roll_delight:rice_roll"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "3B48D62BF0725050"
+				item: { count: 1, id: "aquaculture:sushi" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44B8C516D0F3C7C3"]
+			icon: {
+				id: "roll_delight:tobiko_roll"
+			}
+			id: "41B9C473EB36A660"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "22D495B9E5DF8948"
+					type: "command"
+				}
+				{
+					id: "41FF715486A927D1"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "501E7298C7014EA2"
+					item: {
+						count: 1
+						id: "roll_delight:tobiko_roll"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "0122F1EBF1E379AE"
+				item: { count: 1, id: "roll_delight:tobiko_roll" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["403325FA289F79F7"]
+			icon: {
+				id: "farmersdelight:stove"
+			}
+			id: "3ECCCECD32CF5242"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "2627BE3085DC8FD1"
+					type: "command"
+				}
+				{
+					id: "78AA7C945AB506EB"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 4
+					id: "40FFB27859FC9EC2"
+					item: {
+						count: 1
+						id: "farmersdelight:cooked_rice"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "32284F38702419B4"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02A97E9A6EA10D6F"]
+			icon: {
+				id: "culturaldelights:pickle"
+			}
+			id: "291C9BCFB855DCC2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "6F9A04CA09CFC294"
+					type: "command"
+				}
+				{
+					id: "7FE2A0A4A93C5C05"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 4
+					id: "019094ADB4DC3E95"
+					item: {
+						count: 1
+						id: "culturaldelights:cucumber"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "30951460801E0BC6"
+				item: { count: 1, id: "culturaldelights:pickle" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["538FA0C2062E1A75"]
+			icon: {
+				id: "farmersdelight:mushroom_rice"
+			}
+			id: "542978B8D66D5A58"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "02D7E4429A2F6C6B"
+					type: "command"
+				}
+				{
+					id: "1F42F937C4946429"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 4
+					id: "6513BF3716BAAFF2"
+					item: {
+						count: 1
+						id: "farmersdelight:cooked_rice"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "41585946CE93CA50"
+				item: { count: 1, id: "farmersdelight:mushroom_rice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2D0520FDEBCAB54C"]
+			icon: {
+				id: "culturaldelights:pufferfish_roll"
+			}
+			id: "0194B39FEC1552BF"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 2"
+					id: "65CC3AAE2443E1C8"
+					type: "command"
+				}
+				{
+					id: "23A6386561FCE91A"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 3
+					id: "18747AF558295201"
+					item: {
+						count: 1
+						id: "culturaldelights:pufferfish_roll"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "6261390651E00BF0"
+				item: { count: 1, id: "culturaldelights:pufferfish_roll" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3ECCCECD32CF5242"]
+			icon: {
+				id: "sengoku:tea_bottle"
+			}
+			id: "6EECFB24AB749E40"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 1"
+					id: "205DE5640C862D3C"
+					type: "command"
+				}
+				{
+					id: "017BE57B44034C40"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 3
+					id: "744DF32C40A4656E"
+					item: {
+						count: 1
+						id: "sengoku:tea_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "7A15E1582B62AA90"
+				item: { count: 1, id: "sengoku:tea_bottle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["542978B8D66D5A58"]
+			icon: {
+				id: "sengoku:sake_bottle"
+			}
+			id: "4A82A2B2CD6D0729"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hocho 2"
+					id: "5528231583DF9321"
+					type: "command"
+				}
+				{
+					id: "1258F94BA56D92B0"
+					type: "xp"
+					xp: 65
+				}
+				{
+					count: 2
+					id: "3BEFF6E6F6369CCF"
+					item: {
+						count: 1
+						id: "sengoku:sake_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A304FB1532D559A"
+				item: { count: 1, id: "sengoku:sake_bottle" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+	]
+}

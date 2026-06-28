@@ -1,0 +1,675 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7E37F464A4C10A9B"
+	group: "5800B18E73212D69"
+	icon: {
+		id: "minecraft:wheat"
+	}
+	id: "7E37F464A4C10A9B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "sengoku:rice_crop"
+			}
+			id: "037ECAB1A15D401E"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "sengoku:rice_crop"
+					}
+					id: "10C0505FA89A44BC"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "3053B5DFA859CD58"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+				{
+					id: "4D70771E2854A300"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "2656D0279944F0DA"
+				item: { count: 1, id: "sengoku:rice_crop" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["037ECAB1A15D401E"]
+			icon: {
+				id: "farmersdelight:rice_panicle"
+			}
+			id: "605BA284F0D1E0D5"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "farmersdelight:rice_panicle"
+					}
+					id: "22B53759D53F73E2"
+					type: "command"
+				}
+				{
+					count: 6
+					id: "4C0C05E129BC1885"
+					item: {
+						count: 1
+						id: "farmersdelight:cooked_rice"
+					}
+					type: "item"
+				}
+				{
+					id: "177C5430183448C0"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "6DD7888F43B429FB"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["605BA284F0D1E0D5"]
+			icon: {
+				id: "minecraft:bamboo"
+			}
+			id: "1496048DCB579B4A"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:bamboo"
+					}
+					id: "4607FFA52A11931E"
+					type: "command"
+				}
+				{
+					count: 4
+					id: "36E30B6968EA24E8"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato_seeds"
+					}
+					type: "item"
+				}
+				{
+					id: "5DACF3D78BDC938F"
+					type: "xp"
+					xp: 40
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 64L
+				id: "60691A2FB2E86D7F"
+				item: { count: 1, id: "minecraft:bamboo" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1496048DCB579B4A"]
+			icon: {
+				id: "farmersdelight:rice_bale"
+			}
+			id: "4F40F4F857297B6F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 2"
+					icon: {
+						id: "farmersdelight:rice_bale"
+					}
+					id: "0821E89C8F888C1F"
+					type: "command"
+				}
+				{
+					count: 4
+					id: "51D6B92BCB51DF03"
+					item: {
+						count: 1
+						id: "farmersdelight:vegetable_soup"
+					}
+					type: "item"
+				}
+				{
+					id: "625F77BE828CB184"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					count: 32L
+					id: "22B2F0737B117718"
+					item: { count: 1, id: "farmersdelight:cabbage" }
+					type: "item"
+				}
+				{
+					count: 32L
+					id: "28FD86B859D9E343"
+					item: { count: 1, id: "farmersdelight:onion" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F40F4F857297B6F"]
+			icon: {
+				id: "minecraft:diamond_hoe"
+			}
+			id: "763B6CDC748018F4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:diamond_hoe"
+					}
+					id: "58F622A95FDAF6A7"
+					type: "command"
+				}
+				{
+					id: "783516C98EF279E6"
+					item: {
+						count: 1
+						id: "minecraft:diamond_hoe"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "3B6E7DA6FD15F60A"
+					item: {
+						count: 1
+						id: "farmersdelight:rice_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2B912A2F5C4E10AE"
+					item: {
+						count: 1
+						id: "farmersdelight:roast_chicken"
+					}
+					type: "item"
+				}
+				{
+					id: "42FD2A2301C272DF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:noka/master"
+				criterion: ""
+				id: "4023B959821C6DB0"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["037ECAB1A15D401E"]
+			icon: {
+				id: "minecraft:carrot"
+			}
+			id: "3D1AF6F2A709A2E4"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:carrot"
+					}
+					id: "4FB3150A8696AEC2"
+					type: "command"
+				}
+				{
+					id: "244D44600DF9E31B"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 8
+					id: "4A69CBFD7D2E86C1"
+					item: {
+						count: 1
+						id: "minecraft:carrot"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 24L
+				id: "78FEAEEAAD4891EE"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["605BA284F0D1E0D5"]
+			icon: {
+				id: "minecraft:melon_slice"
+			}
+			id: "12A81C2A41C30A2E"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:melon_slice"
+					}
+					id: "6954E17644849903"
+					type: "command"
+				}
+				{
+					id: "4220613785060589"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "5FD5E9F107023FBD"
+					item: {
+						count: 1
+						id: "minecraft:melon_seeds"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "7AB2A79C7C9FF747"
+				item: { count: 1, id: "minecraft:melon_slice" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1496048DCB579B4A"]
+			icon: {
+				id: "farmersdelight:tomato"
+			}
+			id: "1D489C9CFDD9C73A"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "farmersdelight:tomato"
+					}
+					id: "4AB70F0D448993A4"
+					type: "command"
+				}
+				{
+					id: "616963F2E380AFA4"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "23DF558728A3A8B9"
+					item: {
+						count: 1
+						id: "farmersdelight:tomato_seeds"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 24L
+				id: "370E2FC81A140E04"
+				item: { count: 1, id: "farmersdelight:tomato" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F40F4F857297B6F"]
+			icon: {
+				id: "sengoku:tea_leaf"
+			}
+			id: "7C9856EDF6FE6474"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "sengoku:tea_leaf"
+					}
+					id: "3E7C90C843854BF8"
+					type: "command"
+				}
+				{
+					id: "2B8D99878F40EE03"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "00BF35079CE75D0F"
+					item: {
+						count: 1
+						id: "sengoku:tea_seeds"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 24L
+				id: "72B1AD82DECC59A2"
+				item: { count: 1, id: "sengoku:tea_leaf" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F40F4F857297B6F"]
+			icon: {
+				id: "sengoku:sake_brewery"
+			}
+			id: "546FEBE112B3F65A"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "sengoku:sake_brewery"
+					}
+					id: "090A9966B6824C87"
+					type: "command"
+				}
+				{
+					id: "56773C115D579E28"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "44EA4328B4FDC606"
+					item: {
+						count: 1
+						id: "sengoku:sake_barrel"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "6D9220EDD32DA741"
+				item: { count: 1, id: "sengoku:sake_brewery" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3D1AF6F2A709A2E4"]
+			icon: {
+				id: "minecraft:beetroot"
+			}
+			id: "29EDC4F849FFC757"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:beetroot"
+					}
+					id: "64AE860E1D8BE975"
+					type: "command"
+				}
+				{
+					id: "43ED4757208D7D27"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "1CAB0A3D0683274F"
+					item: {
+						count: 1
+						id: "minecraft:beetroot_soup"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 24L
+				id: "28490EC298429089"
+				item: { count: 1, id: "minecraft:beetroot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12A81C2A41C30A2E"]
+			icon: {
+				id: "minecraft:pumpkin"
+			}
+			id: "649E90816322FBD0"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:pumpkin"
+					}
+					id: "1C94D4747D3DCCBF"
+					type: "command"
+				}
+				{
+					id: "457549EEB823A680"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 2
+					id: "3845DB2B6558FBD1"
+					item: {
+						count: 1
+						id: "minecraft:pumpkin_pie"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "660A06C5AB6407C0"
+				item: { count: 1, id: "minecraft:pumpkin" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1D489C9CFDD9C73A"]
+			icon: {
+				id: "minecraft:composter"
+			}
+			id: "748A2ECECFA9DE9F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "minecraft:composter"
+					}
+					id: "1EEC4E94CD35CA58"
+					type: "command"
+				}
+				{
+					id: "0A4A6470EF4B3614"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 8
+					id: "35016B22A5730C19"
+					item: {
+						count: 1
+						id: "farmersdelight:organic_compost"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "6256DC0BA674E704"
+				item: { count: 1, id: "minecraft:composter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7C9856EDF6FE6474"]
+			icon: {
+				id: "sengoku:tea_bottle"
+			}
+			id: "5E57399F1849A33F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "sengoku:tea_bottle"
+					}
+					id: "46F53391FEA8AEF6"
+					type: "command"
+				}
+				{
+					id: "1DFBEA17B6EA3DD9"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "68336285AF97BFB8"
+					item: {
+						count: 1
+						id: "sengoku:tea_bottle"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "28A0FB3928252315"
+				item: { count: 1, id: "sengoku:tea_bottle" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["546FEBE112B3F65A"]
+			icon: {
+				id: "sengoku:sake_bottle"
+			}
+			id: "09844067C9215F37"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 2"
+					icon: {
+						id: "sengoku:sake_bottle"
+					}
+					id: "283F4D528A1442D0"
+					type: "command"
+				}
+				{
+					id: "0E4BC25B350DFC5F"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "1A265403F028501A"
+					item: {
+						count: 1
+						id: "sengoku:fermented_sake_bottle"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 8L
+				id: "4CE58680C199EF7E"
+				item: { count: 1, id: "sengoku:sake_bottle" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["748A2ECECFA9DE9F"]
+			icon: {
+				id: "sengoku:straw_hat"
+			}
+			id: "324F8F95461CD654"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:noka 1"
+					icon: {
+						id: "sengoku:straw_hat"
+					}
+					id: "7EE955D71B9853C5"
+					type: "command"
+				}
+				{
+					id: "374A74F4E0D2F0E0"
+					type: "xp"
+					xp: 30
+				}
+				{
+					id: "39F3A5AA2364733D"
+					item: {
+						count: 1
+						id: "sengoku:straw_cape"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "15C9C7CAB3A2E634"
+				item: { count: 1, id: "sengoku:straw_hat" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+	]
+}

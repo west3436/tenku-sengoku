@@ -1,0 +1,686 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3B3FE73184F3EFDE"
+	group: "5800B18E73212D69"
+	icon: {
+		id: "minecraft:redstone"
+	}
+	id: "3B3FE73184F3EFDE"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["757A638874919E5B"]
+			icon: {
+				id: "create:cogwheel"
+			}
+			id: "6DC05FE5A141146E"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "5BB00BCE7798D846"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "0528517EC4933098"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					id: "50E64E980C6B77B7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "1A5830DAC6BD8009"
+				item: { count: 1, id: "create:cogwheel" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DC05FE5A141146E"]
+			icon: {
+				id: "create:shaft"
+			}
+			id: "143CCA59B9A0CD6B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "4A14121AAEDE3564"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "048A0F35F83FD8D9"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
+				{
+					id: "0213CBBEB84C5EC8"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "57C90630E7278B13"
+				item: { count: 1, id: "create:shaft" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["143CCA59B9A0CD6B"]
+			icon: {
+				id: "create:mechanical_press"
+			}
+			id: "0A6355B7E8808750"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "2EAA64F7BB8A6318"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "03007C02DFB9581E"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "73F3EBE14DA8958F"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "260FDB09ACD04725"
+				item: { count: 1, id: "create:mechanical_press" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0A6355B7E8808750"]
+			icon: {
+				id: "create:brass_casing"
+			}
+			id: "58F225EA499047C1"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 2"
+					id: "517602B400188D31"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "3F7B6B98DA24B783"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "0939C8D6E0B77ED3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "73B926F6ECE2B02C"
+				item: { count: 1, id: "create:brass_casing" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["58F225EA499047C1"]
+			icon: {
+				id: "create:precision_mechanism"
+			}
+			id: "2EE614E206C03B09"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "76CBF3F766494AE6"
+					type: "command"
+				}
+				{
+					id: "6DAF48726840CD4B"
+					item: {
+						count: 1
+						id: "create:flywheel"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "5F0AED70F5C2755C"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "5A8DDB1A1F4EE174"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:karakuri/master"
+				criterion: ""
+				id: "611B77BFDFADDC81"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2EE614E206C03B09"]
+			icon: {
+				id: "aeronautics:propeller_bearing"
+			}
+			id: "350655219CA65817"
+			rewards: [
+				{
+					id: "31FCE1C902F09574"
+					item: {
+						count: 1
+						id: "aeronautics:propeller_bearing"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2482756035D2E28D"
+					item: {
+						count: 1
+						id: "aeronautics:andesite_propeller"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6EF6529F8BD4A99A"
+					item: {
+						count: 1
+						id: "aeronautics:levitite"
+					}
+					type: "item"
+				}
+				{
+					id: "04A54060990E431A"
+					item: {
+						count: 1
+						id: "aeronautics:aviators_goggles"
+					}
+					type: "item"
+				}
+				{
+					id: "3760BC7A893EB515"
+					item: {
+						count: 1
+						id: "aeronautics:mounted_potato_cannon"
+					}
+					type: "item"
+				}
+				{
+					id: "1D77647BD13CC313"
+					type: "xp"
+					xp: 75
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "japan_skills:karakuri/aeronautics"
+				criterion: ""
+				id: "7BF67AEFF056556A"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6DC05FE5A141146E"]
+			icon: {
+				id: "create:millstone"
+			}
+			id: "001B37D9696DD027"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "578F818D8754CA1B"
+					type: "command"
+				}
+				{
+					id: "613FA1038725935E"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 8
+					id: "068D78F222B59AE6"
+					item: {
+						count: 1
+						id: "create:wheat_flour"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "66EDEBC875A0794E"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["001B37D9696DD027"]
+			icon: {
+				id: "create:crushing_wheel"
+			}
+			id: "586A3BAF8BDDC1D2"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "6CB05E5189678EDA"
+					type: "command"
+				}
+				{
+					id: "6C22131F38FD8406"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 16
+					id: "47CCF7E666926907"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "0D1DBC15CE066372"
+				item: { count: 1, id: "create:crushing_wheel" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["143CCA59B9A0CD6B"]
+			icon: {
+				id: "create:encased_fan"
+			}
+			id: "65D04C7DB0C4C18D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "0F01357C85D05EE1"
+					type: "command"
+				}
+				{
+					id: "73B27476F11CDC7C"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "69492FD5E809A1D9"
+					item: {
+						count: 1
+						id: "create:propeller"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7BC90E4895683383"
+				item: { count: 1, id: "create:encased_fan" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["143CCA59B9A0CD6B"]
+			icon: {
+				id: "create:belt_connector"
+			}
+			id: "3A61F14D8B0AF22C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "564BEEC8ABCF9594"
+					type: "command"
+				}
+				{
+					id: "32B7FA133403C120"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 4
+					id: "2AE4B47A0A72CEAD"
+					item: {
+						count: 1
+						id: "create:andesite_funnel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0BA77811EB0AA066"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A6355B7E8808750"]
+			icon: {
+				id: "create:mechanical_saw"
+			}
+			id: "6DE1A30F996C9631"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "7ABC4C1D6F650E02"
+					type: "command"
+				}
+				{
+					id: "598A4ADE39BE6887"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "0BD68C6C73F0245D"
+					item: {
+						count: 1
+						id: "create:depot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FB109AD323B855A"
+				item: { count: 1, id: "create:mechanical_saw" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["58F225EA499047C1"]
+			icon: {
+				id: "create:deployer"
+			}
+			id: "774D6BD9E65CDB42"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "7678085A19304194"
+					type: "command"
+				}
+				{
+					id: "401204CDC493567C"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "1B11651903709916"
+					item: {
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "049834AF36D229DD"
+				item: { count: 1, id: "create:deployer" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["58F225EA499047C1"]
+			icon: {
+				id: "create:rotation_speed_controller"
+			}
+			id: "4D6E881748F9D789"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "1A9DF866B07E857B"
+					type: "command"
+				}
+				{
+					id: "4A70F7DAE63C475C"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "4BFA876362C266EE"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "74424A522873D300"
+				item: { count: 1, id: "create:rotation_speed_controller" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["58F225EA499047C1"]
+			icon: {
+				id: "create:mechanical_bearing"
+			}
+			id: "205BA663E19548C9"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "5C85D8D484F518DD"
+					type: "command"
+				}
+				{
+					id: "28C09B0406870D18"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "6FD132BC9CDF545E"
+					item: {
+						count: 1
+						id: "create:super_glue"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2048CB44F9A2E2E6"
+				item: { count: 1, id: "create:mechanical_bearing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["58F225EA499047C1"]
+			icon: {
+				id: "create:steam_engine"
+			}
+			id: "2BA19E928B00D575"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "0AD0AD4F27333B3D"
+					type: "command"
+				}
+				{
+					id: "1BAA187FC024A970"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 4
+					id: "3485C2318FBE1F99"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58B1BD053E07EFF0"
+				item: { count: 1, id: "create:steam_engine" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["586A3BAF8BDDC1D2"]
+			icon: {
+				id: "create:mechanical_mixer"
+			}
+			id: "4757F9C22730A684"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "7D37657B7103B73E"
+					type: "command"
+				}
+				{
+					id: "47955859AAAF00D4"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 2
+					id: "5DAFDB731CE2C6FA"
+					item: {
+						count: 1
+						id: "create:basin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "56BD34BA36D74B22"
+				item: { count: 1, id: "create:mechanical_mixer" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["774D6BD9E65CDB42"]
+			icon: {
+				id: "create:mechanical_arm"
+			}
+			id: "3F28CE2889761B81"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "37BEE7281E873402"
+					type: "command"
+				}
+				{
+					id: "332B21EBB57BF861"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 4
+					id: "4425482FCA632BDD"
+					item: {
+						count: 1
+						id: "create:brass_casing"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6B0A3FEF086F7B36"
+				item: { count: 1, id: "create:mechanical_arm" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2BA19E928B00D575"]
+			icon: {
+				id: "create:track_station"
+			}
+			id: "46B94E7C1D378BAE"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:karakuri 1"
+					id: "6954734E7EDB11D4"
+					type: "command"
+				}
+				{
+					id: "774D2ECD3503C873"
+					type: "xp"
+					xp: 60
+				}
+				{
+					count: 32
+					id: "7D57AA50B7FF1915"
+					item: {
+						count: 1
+						id: "create:track"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4EF4EFD975D1457E"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+	]
+}

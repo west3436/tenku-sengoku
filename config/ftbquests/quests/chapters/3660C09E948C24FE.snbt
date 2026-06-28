@@ -1,0 +1,547 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3660C09E948C24FE"
+	group: "21B6E4552DFF1556"
+	icon: {
+		id: "minecraft:soul_lantern"
+	}
+	id: "3660C09E948C24FE"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1ABE79B324156D68"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:soul_lantern"
+			}
+			id: "27C878805CC016C9"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "29E2E56C96D3A7DA"
+					type: "command"
+				}
+				{
+					id: "4D641BFADFEB93D1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				biome: "minecraft:jagged_peaks"
+				id: "225F8E92CE295745"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27C878805CC016C9"]
+			icon: {
+				id: "minecraft:soul_campfire"
+			}
+			id: "0E24432AB0D51D1D"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "57E6FB9D8941F3CF"
+					type: "command"
+				}
+				{
+					id: "12AE7FF35E832898"
+					item: {
+						count: 1
+						id: "occultism:golden_sacrificial_bowl"
+					}
+					type: "item"
+				}
+				{
+					id: "4A2170CB24E5C6F2"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "1A43157BAF8DC948"
+				item: { count: 1, id: "occultism:chalk_white" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0E24432AB0D51D1D"]
+			icon: {
+				id: "occultism:dictionary_of_spirits"
+			}
+			id: "78E1EAED17CA2C81"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "3FA31B2058882CB2"
+					type: "command"
+				}
+				{
+					count: 4
+					id: "1671CA080A543D42"
+					item: {
+						count: 1
+						id: "occultism:fragile_soul_gem"
+					}
+					type: "item"
+				}
+				{
+					id: "7A9433589270C0B1"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				entity: "minecraft:vex"
+				id: "31633DA5A4EF12C7"
+				type: "kill"
+				value: 8L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78E1EAED17CA2C81"]
+			icon: {
+				id: "occultism:soul_gem"
+			}
+			id: "7DB050E1B6EFBD97"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "12AD0C322902CB72"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "3DD5D060EF92E9A0"
+					item: {
+						count: 1
+						id: "occultism:spirit_attuned_crystal"
+					}
+					type: "item"
+				}
+				{
+					id: "025F3F8DABCFCB74"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "3B5BDFDA7DB0C5F2"
+				type: "kill"
+				value: 25L
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DB050E1B6EFBD97"]
+			icon: {
+				id: "occultism:dictionary_of_spirits"
+			}
+			id: "40E0215AEDFDE097"
+			rewards: [
+				{
+					id: "159A0EF19415CF32"
+					item: {
+						count: 1
+						id: "occultism:dictionary_of_spirits"
+					}
+					type: "item"
+				}
+				{
+					id: "4A3545F8D1FE5C08"
+					item: {
+						count: 1
+						id: "occultism:trinity_gem"
+					}
+					type: "item"
+				}
+				{
+					id: "2530948BA2146426"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:hijiri/master"
+				criterion: ""
+				id: "7EF4C9BEDC0C2056"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27C878805CC016C9"]
+			icon: {
+				id: "sengoku:straw_cape"
+			}
+			id: "64679EE0FB4D8755"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "699C8ED64F8EF0A0"
+					type: "command"
+				}
+				{
+					id: "10CC452C110CBE42"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "392E2B5B8E88167C"
+				item: { count: 1, id: "sengoku:straw_cape" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0E24432AB0D51D1D"]
+			icon: {
+				id: "fetzisasiandeco:white_incense_sticks"
+			}
+			id: "2AACB4605CB4EB43"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "6FE5F46F1897B0C7"
+					type: "command"
+				}
+				{
+					id: "249D5BA215E65463"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "565DD4FEFB12D40D"
+				item: { count: 1, id: "fetzisasiandeco:white_incense_sticks" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["78E1EAED17CA2C81"]
+			icon: {
+				id: "sengoku:soul_paper_lantern"
+			}
+			id: "2C1CBF69C0156A37"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "1EA412C3C75898A6"
+					type: "command"
+				}
+				{
+					id: "1CC8483FBFED0E49"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "4A7DBCA87035E819"
+				item: { count: 1, id: "sengoku:soul_paper_lantern" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DB050E1B6EFBD97"]
+			icon: {
+				id: "sengoku:yuki_onna_spawn_egg"
+			}
+			id: "4B406D180341D483"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "009C40395F55F380"
+					type: "command"
+				}
+				{
+					id: "36A21880636E2469"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "317AA408DF816ABA"
+					item: {
+						count: 1
+						id: "occultism:fragile_soul_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:yuki_onna"
+				id: "2A72D02974931072"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64679EE0FB4D8755"]
+			icon: {
+				id: "sengoku:tengai_hat"
+			}
+			id: "7727BE555EFE5F63"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "24E70D044167179E"
+					type: "command"
+				}
+				{
+					id: "71AA0D76EEAEF0EB"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "58887C91CC2B78C1"
+				item: { count: 1, id: "sengoku:tengai_hat" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2AACB4605CB4EB43"]
+			icon: {
+				id: "occultism:brush"
+			}
+			id: "6E48ABB3E4446E66"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "36D63BC2A2D0C215"
+					type: "command"
+				}
+				{
+					id: "60332AC063F4AFCC"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "323354AE26580310"
+				item: { count: 1, id: "occultism:brush" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C1CBF69C0156A37"]
+			icon: {
+				id: "occultism:otherworld_goggles"
+			}
+			id: "3A80D6E0D9E6069F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "32197A6D90DC9145"
+					type: "command"
+				}
+				{
+					id: "2B0D63A6FD35223E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "5235BFE25C71FBCD"
+				item: { count: 1, id: "occultism:otherworld_goggles" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4B406D180341D483"]
+			icon: {
+				id: "sengoku:hitotsume_nyudo_spawn_egg"
+			}
+			id: "5D378088A5C78E6C"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 1"
+					id: "412967F8760798D1"
+					type: "command"
+				}
+				{
+					id: "0822E863C2093E98"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "1A2CB5C13764A4B7"
+					item: {
+						count: 1
+						id: "occultism:fragile_soul_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:hitotsume_nyudo"
+				id: "4AD33647D553FB54"
+				type: "kill"
+				value: 5L
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7727BE555EFE5F63"]
+			icon: {
+				id: "sengoku:basket"
+			}
+			id: "1D0CB6881B589C39"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 2"
+					id: "162E3C05A68332DC"
+					type: "command"
+				}
+				{
+					id: "04ECE22CB273A3ED"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "3AD1FB48845E0013"
+				item: { count: 1, id: "sengoku:basket" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6E48ABB3E4446E66"]
+			icon: {
+				id: "occultism:spirit_fire"
+			}
+			id: "2A600A89322A7B6F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 2"
+					id: "70EFC2BF70118FCA"
+					type: "command"
+				}
+				{
+					id: "27D7D36403540E2F"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "2D3454A2895AC07A"
+					item: {
+						count: 1
+						id: "occultism:large_candle_white"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7B1E27C986D05B0D"
+				item: { count: 1, id: "occultism:spirit_fire" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3A80D6E0D9E6069F"]
+			icon: {
+				id: "occultism:datura"
+			}
+			id: "319EF8A72650FB2A"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 2"
+					id: "5150B3380D3E55F5"
+					type: "command"
+				}
+				{
+					id: "0EA7144F86F4D50B"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 3
+					id: "1E4BC3B2D67EFDB3"
+					item: {
+						count: 1
+						id: "occultism:datura_seeds"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "6C7210DE21DFBA7C"
+				item: { count: 1, id: "occultism:datura" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5D378088A5C78E6C"]
+			icon: {
+				id: "sengoku:sarugami_spawn_egg"
+			}
+			id: "5199BD332A9CF44F"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:hijiri 2"
+					id: "3BFAC8CCEC7C4FAB"
+					type: "command"
+				}
+				{
+					id: "36F2BAD1E548C5A4"
+					type: "xp"
+					xp: 75
+				}
+				{
+					id: "35B88D58864D24E3"
+					item: {
+						count: 1
+						id: "occultism:soul_gem"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "sengoku:sarugami"
+				id: "0B8211385CB4CECA"
+				type: "kill"
+				value: 8L
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+	]
+}

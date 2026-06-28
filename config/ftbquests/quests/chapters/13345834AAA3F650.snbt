@@ -1,0 +1,610 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "13345834AAA3F650"
+	group: "3E1BFD48B85C55D4"
+	icon: {
+		id: "minecraft:emerald"
+	}
+	id: "13345834AAA3F650"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["785E916556B8C2A4"]
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "2476122B8AEFB44E"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "47038450F1EFF94A"
+					type: "command"
+				}
+				{
+					count: 8
+					id: "20DA8F93E252EFB7"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "12730CF7F0764052"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "6E5C0B39406A0F56"
+				item: { count: 1, id: "minecraft:emerald" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2476122B8AEFB44E"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "14434D1DCB23847B"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "7E80693C1DF1649B"
+					type: "command"
+				}
+				{
+					count: 12
+					id: "43183298C8FF0956"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "355A2B921149962C"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [{
+				id: "3EB77509087AEEC6"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 10
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14434D1DCB23847B"]
+			icon: {
+				id: "minecraft:emerald_block"
+			}
+			id: "26FB7199484105D0"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 2"
+					id: "43BD354E88EAC8F2"
+					type: "command"
+				}
+				{
+					count: 2
+					id: "24BF36031639CEFB"
+					item: {
+						count: 1
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+				{
+					id: "7C4C5CFBE55BA06F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "6C40CBD2A2FD3AC6"
+				item: { count: 1, id: "minecraft:emerald_block" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["26FB7199484105D0"]
+			icon: {
+				id: "minecraft:copper_ingot"
+			}
+			id: "1A8D7A2BAB60DF23"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 2"
+					id: "35B75E35D2695335"
+					type: "command"
+				}
+				{
+					count: 16
+					id: "6DF138B718392C7E"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "5FAAFC23CEFCDC8F"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				id: "2CCB6EE36D7F44EE"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 30
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1A8D7A2BAB60DF23"]
+			icon: {
+				id: "minecraft:gold_block"
+			}
+			id: "26D3151A313A2CCF"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "2B0D4F9C7BA362FA"
+					type: "command"
+				}
+				{
+					count: 4
+					id: "19BC195E0E3AFA4C"
+					item: {
+						count: 1
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+				{
+					id: "104DBA9C19AF0A46"
+					item: {
+						count: 1
+						id: "minecraft:gold_block"
+					}
+					type: "item"
+				}
+				{
+					id: "32B3F6D08446DDAE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "japan_skills:akinai/master"
+				criterion: ""
+				id: "1FD9AC0FEDB93AC1"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["26D3151A313A2CCF"]
+			icon: {
+				id: "minecraft:raw_gold_block"
+			}
+			id: "3C289424C673F15E"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "4176F44CF1EC9179"
+					type: "command"
+				}
+				{
+					count: 6
+					id: "7C891644CB42CA4D"
+					item: {
+						count: 1
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "08C6C2B296FF909B"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "7549A02424504CE7"
+					type: "xp"
+					xp: 75
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "japan_skills:akinai/favored"
+				criterion: ""
+				id: "05B2EE48DF9193FB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2476122B8AEFB44E"]
+			icon: {
+				id: "createdeco:copper_coin"
+			}
+			id: "4045E21B4F8E1F14"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "37C9A9BA5306DD89"
+					type: "command"
+				}
+				{
+					id: "18C7E61519886916"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 16
+					id: "6D894F4E10ED757D"
+					item: {
+						count: 1
+						id: "createdeco:copper_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "3247735D9E6978BE"
+				item: { count: 1, id: "createdeco:copper_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4045E21B4F8E1F14"]
+			icon: {
+				id: "createdeco:gold_coin"
+			}
+			id: "1A4BFF6DF127C5FF"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "7937DD0FB1447FA9"
+					type: "command"
+				}
+				{
+					id: "247946407D9850CD"
+					type: "xp"
+					xp: 35
+				}
+				{
+					count: 4
+					id: "3B2C463FD8EC95CA"
+					item: {
+						count: 1
+						id: "createdeco:gold_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "75AF3229EEE917AD"
+				item: { count: 1, id: "createdeco:gold_coin" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["14434D1DCB23847B"]
+			icon: {
+				id: "sengoku:tea_leaf"
+			}
+			id: "629B5A44434812CD"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "07FF77060CBD82B5"
+					type: "command"
+				}
+				{
+					id: "78A864358ECF98AE"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "2205AE0A0F393405"
+					item: {
+						count: 1
+						id: "sengoku:tea_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "4B309ABC012FD6FE"
+				item: { count: 1, id: "sengoku:tea_leaf" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["26FB7199484105D0"]
+			icon: {
+				id: "sengoku:rice"
+			}
+			id: "47A0D4E397266336"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "00FD37AA331FFDF0"
+					type: "command"
+				}
+				{
+					id: "5256EBAEDD1B1260"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 6
+					id: "120FCC08FFA0B2D0"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "291DF2188C1185AF"
+				item: { count: 1, id: "sengoku:rice" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A8D7A2BAB60DF23"]
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "0A34BA56AE17FA76"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "2BFB700FCDDC073F"
+					type: "command"
+				}
+				{
+					id: "07C97C003FB9A631"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 8
+					id: "239D30BD12E36799"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "7490DB35026AC6A1"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A4BFF6DF127C5FF"]
+			icon: {
+				id: "minecraft:gold_block"
+			}
+			id: "18BE867921047AC5"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 2"
+					id: "074E55B889069879"
+					type: "command"
+				}
+				{
+					id: "57225CDDFA58CD25"
+					type: "xp"
+					xp: 60
+				}
+				{
+					id: "35DAD59BEC74D5F7"
+					item: {
+						count: 1
+						id: "minecraft:gold_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 6L
+				id: "5364E44511E8A778"
+				item: { count: 1, id: "minecraft:gold_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["629B5A44434812CD"]
+			icon: {
+				id: "sengoku:sake_bottle"
+			}
+			id: "7D6C01D89D685A99"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "55153F13862F66A5"
+					type: "command"
+				}
+				{
+					id: "15479E86A683B022"
+					type: "xp"
+					xp: 40
+				}
+				{
+					count: 6
+					id: "2EE558A0F7FA303F"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "1FD900BEB555FA06"
+				item: { count: 1, id: "sengoku:sake_bottle" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["47A0D4E397266336"]
+			icon: {
+				id: "sengoku:lacquered_keyaki_log"
+			}
+			id: "036A0E3F11362AE5"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 1"
+					id: "1894C95D980BEEFA"
+					type: "command"
+				}
+				{
+					id: "7CCC42773489F0E0"
+					type: "xp"
+					xp: 45
+				}
+				{
+					count: 8
+					id: "176A103B487C838A"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "6F7BE2204A54F1EA"
+				item: { count: 1, id: "sengoku:lacquered_keyaki_log" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0A34BA56AE17FA76"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "6DCA0375D3B77D23"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 2"
+					id: "6009F77DA12E5123"
+					type: "command"
+				}
+				{
+					id: "277F25D72C1C6093"
+					type: "xp"
+					xp: 65
+				}
+				{
+					count: 2
+					id: "08CEC362BE68FEB5"
+					item: {
+						count: 1
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3330FA8EE04D812E"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 60
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6DCA0375D3B77D23"]
+			icon: {
+				id: "chipped:red_paper_lantern"
+			}
+			id: "7B75A9D5E4564614"
+			rewards: [
+				{
+					command: "/puffish_skills points add @s japan_skills:akinai 2"
+					id: "0B15EF62A9A07190"
+					type: "command"
+				}
+				{
+					id: "24C65D18F2D8023C"
+					type: "xp"
+					xp: 70
+				}
+				{
+					count: 4
+					id: "0073A287EC51F2AF"
+					item: {
+						count: 1
+						id: "minecraft:emerald_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "minecraft:adventure/trade_at_world_height"
+				criterion: ""
+				id: "071E93830DB5569F"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+	]
+}

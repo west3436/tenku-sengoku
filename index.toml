@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "04eb9ce1f147a3021fc178d0e58473600b8661e543a4ae1befbf5c196454d473"
+
+[[files]]
+file = "config/bluemap/maps/japan.conf"
+hash = "fe51e07293fafe0c5a9e90fb30fb6cfe420eabdd6664c39829c5c88fcd4c07c1"
+
+[[files]]
+file = "config/chunkyborder/borders.json"
+hash = "d479986dd566c0ea4142a9ee888a9060cab19d349de1d77395bc80c311fdda3f"
+
+[[files]]
+file = "config/create_bluemap-server.toml"
+hash = "5102c59940a143bdfaaf2b0fea08ae05c62846c9af76f90b023e9a22a74a7258"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "5cfaaf7f70baa83c7dd4324a8361327db3e14a170ff3d1e55847d3d7f57a7c12"
 
@@ -90,7 +106,7 @@ hash = "abbcdccc344ce034561d45e3651aba05a17bcbebd81b2a5afe68fd63f12f3cf6"
 
 [[files]]
 file = "kubejs/startup_scripts/lawless_regions.js"
-hash = "9c9425729d71e2801df958f4e4713a749cc44ade4d80a072966a356401def5c3"
+hash = "84e5577f6c7e68d30fb93843f92861a66722fe9e6aa5740baf005423f72e0b75"
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
@@ -575,11 +591,6 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "c17ec242bcbb6cd66cfd1a5fa8005b19134bc26b0040b94bfaabab02f19db80b"
-metafile = true
-
-[[files]]
-file = "mods/sleeping-overhaul-2.pw.toml"
-hash = "e48fe010001d2410167a013ea1a31ce857cfdf4b71e34dc94d29e3313e5721c4"
 metafile = true
 
 [[files]]

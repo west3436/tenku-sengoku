@@ -14,7 +14,7 @@ hash = "5102c59940a143bdfaaf2b0fea08ae05c62846c9af76f90b023e9a22a74a7258"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5cfaaf7f70baa83c7dd4324a8361327db3e14a170ff3d1e55847d3d7f57a7c12"
+hash = "98a54b4181d143174b66279a3e9a95492848dca838fa3ffc6e5252c5af71bb47"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -682,11 +682,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/door-tweaks.pw.toml"
 hash = "1e0dc0bfe3afc52fb49f106493f953cac111d209f19cbf4de870819d3f996f00"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]

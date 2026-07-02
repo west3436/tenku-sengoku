@@ -3,90 +3,207 @@
 	default_quest_shape: ""
 	filename: "F50BB9313ED7AE17"
 	group: "791D73F5FEB83BBB"
-	icon: { id: "smallships:oak_cog" }
-	id: "F50BB9313ED7AE17"
+	icon: {
+		id: "smallships:oak_cog"
+	}
+	id: "77944B031F4A0B99"
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
-			description: [
-				"新たな武者よ、生まれ落ちる土地を選べ。"
-				""
-				"Choose where your story begins. Each homeland sits on the water — a boat is the surest way to explore from here. Your choice is permanent: it becomes your home, and where you return when you fall. (The capital, Edo, is the default; these are the roads less travelled.)"
-				""
-				"Pick ONE of the five quests below. Claiming its reward sails you there aboard a small ship of your own — a Cog to explore your new shores."
-			]
-			icon: { id: "minecraft:filled_map" }
+			icon: {
+				id: "minecraft:filled_map"
+			}
 			id: "1E3179D2374E0D4C"
-			rewards: [{ id: "32D11FB66FF40F23", type: "xp", xp: 100 }]
+			max_completable_dependents: 1
+			rewards: [
+				{
+					id: "3AD68BF661CE5378"
+					item: {
+						count: 1
+						id: "minecraft:white_bed"
+					}
+					type: "item"
+				}
+				{
+					id: "3BF3316BA688F65F"
+					item: {
+						count: 1
+						id: "minecraft:wooden_shovel"
+					}
+					type: "item"
+				}
+				{
+					id: "24F87C037A923449"
+					item: {
+						count: 1
+						id: "minecraft:wooden_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					id: "6215F7855D1DFDAE"
+					item: {
+						count: 1
+						id: "minecraft:wooden_axe"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{ id: "620EC9AF5E66927F", type: "checkmark" }]
+			tasks: [{
+				id: "620EC9AF5E66927F"
+				type: "checkmark"
+			}]
 			x: 0.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["1E3179D2374E0D4C"]
-			description: ["瀬戸内海の島宮。Island shrine on the calm Seto Inland Sea, the floating torii rising from the tide. World ~-1868, 534."]
-			icon: { id: "minecraft:red_banner" }
+			icon: {
+				id: "minecraft:red_banner"
+			}
 			id: "6C79002C7ED6F3B0"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/itsukushima", id: "E87338A17E5173AA", permission_level: 2, type: "command" }
-				{ id: "5A11B0A7C0610001", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+				{
+					command: "/function tenku_spawn:choose/itsukushima"
+					id: "0E1B7978E2167EC6"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "5A11B0A7C0610001"
+					item: {
+						count: 1
+						id: "smallships:oak_cog"
+					}
+					type: "item"
+				}
 			]
-			tasks: [{ id: "4593572960A4772C", type: "checkmark" }]
+			tasks: [{
+				id: "4593572960A4772C"
+				type: "checkmark"
+			}]
 			x: 1.5d
 			y: -3.0d
 		}
 		{
 			dependencies: ["1E3179D2374E0D4C"]
-			description: ["九州の玄関口。Kyushu's gateway port on Hakata Bay, Japan's historic door to the continent. World ~-3588, 1646."]
-			icon: { id: "minecraft:gold_ingot" }
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
 			id: "277BAB0EF95DB2EE"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/hakata", id: "A31D174E6E36A2DF", permission_level: 2, type: "command" }
-				{ id: "5A11B0A7C0610002", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+				{
+					command: "/function tenku_spawn:choose/hakata"
+					id: "6684C185776A0BA2"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "5A11B0A7C0610002"
+					item: {
+						count: 1
+						id: "smallships:oak_cog"
+					}
+					type: "item"
+				}
 			]
-			tasks: [{ id: "59F69F8AC01B63F9", type: "checkmark" }]
+			tasks: [{
+				id: "59F69F8AC01B63F9"
+				type: "checkmark"
+			}]
 			x: 1.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["1E3179D2374E0D4C"]
-			description: ["北の海港。The far-northern sea port of Hokkaido — cold water, long horizons, a frontier reached by boat. World ~5644, -7786."]
-			icon: { id: "minecraft:snow_block" }
+			icon: {
+				id: "minecraft:snow_block"
+			}
 			id: "2F7711C81A7DFE9E"
+			max_completable_dependents: 1
 			rewards: [
-				{ command: "/function tenku_spawn:choose/hakodate", id: "7B5B94F366BD30C1", permission_level: 2, type: "command" }
-				{ id: "5A11B0A7C0610003", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+				{
+					command: "/function tenku_spawn:choose/hakodate"
+					id: "7B5B94F366BD30C1"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "5A11B0A7C0610003"
+					item: {
+						count: 1
+						id: "smallships:oak_cog"
+					}
+					type: "item"
+				}
 			]
-			tasks: [{ id: "62BC3E4C741E6158", type: "checkmark" }]
+			tasks: [{
+				id: "62BC3E4C741E6158"
+				type: "checkmark"
+			}]
 			x: 1.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["1E3179D2374E0D4C"]
-			description: ["四国の岬。A rugged cape on Shikoku's Pacific edge, open ocean in every direction. World ~-300, 1750."]
-			icon: { id: "minecraft:prismarine" }
-			id: "9A3ED639376FAB03"
+			icon: {
+				id: "minecraft:prismarine"
+			}
+			id: "109175DFA5E332CD"
+			max_completable_dependents: 1
 			rewards: [
-				{ command: "/function tenku_spawn:choose/muroto", id: "44E60D4C985DEB69", permission_level: 2, type: "command" }
-				{ id: "5A11B0A7C0610004", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+				{
+					command: "/function tenku_spawn:choose/muroto"
+					id: "44E60D4C985DEB69"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "5A11B0A7C0610004"
+					item: {
+						count: 1
+						id: "smallships:oak_cog"
+					}
+					type: "item"
+				}
 			]
-			tasks: [{ id: "F4DD25AEF48D54C1", type: "checkmark" }]
+			tasks: [{
+				id: "350D3F0A579492AC"
+				type: "checkmark"
+			}]
 			x: 1.5d
 			y: 1.5d
 		}
 		{
 			dependencies: ["1E3179D2374E0D4C"]
-			description: ["天下の台所。Castle town and great trading harbor on the central bay. World ~964, 142."]
-			icon: { id: "minecraft:gold_block" }
-			id: "90E2D0B057B0F786"
+			icon: {
+				id: "minecraft:gold_block"
+			}
+			id: "7AED4139C5D44D4A"
+			max_completable_dependents: 1
 			rewards: [
-				{ command: "/function tenku_spawn:choose/osaka", id: "3DC2A1DC112C1C60", permission_level: 2, type: "command" }
-				{ id: "5A11B0A7C0610005", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
+				{
+					command: "/function tenku_spawn:choose/osaka"
+					id: "3DC2A1DC112C1C60"
+					permission_level: 2
+					type: "command"
+				}
+				{
+					id: "5A11B0A7C0610005"
+					item: {
+						count: 1
+						id: "smallships:oak_cog"
+					}
+					type: "item"
+				}
 			]
-			tasks: [{ id: "9905EEB348FED0B6", type: "checkmark" }]
+			tasks: [{
+				id: "4874298F3A604ADF"
+				type: "checkmark"
+			}]
 			x: 1.5d
 			y: 3.0d
 		}

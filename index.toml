@@ -86,7 +86,7 @@ hash = "dad8ba24fe685b1e683955d41f1cbc72f8b872b7f26ca459403a30c8c1c97e7a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/F50BB9313ED7AE17.snbt"
-hash = "16d72fff89b765a6108825cf9f5f4b89527767fefe9b11088bd96c1f5bb0a572"
+hash = "77f0639c1c68d622fc5c280abb8a135db76e0ccc378b9470c5dc2ba2115f96e0"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -94,7 +94,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "63b37f90d0496c2136ae40f5c5d8fd06e801a70054b2355e554b8f015b44d863"
+hash = "75ca194868aa00690283c8ddcc47a0c05abe49e7672c1e2aba24d9e793301330"
 
 [[files]]
 file = "kubejs/client_scripts/balance_hide_items.js"

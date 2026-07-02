@@ -20,6 +20,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "5793201316ADF366"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -64,6 +65,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "4B828E947BB97DFB"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -110,6 +112,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 2"
 					id: "1D63E5AD2F0F5705"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -155,6 +158,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "7C1352C00F09CDEA"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -205,6 +209,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 2"
 					id: "6B35AC89DD3CA006"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -240,6 +245,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "04EBF05B808E52C4"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -277,6 +283,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "638B7DE3E476709C"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -304,6 +311,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "1DA6365535AAF2FD"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -330,6 +338,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "1D7914A4084D4985"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -356,6 +365,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "5E61AEBAE1EB7361"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -390,6 +400,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "58CCED2D0A999C71"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -417,6 +428,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "7C3366D135A96D03"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -443,6 +455,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "7902EE4E13B4527E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -469,6 +482,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 2"
 					id: "16878596B91FD60E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -504,6 +518,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 1"
 					id: "3B08E06AB7974DC1"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -531,6 +546,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:musha 2"
 					id: "10DCA4437D96C4A1"
+					permission_level: 2
 					type: "command"
 				}
 				{

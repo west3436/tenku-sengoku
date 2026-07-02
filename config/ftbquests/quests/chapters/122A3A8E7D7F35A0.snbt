@@ -21,6 +21,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "13836C69D68642DC"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -48,6 +49,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "54413F48E02B8B6A"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -79,6 +81,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "4B969E11852E0C59"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -141,6 +144,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "4EF1E1D6DC3C6478"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -168,6 +172,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "4B2E91783E4F820C"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -194,6 +199,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "4BF81BDA28DDB921"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -221,6 +227,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "721571F22CFE8326"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -247,6 +254,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "3045534778EAFECF"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -273,6 +281,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 2"
 					id: "614CDF3CE40B8F7E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -299,6 +308,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "048DA5C132D369FA"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -325,6 +335,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "4F14BF527DC7B74E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -352,6 +363,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "442A7F833CB826FB"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -389,6 +401,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 2"
 					id: "148C0EE4CF0D96D7"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -424,6 +437,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 1"
 					id: "0A27604C7504F69F"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -454,6 +468,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:bushi 2"
 					id: "027945078591B940"
+					permission_level: 2
 					type: "command"
 				}
 				{

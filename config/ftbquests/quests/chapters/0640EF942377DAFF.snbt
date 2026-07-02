@@ -29,6 +29,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "5DE63C2CF3921709"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -65,6 +66,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "59E51F1849627C0B"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -93,6 +95,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "2A15DC727CB67B41"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -138,6 +141,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "610C1A03DA7C4F86"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -182,6 +186,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 3"
 					id: "73E78DB898144D66"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -307,6 +312,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "7E2609CB2B21343E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -343,6 +349,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "4C63AA2839467426"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -371,6 +378,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "4BF534BA39FC39AE"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -408,6 +416,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "3C4F86057253B816"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -436,6 +445,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "799355807677336C"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -473,6 +483,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "3FBD22C9B294C9C7"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -509,6 +520,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 2"
 					id: "78435BF81863404D"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -544,6 +556,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 2"
 					id: "57EA229788DC787F"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -579,6 +592,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "304173B8C3B1A8D8"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -615,6 +629,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:hijiri 1"
 					id: "0183E48E95E0AE75"
+					permission_level: 2
 					type: "command"
 				}
 				{

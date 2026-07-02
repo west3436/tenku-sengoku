@@ -23,6 +23,7 @@
 						id: "sengoku:rice_crop"
 					}
 					id: "10C0505FA89A44BC"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -63,6 +64,7 @@
 						id: "farmersdelight:rice_panicle"
 					}
 					id: "22B53759D53F73E2"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -103,6 +105,7 @@
 						id: "minecraft:bamboo"
 					}
 					id: "4607FFA52A11931E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -143,6 +146,7 @@
 						id: "farmersdelight:rice_bale"
 					}
 					id: "0821E89C8F888C1F"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -191,6 +195,7 @@
 						id: "minecraft:diamond_hoe"
 					}
 					id: "58F622A95FDAF6A7"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -249,6 +254,7 @@
 						id: "minecraft:carrot"
 					}
 					id: "4FB3150A8696AEC2"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -289,6 +295,7 @@
 						id: "minecraft:melon_slice"
 					}
 					id: "6954E17644849903"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -329,6 +336,7 @@
 						id: "farmersdelight:tomato"
 					}
 					id: "4AB70F0D448993A4"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -369,6 +377,7 @@
 						id: "sengoku:tea_leaf"
 					}
 					id: "3E7C90C843854BF8"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -409,6 +418,7 @@
 						id: "sengoku:sake_brewery"
 					}
 					id: "090A9966B6824C87"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -447,6 +457,7 @@
 						id: "minecraft:beetroot"
 					}
 					id: "64AE860E1D8BE975"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -487,6 +498,7 @@
 						id: "minecraft:pumpkin"
 					}
 					id: "1C94D4747D3DCCBF"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -527,6 +539,7 @@
 						id: "minecraft:composter"
 					}
 					id: "1EEC4E94CD35CA58"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -566,6 +579,7 @@
 						id: "sengoku:tea_bottle"
 					}
 					id: "46F53391FEA8AEF6"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -606,6 +620,7 @@
 						id: "sengoku:sake_bottle"
 					}
 					id: "283F4D528A1442D0"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -646,6 +661,7 @@
 						id: "sengoku:straw_hat"
 					}
 					id: "7EE955D71B9853C5"
+					permission_level: 2
 					type: "command"
 				}
 				{

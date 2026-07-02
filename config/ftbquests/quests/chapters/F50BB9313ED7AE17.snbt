@@ -31,7 +31,7 @@
 			icon: { id: "minecraft:red_banner" }
 			id: "6C79002C7ED6F3B0"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/itsukushima", id: "E87338A17E5173AA", type: "command" }
+				{ command: "/function tenku_spawn:choose/itsukushima", id: "E87338A17E5173AA", permission_level: 2, type: "command" }
 				{ id: "5A11B0A7C0610001", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
 			]
 			tasks: [{ id: "4593572960A4772C", type: "checkmark" }]
@@ -44,7 +44,7 @@
 			icon: { id: "minecraft:gold_ingot" }
 			id: "277BAB0EF95DB2EE"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/hakata", id: "A31D174E6E36A2DF", type: "command" }
+				{ command: "/function tenku_spawn:choose/hakata", id: "A31D174E6E36A2DF", permission_level: 2, type: "command" }
 				{ id: "5A11B0A7C0610002", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
 			]
 			tasks: [{ id: "59F69F8AC01B63F9", type: "checkmark" }]
@@ -57,7 +57,7 @@
 			icon: { id: "minecraft:snow_block" }
 			id: "2F7711C81A7DFE9E"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/hakodate", id: "7B5B94F366BD30C1", type: "command" }
+				{ command: "/function tenku_spawn:choose/hakodate", id: "7B5B94F366BD30C1", permission_level: 2, type: "command" }
 				{ id: "5A11B0A7C0610003", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
 			]
 			tasks: [{ id: "62BC3E4C741E6158", type: "checkmark" }]
@@ -70,7 +70,7 @@
 			icon: { id: "minecraft:prismarine" }
 			id: "9A3ED639376FAB03"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/muroto", id: "44E60D4C985DEB69", type: "command" }
+				{ command: "/function tenku_spawn:choose/muroto", id: "44E60D4C985DEB69", permission_level: 2, type: "command" }
 				{ id: "5A11B0A7C0610004", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
 			]
 			tasks: [{ id: "F4DD25AEF48D54C1", type: "checkmark" }]
@@ -83,7 +83,7 @@
 			icon: { id: "minecraft:gold_block" }
 			id: "90E2D0B057B0F786"
 			rewards: [
-				{ command: "/function tenku_spawn:choose/osaka", id: "3DC2A1DC112C1C60", type: "command" }
+				{ command: "/function tenku_spawn:choose/osaka", id: "3DC2A1DC112C1C60", permission_level: 2, type: "command" }
 				{ id: "5A11B0A7C0610005", item: { count: 1, id: "smallships:oak_cog" }, type: "item" }
 			]
 			tasks: [{ id: "9905EEB348FED0B6", type: "checkmark" }]

@@ -20,6 +20,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "5BB00BCE7798D846"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -56,6 +57,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "4A14121AAEDE3564"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -92,6 +94,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "2EAA64F7BB8A6318"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -127,6 +130,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 2"
 					id: "517602B400188D31"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -163,6 +167,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "76CBF3F766494AE6"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -274,6 +279,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "578F818D8754CA1B"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -309,6 +315,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "6CB05E5189678EDA"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -345,6 +352,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "0F01357C85D05EE1"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -380,6 +388,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "564BEEC8ABCF9594"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -415,6 +424,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "7ABC4C1D6F650E02"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -450,6 +460,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "7678085A19304194"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -484,6 +495,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "1A9DF866B07E857B"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -518,6 +530,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "5C85D8D484F518DD"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -552,6 +565,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "0AD0AD4F27333B3D"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -587,6 +601,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "7D37657B7103B73E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -622,6 +637,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "37BEE7281E873402"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -657,6 +673,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:karakuri 1"
 					id: "6954734E7EDB11D4"
+					permission_level: 2
 					type: "command"
 				}
 				{

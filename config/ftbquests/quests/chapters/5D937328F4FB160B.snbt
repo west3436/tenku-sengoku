@@ -79,6 +79,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 2"
 					id: "50FDD615A8F3ADA7"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -122,6 +123,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "4AF39C2B610B6A54"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -158,6 +160,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "5EAB8308D13751E9"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -184,6 +187,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "05B35E5722C6BD12"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -210,6 +214,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "055413EFB325915E"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -236,6 +241,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "5670FBED68A406C0"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -271,6 +277,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "4081B3F84CB0F66F"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -298,6 +305,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "52C74663E667A156"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -325,6 +333,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "649C9992D3FEACB9"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -352,6 +361,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "63C66D4DBD4F283D"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -378,6 +388,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "4A3589851D993219"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -414,6 +425,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "3841433AC0B4D6C8"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -441,6 +453,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:heiho 1"
 					id: "46F7A0121F37D0A7"
+					permission_level: 2
 					type: "command"
 				}
 				{

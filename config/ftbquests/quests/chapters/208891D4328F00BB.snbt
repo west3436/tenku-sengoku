@@ -20,6 +20,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "1CDA16E7DC412CB5"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -56,6 +57,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "05F3601BCE35F9D7"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -93,6 +95,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "5EF67881E55DB638"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -139,6 +142,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 2"
 					id: "6ED2726498DF02A0"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -185,6 +189,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "4760B8BEA3D99CCC"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -250,6 +255,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "5C4BB6FE5F1C3D40"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -287,6 +293,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "6F61E2DFBF298F8A"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -324,6 +331,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "0750FC46ECC05A43"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -361,6 +369,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "254C3A5A22CCAE75"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -398,6 +407,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "22AA41714D8DF988"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -435,6 +445,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "239EF477F5CCD691"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -472,6 +483,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "1C27ACE60EDD1F05"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -509,6 +521,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "7FC29922BD2FDDBD"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -546,6 +559,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 2"
 					id: "2E838693CCCF61AD"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -581,6 +595,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "5A330B53953D50D2"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -618,6 +633,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:daiku 1"
 					id: "2ACA233C564600B5"
+					permission_level: 2
 					type: "command"
 				}
 				{

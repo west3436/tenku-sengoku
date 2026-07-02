@@ -20,6 +20,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "1D6B64207FFAC6C5"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -56,6 +57,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "26C74AB76C07747B"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -92,6 +94,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "0FF37C4222F350D7"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -127,6 +130,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 2"
 					id: "5A470D0AA542B129"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -161,6 +165,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "4B40EA65730B26FC"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -198,6 +203,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "4B4C87775624321B"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -234,6 +240,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "45B5213EBFE52641"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -270,6 +277,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "76845E8046A4FF7A"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -296,6 +304,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "04A059CE43682B93"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -322,6 +331,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "151BBD068372ED5C"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -348,6 +358,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 2"
 					id: "56C839223C7125D1"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -382,6 +393,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "54690F76EC02FFDB"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -408,6 +420,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "736C75682BFA3353"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -434,6 +447,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "5CB1DA1817446B6A"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -460,6 +474,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "5CC3AFCD073EB529"
+					permission_level: 2
 					type: "command"
 				}
 				{
@@ -486,6 +501,7 @@
 				{
 					command: "/puffish_skills points add @s japan_skills:kaji 1"
 					id: "46E37ADAA5275F00"
+					permission_level: 2
 					type: "command"
 				}
 				{

@@ -13,14 +13,14 @@
 		{
 			dependencies: ["757A638874919E5B"]
 			icon: {
-				id: "sengoku:rice_crop"
+				id: "farmersdelight:rice"
 			}
 			id: "037ECAB1A15D401E"
 			rewards: [
 				{
 					command: "/puffish_skills points add @s japan_skills:noka 1"
 					icon: {
-						id: "sengoku:rice_crop"
+						id: "farmersdelight:rice"
 					}
 					id: "10C0505FA89A44BC"
 					permission_level: 2
@@ -45,7 +45,7 @@
 			tasks: [{
 				count: 8L
 				id: "2656D0279944F0DA"
-				item: { count: 1, id: "sengoku:rice_crop" }
+				item: { count: 1, id: "farmersdelight:rice" }
 				type: "item"
 			}]
 			x: 0.0d

@@ -366,7 +366,7 @@
 		{
 			dependencies: ["26FB7199484105D0"]
 			icon: {
-				id: "sengoku:rice"
+				id: "farmersdelight:rice"
 			}
 			id: "47A0D4E397266336"
 			rewards: [
@@ -394,7 +394,7 @@
 			tasks: [{
 				count: 64L
 				id: "291DF2188C1185AF"
-				item: { count: 1, id: "sengoku:rice" }
+				item: { count: 1, id: "farmersdelight:rice" }
 				type: "item"
 			}]
 			x: 3.0d

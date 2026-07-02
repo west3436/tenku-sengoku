@@ -595,11 +595,6 @@ hash = "c17ec242bcbb6cd66cfd1a5fa8005b19134bc26b0040b94bfaabab02f19db80b"
 metafile = true
 
 [[files]]
-file = "mods/sleeping-overhaul-2.pw.toml"
-hash = "e48fe010001d2410167a013ea1a31ce857cfdf4b71e34dc94d29e3313e5721c4"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true

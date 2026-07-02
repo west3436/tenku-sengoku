@@ -395,6 +395,16 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-and-sable-compatibility-patch.pw.toml"
+hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -407,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-horse-riding.pw.toml"
 hash = "36f9d4c99f548375ab611de96d59b4cc281bf4725c27a47084f0d5972dac8ad0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
 metafile = true
 
 [[files]]

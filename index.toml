@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/agricraft.jsonc"
+hash = "78f2ff272099cccfe887ad04ccf10136f9ade5b3235de03cd944fc2048b1d4a2"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "04eb9ce1f147a3021fc178d0e58473600b8661e543a4ae1befbf5c196454d473"
 

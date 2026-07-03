@@ -97,6 +97,10 @@ file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "75ca194868aa00690283c8ddcc47a0c05abe49e7672c1e2aba24d9e793301330"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "656d16a63358fea271595404cae051f4d1d585af9ce5fd312ac46ac75963df79"
+
+[[files]]
 file = "kubejs/client_scripts/balance_hide_items.js"
 hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 

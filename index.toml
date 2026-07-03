@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "27960ec848346b5f8d9b9221d0344d90200e1bf284474033394dde4b64682cf2"
+hash = "56110d73138eeb4b13aaf5b227931753f33293c25b0242424cb7cc6494c7be3d"
 metafile = true
 
 [[files]]

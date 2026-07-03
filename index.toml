@@ -17,6 +17,10 @@ file = "config/create_bluemap-server.toml"
 hash = "5102c59940a143bdfaaf2b0fea08ae05c62846c9af76f90b023e9a22a74a7258"
 
 [[files]]
+file = "config/createlowheated-common.toml"
+hash = "af7f2264c5888ebbdd8f36641ab99a52094dcb0dee0be3f25086b2c1a06084e3"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "98a54b4181d143174b66279a3e9a95492848dca838fa3ffc6e5252c5af71bb47"
 

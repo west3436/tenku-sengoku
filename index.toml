@@ -527,6 +527,11 @@ hash = "0b2e5afd8e76ff119e6212a077a07a3b786776811f968287f0a219f106c8e175"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "141584f0498f59dc445d163b82e148b339a7948927e476c6183b40da19c05799"
+metafile = true
+
+[[files]]
 file = "mods/magic-from-the-east.pw.toml"
 hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
 metafile = true

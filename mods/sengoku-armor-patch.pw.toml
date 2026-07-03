@@ -1,0 +1,8 @@
+name = "Sengoku Armor Patch"
+filename = "sengoku_armor_patch-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/almas-sengoku-additions/sengoku-armor-patch-neoforge/releases/download/v0.1.0-beta.1/sengoku_armor_patch-0.1.0.jar"
+hash-format = "sha512"
+hash = "31eb87173a32f002cdde22a27ba3099c5299e902e9b690ec6646905175cd82995e45dc640626dddbe45e545292cd171a7da388ffc0ab56c607ba152537dce1e9"

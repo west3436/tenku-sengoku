@@ -314,6 +314,11 @@ hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "2fe3ff82d4eee03412655d1c9c1c117c63a15187617c68f3139eaaceffa9a670"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
 metafile = true
@@ -569,6 +574,11 @@ hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "502260d6c6888738e9e395b66b964fa338d2caa6e390eeaab714a54e55982b3f"
 metafile = true
@@ -609,6 +619,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/sengoku-armor-patch.pw.toml"
+hash = "f36f20101844932b83ba7e61467bcf466605ce773667a83c1fe9e80c7d5c28f2"
+metafile = true
+
+[[files]]
 file = "mods/sengoku-emijei.pw.toml"
 hash = "21eb1f9655c3c011965d51b70d18558e4a1598486cba03ecd9ca37bb39806e92"
 metafile = true
@@ -625,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/sjscp.pw.toml"
-hash = "338e656539667af9b8004f10d4234ad42993a337214890147c18457bd0f92947"
+hash = "2668c011bf5583dea41cc2096d847e0d355722e5f07f7ddb1947a0e98212262a"
 metafile = true
 
 [[files]]

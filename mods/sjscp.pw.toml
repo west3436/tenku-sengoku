@@ -1,13 +1,13 @@
 name = "Sengoku Jidai + Sinytra Connector Patch"
-filename = "sengoku_patch-2.1.2-1.21.1.jar"
+filename = "sengoku_patch-2.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eIMgcGde/versions/E1IdPQ9E/sengoku_patch-2.1.2-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/eIMgcGde/versions/nLC5AfeD/sengoku_patch-2.1.3.jar"
 hash-format = "sha512"
-hash = "030a220e8ba6c9d29fb7096822f9a12a47f03046a73a31ad4da9535ab361adc81a876fcf53089cd33c686895cc7e2ecdfd01545c50089130cdb0fee1dae2416f"
+hash = "4665f311cb0e0c86645f6aa42ca4b254375efa9acb3cf5a2fbea1424e52e01edf737c12ec2c17c8a9d8e85b45c1be224840920f5ac1346258496251a0008e6cc"
 
 [update]
 [update.modrinth]
 mod-id = "eIMgcGde"
-version = "E1IdPQ9E"
+version = "nLC5AfeD"

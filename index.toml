@@ -101,6 +101,10 @@ file = "kubejs/client_scripts/balance_hide_items.js"
 hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 
 [[files]]
+file = "kubejs/data/iss_magicfromtheeast/neoforge/biome_modifier/jiangshi_spawns.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
 file = "kubejs/startup_scripts/balance_flight_charter.js"
 hash = "abbcdccc344ce034561d45e3651aba05a17bcbebd81b2a5afe68fd63f12f3cf6"
 

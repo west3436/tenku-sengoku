@@ -731,11 +731,6 @@ hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
 metafile = true
 
 [[files]]
-file = "mods/voxy-auto-lod.pw.toml"
-hash = "c8f9e16a7410a90e0fcd5c5607a30fe90ff5539718e3767b54b57f7799b0c8ec"
-metafile = true
-
-[[files]]
 file = "mods/weightworks.pw.toml"
 hash = "3476695d37542f21c88bce3e54f675e8b0366496b6733a3ddacb949e84e89a95"
 metafile = true

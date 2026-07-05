@@ -171,13 +171,8 @@ hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
-file = "mods/baguettelib.pw.toml"
-hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
-hash = "a07ec3e624091265dd8eaca91ea2d708b8e685389f01a8b97ba0a13f4e4e3be5"
+hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
 metafile = true
 
 [[files]]
@@ -252,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "eb7cb6b9a512e124c37154d492ba879d37588c8068a42842afbd4fb2176de8f0"
+hash = "cbdc8e983e7abf04500a44670df0826934add70851cf83abdbf064f9802773ee"
 metafile = true
 
 [[files]]
@@ -273,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "f7b20a7e5ae4678c0e74e7e6945f48c402636f8887d65b0cdab0357dd5c08856"
+metafile = true
+
+[[files]]
+file = "mods/create-deco-generators.pw.toml"
+hash = "a6a3e91179f52eef7921126801d5f068f13c72d6b7f327b840d32452b5744014"
 metafile = true
 
 [[files]]
@@ -556,6 +556,11 @@ hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "a9b5d9fb791c757bcc59b20d0cf3b1fc42f026feb7514c7ce59ee43726f3366d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -717,7 +722,12 @@ metafile = true
 
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
-hash = "46293301962a0e59eaa73d5feaf1f62a5ae2566a24272241f6994b09d42718f0"
+hash = "84511136b481d47b5f2fa5e2e1485e8cb95f778e035da274c898762f18ea306b"
+metafile = true
+
+[[files]]
+file = "mods/teamsoffliner.pw.toml"
+hash = "0f8b3fd71616216e4a86e7d8eb813181b62633abccf0a7932cf3b9129d986b1d"
 metafile = true
 
 [[files]]
@@ -728,11 +738,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
-metafile = true
-
-[[files]]
-file = "mods/weightworks.pw.toml"
-hash = "3476695d37542f21c88bce3e54f675e8b0366496b6733a3ddacb949e84e89a95"
 metafile = true
 
 [[files]]

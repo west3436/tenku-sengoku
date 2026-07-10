@@ -18,12 +18,6 @@
 			id: "6366E10C02C1998D"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "5793201316ADF366"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 8
 					id: "5398722FE75C1278"
 					item: {
@@ -62,12 +56,6 @@
 			}
 			id: "1F04B7A079FE06ED"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "4B828E947BB97DFB"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 2
 					id: "7826FC6602241500"
@@ -110,12 +98,6 @@
 			id: "2C451D1B90B72C81"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 2"
-					id: "1D63E5AD2F0F5705"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "5FAC83D43B6D55E8"
 					item: {
 						count: 1
@@ -155,12 +137,6 @@
 			}
 			id: "6BA1EC560ADA71E4"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "7C1352C00F09CDEA"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 2
 					id: "23037BED265FFA93"
@@ -207,12 +183,6 @@
 			id: "26BDE64F238325D1"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 2"
-					id: "6B35AC89DD3CA006"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "7D1CEF184C43F34F"
 					item: {
 						count: 1
@@ -236,18 +206,12 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["26BDE64F238325D1"]
+			dependencies: ["054EC5BAB94C23FC", "1C591DCE9A3FDD24", "1F04B7A079FE06ED", "26BDE64F238325D1", "2C451D1B90B72C81", "2DA8FF4557E10403", "2E35F79E7DB9BC08", "4007C4901922B145", "4B52AFB06B0A7842", "57A1085CB8C40528", "6366E10C02C1998D", "64AA1D7AE6EE0FB9", "6BA1EC560ADA71E4", "6FB99640AEA6A4F3", "771C11A14F88C13F"]
 			icon: {
 				id: "sengoku:netherite_odachi_of_the_shugodai"
 			}
 			id: "678341C5F4B2C136"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "04EBF05B808E52C4"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "54819277B3DA06D9"
 					item: {
@@ -265,10 +229,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:musha/master"
-				criterion: ""
 				id: "445957635B3A33D8"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 0.0d
 			y: 4.5d
@@ -280,12 +242,6 @@
 			}
 			id: "4B52AFB06B0A7842"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "638B7DE3E476709C"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "7A46A079012CA544"
 					type: "xp"
@@ -309,12 +265,6 @@
 			id: "64AA1D7AE6EE0FB9"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "1DA6365535AAF2FD"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "050F490B69BED6AE"
 					type: "xp"
 					xp: 20
@@ -335,12 +285,6 @@
 			}
 			id: "2E35F79E7DB9BC08"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "1D7914A4084D4985"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "35C5DEA21488F73C"
 					type: "xp"
@@ -363,12 +307,6 @@
 			id: "1C591DCE9A3FDD24"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "5E61AEBAE1EB7361"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "0D0AF26B111CEC3A"
 					type: "xp"
 					xp: 30
@@ -384,8 +322,11 @@
 			]
 			tasks: [{
 				id: "585CF64A2B4FB569"
-				structure: "#minecraft:village"
-				type: "structure"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:villager"
+				type: "observation"
 			}]
 			x: 3.0d
 			y: 0.0d
@@ -397,12 +338,6 @@
 			}
 			id: "4007C4901922B145"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "58CCED2D0A999C71"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "1B8A2BEAE45B8027"
 					type: "xp"
@@ -426,12 +361,6 @@
 			id: "054EC5BAB94C23FC"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "7C3366D135A96D03"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "7CF29914A338B0DE"
 					type: "xp"
 					xp: 20
@@ -453,12 +382,6 @@
 			id: "771C11A14F88C13F"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "7902EE4E13B4527E"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "0D50A211CDB1FE28"
 					type: "xp"
 					xp: 50
@@ -479,12 +402,6 @@
 			}
 			id: "2DA8FF4557E10403"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 2"
-					id: "16878596B91FD60E"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "09A3EDD3D461BF84"
 					type: "xp"
@@ -516,12 +433,6 @@
 			id: "57A1085CB8C40528"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:musha 1"
-					id: "3B08E06AB7974DC1"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "422AAA93C2412206"
 					type: "xp"
 					xp: 45
@@ -543,12 +454,6 @@
 			}
 			id: "6FB99640AEA6A4F3"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:musha 2"
-					id: "10DCA4437D96C4A1"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "769A5E9501414659"
 					type: "xp"

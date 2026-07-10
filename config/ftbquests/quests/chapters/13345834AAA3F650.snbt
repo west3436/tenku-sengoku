@@ -18,12 +18,6 @@
 			id: "2476122B8AEFB44E"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "47038450F1EFF94A"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 8
 					id: "20DA8F93E252EFB7"
 					item: {
@@ -54,12 +48,6 @@
 			}
 			id: "14434D1DCB23847B"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "7E80693C1DF1649B"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 12
 					id: "43183298C8FF0956"
@@ -92,12 +80,6 @@
 			id: "26FB7199484105D0"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 2"
-					id: "43BD354E88EAC8F2"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 2
 					id: "24BF36031639CEFB"
 					item: {
@@ -129,12 +111,6 @@
 			id: "1A8D7A2BAB60DF23"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 2"
-					id: "35B75E35D2695335"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 16
 					id: "6DF138B718392C7E"
 					item: {
@@ -159,18 +135,12 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["1A8D7A2BAB60DF23"]
+			dependencies: ["036A0E3F11362AE5", "0A34BA56AE17FA76", "14434D1DCB23847B", "18BE867921047AC5", "1A4BFF6DF127C5FF", "1A8D7A2BAB60DF23", "2476122B8AEFB44E", "26FB7199484105D0", "4045E21B4F8E1F14", "47A0D4E397266336", "629B5A44434812CD", "6DCA0375D3B77D23", "7B75A9D5E4564614", "7D6C01D89D685A99"]
 			icon: {
 				id: "minecraft:gold_block"
 			}
 			id: "26D3151A313A2CCF"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "2B0D4F9C7BA362FA"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 4
 					id: "19BC195E0E3AFA4C"
@@ -197,10 +167,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:akinai/master"
-				criterion: ""
 				id: "1FD9AC0FEDB93AC1"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 6.0d
 			y: 0.0d
@@ -212,12 +180,6 @@
 			}
 			id: "3C289424C673F15E"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "4176F44CF1EC9179"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 6
 					id: "7C891644CB42CA4D"
@@ -244,10 +206,10 @@
 			]
 			shape: "hexagon"
 			tasks: [{
-				advancement: "japan_skills:akinai/favored"
-				criterion: ""
 				id: "05B2EE48DF9193FB"
-				type: "advancement"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 100
 			}]
 			x: 6.0d
 			y: 1.5d
@@ -259,12 +221,6 @@
 			}
 			id: "4045E21B4F8E1F14"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "37C9A9BA5306DD89"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "18C7E61519886916"
 					type: "xp"
@@ -297,12 +253,6 @@
 			id: "1A4BFF6DF127C5FF"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "7937DD0FB1447FA9"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "247946407D9850CD"
 					type: "xp"
 					xp: 35
@@ -333,12 +283,6 @@
 			}
 			id: "629B5A44434812CD"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "07FF77060CBD82B5"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "78A864358ECF98AE"
 					type: "xp"
@@ -371,12 +315,6 @@
 			id: "47A0D4E397266336"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "00FD37AA331FFDF0"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "5256EBAEDD1B1260"
 					type: "xp"
 					xp: 25
@@ -407,12 +345,6 @@
 			}
 			id: "0A34BA56AE17FA76"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "2BFB700FCDDC073F"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "07C97C003FB9A631"
 					type: "xp"
@@ -445,12 +377,6 @@
 			id: "18BE867921047AC5"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 2"
-					id: "074E55B889069879"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "57225CDDFA58CD25"
 					type: "xp"
 					xp: 60
@@ -480,12 +406,6 @@
 			}
 			id: "7D6C01D89D685A99"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "55153F13862F66A5"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "15479E86A683B022"
 					type: "xp"
@@ -518,12 +438,6 @@
 			id: "036A0E3F11362AE5"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 1"
-					id: "1894C95D980BEEFA"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "7CCC42773489F0E0"
 					type: "xp"
 					xp: 45
@@ -555,12 +469,6 @@
 			id: "6DCA0375D3B77D23"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:akinai 2"
-					id: "6009F77DA12E5123"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "277F25D72C1C6093"
 					type: "xp"
 					xp: 65
@@ -591,12 +499,6 @@
 			}
 			id: "7B75A9D5E4564614"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:akinai 2"
-					id: "0B15EF62A9A07190"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "24C65D18F2D8023C"
 					type: "xp"

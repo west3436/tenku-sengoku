@@ -18,12 +18,6 @@
 			id: "51F51949184EFFD9"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "71D7F57691DD00A6"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "6C529336AC280116"
 					item: {
 						count: 1
@@ -52,12 +46,6 @@
 			}
 			id: "5D124A2BDA7419AE"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "2B9A253691AB54D4"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 3
 					id: "27B0B559BC382D84"
@@ -89,12 +77,6 @@
 			id: "221E3A72A5172608"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "63DD6A6A8A473B08"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 2
 					id: "3F9342F67028EF43"
 					item: {
@@ -125,12 +107,6 @@
 			}
 			id: "44B8C516D0F3C7C3"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 2"
-					id: "383087E3D407EE73"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "41BE7591059C2165"
 					item: {
@@ -166,18 +142,12 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["44B8C516D0F3C7C3"]
+			dependencies: ["0194B39FEC1552BF", "02A97E9A6EA10D6F", "221E3A72A5172608", "291C9BCFB855DCC2", "2D0520FDEBCAB54C", "3ECCCECD32CF5242", "403325FA289F79F7", "41B9C473EB36A660", "44B8C516D0F3C7C3", "4A82A2B2CD6D0729", "51F51949184EFFD9", "538FA0C2062E1A75", "542978B8D66D5A58", "5D124A2BDA7419AE", "6EECFB24AB749E40"]
 			icon: {
 				id: "farmersdelight:skillet"
 			}
 			id: "44427792E21F7915"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "4AE42B78B5048693"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "01E85E158A7EB2D7"
 					item: {
@@ -203,10 +173,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:hocho/master"
-				criterion: ""
 				id: "74BA2F74E81F88BC"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 6.0d
 			y: 0.0d
@@ -218,12 +186,6 @@
 			}
 			id: "403325FA289F79F7"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "39E1F712192B71BD"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "79455EE2ECC08941"
 					type: "xp"
@@ -254,12 +216,6 @@
 			}
 			id: "02A97E9A6EA10D6F"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "62D4BD37AAC1B2D8"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "012409C8AFA4CB4F"
 					type: "xp"
@@ -292,12 +248,6 @@
 			id: "538FA0C2062E1A75"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "5D3D669C58943548"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "05E702588F9B0EEC"
 					type: "xp"
 					xp: 30
@@ -328,12 +278,6 @@
 			}
 			id: "2D0520FDEBCAB54C"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "787FC2D537F14373"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "465F05D9EFC84BD8"
 					type: "xp"
@@ -366,12 +310,6 @@
 			id: "41B9C473EB36A660"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "22D495B9E5DF8948"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "41FF715486A927D1"
 					type: "xp"
 					xp: 50
@@ -403,12 +341,6 @@
 			id: "3ECCCECD32CF5242"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "2627BE3085DC8FD1"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "78AA7C945AB506EB"
 					type: "xp"
 					xp: 30
@@ -438,12 +370,6 @@
 			}
 			id: "291C9BCFB855DCC2"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "6F9A04CA09CFC294"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "7FE2A0A4A93C5C05"
 					type: "xp"
@@ -476,12 +402,6 @@
 			id: "542978B8D66D5A58"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "02D7E4429A2F6C6B"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "1F42F937C4946429"
 					type: "xp"
 					xp: 40
@@ -512,12 +432,6 @@
 			}
 			id: "0194B39FEC1552BF"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 2"
-					id: "65CC3AAE2443E1C8"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "23A6386561FCE91A"
 					type: "xp"
@@ -550,12 +464,6 @@
 			id: "6EECFB24AB749E40"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hocho 1"
-					id: "205DE5640C862D3C"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "017BE57B44034C40"
 					type: "xp"
 					xp: 30
@@ -586,12 +494,6 @@
 			}
 			id: "4A82A2B2CD6D0729"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hocho 2"
-					id: "5528231583DF9321"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "1258F94BA56D92B0"
 					type: "xp"

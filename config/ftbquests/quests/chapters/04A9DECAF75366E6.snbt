@@ -18,12 +18,6 @@
 			id: "6DE5D7D751E519B3"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "49C9934971B22E14"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "71C7E96FECBD80B2"
 					type: "xp"
 					xp: 100
@@ -44,12 +38,6 @@
 			}
 			id: "5A5AA48B04AFFCFB"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "2D7AB67F1ED95680"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "379086E7FC327A47"
 					item: {
@@ -81,12 +69,6 @@
 			id: "34B83A4F13BA6E7B"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "0732D9B51B45CF4B"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "44E2F85F68EE6FBF"
 					item: {
 						count: 1
@@ -102,7 +84,7 @@
 			]
 			tasks: [{
 				id: "67BF8D2FC3A239B8"
-				stat: "minecraft:damage_absorbed"
+				stat: "minecraft:damage_taken"
 				type: "stat"
 				value: 200
 			}]
@@ -116,12 +98,6 @@
 			}
 			id: "0983A81ECE90EBBC"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "5D871EEEA855AA50"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "23823C35323E7116"
 					item: {
@@ -146,18 +122,12 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["0983A81ECE90EBBC"]
+			dependencies: ["05D21C06A57E3CBE", "0983A81ECE90EBBC", "0E290057B75B86F2", "20A82A3FBCFF9329", "20BE23EB72E1B753", "28F21B6054511D63", "2C8EACAE71FC1A02", "2F654C03F7490860", "34B83A4F13BA6E7B", "4BABE5E39BB9BECB", "4CD369F3FFA38379", "5A5AA48B04AFFCFB", "5C83B1E19AEC1A53", "6DE5D7D751E519B3", "7FDAE1E19453D6F9"]
 			icon: {
 				id: "sengoku:daimyo_do"
 			}
 			id: "146FAB88F59D5D80"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "502392D69E9E828D"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "280E92ACCC23A04F"
 					item: {
@@ -191,10 +161,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:heiho/master"
-				criterion: ""
 				id: "394767B08D703558"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 6.0d
 			y: 0.0d
@@ -206,12 +174,6 @@
 			}
 			id: "28F21B6054511D63"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "7F6694139401148A"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "4A711885DCBF25D7"
 					type: "xp"
@@ -234,12 +196,6 @@
 			id: "20BE23EB72E1B753"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "4B320BC29B4D2B3F"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "0A1F5FB5F0F61C35"
 					type: "xp"
 					xp: 35
@@ -260,12 +216,6 @@
 			}
 			id: "20A82A3FBCFF9329"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "65D5EEC4319327A7"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "6C7BF55D8CFAD0E6"
 					type: "xp"
@@ -288,12 +238,6 @@
 			id: "7FDAE1E19453D6F9"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "0C3C2914131C0E8D"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "3D948C12573654B4"
 					type: "xp"
 					xp: 40
@@ -315,12 +259,6 @@
 			id: "4BABE5E39BB9BECB"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "431FAF46DFABB76D"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "4AE300D8AAF18631"
 					type: "xp"
 					xp: 45
@@ -341,12 +279,6 @@
 			}
 			id: "2C8EACAE71FC1A02"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "01EAD970D0A9CE69"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "18729D638C3DB9D1"
 					type: "xp"
@@ -370,12 +302,6 @@
 			id: "0E290057B75B86F2"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "08B53FB0A65DE721"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "199D79A0790EBFD0"
 					type: "xp"
 					xp: 35
@@ -398,12 +324,6 @@
 			id: "4CD369F3FFA38379"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "6F55BA4BB8C9C711"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "424B3E4B6332355E"
 					type: "xp"
 					xp: 40
@@ -425,12 +345,6 @@
 			}
 			id: "05D21C06A57E3CBE"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "1A9041C5D47B8481"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "02F49A078EF5F78F"
 					type: "xp"
@@ -462,12 +376,6 @@
 			id: "5C83B1E19AEC1A53"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "1A87618065E1A517"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "6D49BD95E67973ED"
 					type: "xp"
 					xp: 70
@@ -497,12 +405,6 @@
 			}
 			id: "2F654C03F7490860"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:heiho 1"
-					id: "5FF278ACCA1E5843"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "20B5C81039BFE1F9"
 					type: "xp"

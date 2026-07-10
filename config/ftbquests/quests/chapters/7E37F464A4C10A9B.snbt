@@ -18,15 +18,6 @@
 			id: "037ECAB1A15D401E"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "farmersdelight:rice"
-					}
-					id: "10C0505FA89A44BC"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 16
 					id: "3053B5DFA859CD58"
 					item: {
@@ -58,15 +49,6 @@
 			}
 			id: "605BA284F0D1E0D5"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "farmersdelight:rice_panicle"
-					}
-					id: "22B53759D53F73E2"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 6
 					id: "4C0C05E129BC1885"
@@ -100,15 +82,6 @@
 			id: "1496048DCB579B4A"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:bamboo"
-					}
-					id: "4607FFA52A11931E"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					count: 4
 					id: "36E30B6968EA24E8"
 					item: {
@@ -140,15 +113,6 @@
 			}
 			id: "4F40F4F857297B6F"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 2"
-					icon: {
-						id: "farmersdelight:rice_bale"
-					}
-					id: "0821E89C8F888C1F"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 4
 					id: "51D6B92BCB51DF03"
@@ -183,21 +147,12 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["4F40F4F857297B6F"]
+			dependencies: ["037ECAB1A15D401E", "09844067C9215F37", "12A81C2A41C30A2E", "1496048DCB579B4A", "1D489C9CFDD9C73A", "29EDC4F849FFC757", "324F8F95461CD654", "3D1AF6F2A709A2E4", "4F40F4F857297B6F", "546FEBE112B3F65A", "5E57399F1849A33F", "605BA284F0D1E0D5", "649E90816322FBD0", "748A2ECECFA9DE9F", "7C9856EDF6FE6474"]
 			icon: {
 				id: "minecraft:diamond_hoe"
 			}
 			id: "763B6CDC748018F4"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:diamond_hoe"
-					}
-					id: "58F622A95FDAF6A7"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "783516C98EF279E6"
 					item: {
@@ -233,10 +188,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:noka/master"
-				criterion: ""
 				id: "4023B959821C6DB0"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 6.0d
 			y: 0.0d
@@ -248,15 +201,6 @@
 			}
 			id: "3D1AF6F2A709A2E4"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:carrot"
-					}
-					id: "4FB3150A8696AEC2"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "244D44600DF9E31B"
 					type: "xp"
@@ -290,15 +234,6 @@
 			id: "12A81C2A41C30A2E"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:melon_slice"
-					}
-					id: "6954E17644849903"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "4220613785060589"
 					type: "xp"
 					xp: 20
@@ -330,15 +265,6 @@
 			}
 			id: "1D489C9CFDD9C73A"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "farmersdelight:tomato"
-					}
-					id: "4AB70F0D448993A4"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "616963F2E380AFA4"
 					type: "xp"
@@ -372,15 +298,6 @@
 			id: "7C9856EDF6FE6474"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "sengoku:tea_leaf"
-					}
-					id: "3E7C90C843854BF8"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "2B8D99878F40EE03"
 					type: "xp"
 					xp: 25
@@ -413,15 +330,6 @@
 			id: "546FEBE112B3F65A"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "sengoku:sake_brewery"
-					}
-					id: "090A9966B6824C87"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "56773C115D579E28"
 					type: "xp"
 					xp: 30
@@ -451,15 +359,6 @@
 			}
 			id: "29EDC4F849FFC757"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:beetroot"
-					}
-					id: "64AE860E1D8BE975"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "43ED4757208D7D27"
 					type: "xp"
@@ -493,15 +392,6 @@
 			id: "649E90816322FBD0"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:pumpkin"
-					}
-					id: "1C94D4747D3DCCBF"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "457549EEB823A680"
 					type: "xp"
 					xp: 25
@@ -534,15 +424,6 @@
 			id: "748A2ECECFA9DE9F"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "minecraft:composter"
-					}
-					id: "1EEC4E94CD35CA58"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "0A4A6470EF4B3614"
 					type: "xp"
 					xp: 25
@@ -573,15 +454,6 @@
 			}
 			id: "5E57399F1849A33F"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "sengoku:tea_bottle"
-					}
-					id: "46F53391FEA8AEF6"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "1DFBEA17B6EA3DD9"
 					type: "xp"
@@ -615,15 +487,6 @@
 			id: "09844067C9215F37"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:noka 2"
-					icon: {
-						id: "sengoku:sake_bottle"
-					}
-					id: "283F4D528A1442D0"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "0E4BC25B350DFC5F"
 					type: "xp"
 					xp: 50
@@ -655,15 +518,6 @@
 			}
 			id: "324F8F95461CD654"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:noka 1"
-					icon: {
-						id: "sengoku:straw_hat"
-					}
-					id: "7EE955D71B9853C5"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "374A74F4E0D2F0E0"
 					type: "xp"

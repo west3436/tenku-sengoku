@@ -19,12 +19,6 @@
 			id: "468C0D1D8D675AED"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "13836C69D68642DC"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "49E6EB0B990EECC8"
 					type: "xp"
 					xp: 100
@@ -46,12 +40,6 @@
 			}
 			id: "44F16C23A3DA5B25"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "54413F48E02B8B6A"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 5
 					id: "5CBFD2457A7DEE73"
@@ -79,12 +67,6 @@
 			id: "701E52A08CD66693"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "4B969E11852E0C59"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "73A44C6C561CC008"
 					item: {
 						count: 1
@@ -103,7 +85,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["701E52A08CD66693"]
+			dependencies: ["0A9E1680284D7ED2", "0B274E6DD87DD0A7", "229BEAF6B98B3606", "2E2B811814A8E7FF", "3380BB3BE3F6DD2E", "3DB0527D3ACDA1DD", "44F16C23A3DA5B25", "468C0D1D8D675AED", "47AA48D60D98B24F", "5DA406D1618D7CF4", "62F549B8738D3589", "6B2321B7148D4462", "6E02038099096C04", "701E52A08CD66693", "7DD82B003B1563C7"]
 			icon: {
 				id: "sengoku:netherite_odachi_of_the_shugodai"
 			}
@@ -126,10 +108,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:bushi/master"
-				criterion: ""
 				id: "4F24E277DBC857EB"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 4.5d
 			y: 0.0d
@@ -141,12 +121,6 @@
 			}
 			id: "3DB0527D3ACDA1DD"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "4EF1E1D6DC3C6478"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "3C0550CDFBA46126"
 					type: "xp"
@@ -170,12 +144,6 @@
 			id: "3380BB3BE3F6DD2E"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "4B2E91783E4F820C"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "1FFFD79D5D98A3D7"
 					type: "xp"
 					xp: 15
@@ -196,12 +164,6 @@
 			}
 			id: "5DA406D1618D7CF4"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "4BF81BDA28DDB921"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "63AAADD0628C760F"
 					type: "xp"
@@ -225,12 +187,6 @@
 			id: "2E2B811814A8E7FF"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "721571F22CFE8326"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "3725AE6B0F0F0B1F"
 					type: "xp"
 					xp: 25
@@ -251,12 +207,6 @@
 			}
 			id: "229BEAF6B98B3606"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "3045534778EAFECF"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "0BD30AAB9C7A10CD"
 					type: "xp"
@@ -279,12 +229,6 @@
 			id: "6E02038099096C04"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 2"
-					id: "614CDF3CE40B8F7E"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "1F9A5E7E75157DF7"
 					type: "xp"
 					xp: 60
@@ -305,12 +249,6 @@
 			}
 			id: "6B2321B7148D4462"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "048DA5C132D369FA"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "3EAE904EDE8294F4"
 					type: "xp"
@@ -333,12 +271,6 @@
 			id: "7DD82B003B1563C7"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "4F14BF527DC7B74E"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "42AE020B42C0E47C"
 					type: "xp"
 					xp: 35
@@ -360,12 +292,6 @@
 			}
 			id: "0B274E6DD87DD0A7"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "442A7F833CB826FB"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "59C58213DCFDB690"
 					type: "xp"
@@ -399,12 +325,6 @@
 			id: "0A9E1680284D7ED2"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 2"
-					id: "148C0EE4CF0D96D7"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "25726758A963C5B7"
 					type: "xp"
 					xp: 70
@@ -435,12 +355,6 @@
 			id: "62F549B8738D3589"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "0A27604C7504F69F"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "1E415E171CB2BDBC"
 					type: "xp"
 					xp: 50
@@ -465,12 +379,6 @@
 			}
 			id: "47AA48D60D98B24F"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 2"
-					id: "027945078591B940"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "25565AD7190C59BD"
 					type: "xp"

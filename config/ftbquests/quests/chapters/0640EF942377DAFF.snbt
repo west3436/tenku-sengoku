@@ -27,12 +27,6 @@
 			id: "177B0341599CA5FC"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "5DE63C2CF3921709"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "4EB7498233F83D50"
 					item: {
 						count: 1
@@ -64,12 +58,6 @@
 			id: "3095B4C374F68C84"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "59E51F1849627C0B"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "7305C5E470AAA91C"
 					type: "xp"
 					xp: 40
@@ -92,12 +80,6 @@
 			}
 			id: "746DD4C8DE72CA47"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "2A15DC727CB67B41"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					count: 2
 					id: "67D579770F586EA9"
@@ -139,12 +121,6 @@
 			id: "6FF891D55C9DF029"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "610C1A03DA7C4F86"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "1E62528039518D93"
 					item: {
 						components: {
@@ -183,12 +159,6 @@
 			}
 			id: "3B18878846A59F2C"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 3"
-					id: "73E78DB898144D66"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "462DF8A087F6145E"
 					item: {
@@ -238,7 +208,7 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["6FF891D55C9DF029"]
+			dependencies: ["01F883898569E208", "111DAED6577227DE", "177B0341599CA5FC", "1BABE988E1BC865B", "3095B4C374F68C84", "3209E2F5918580B2", "3AB41662A8FE97A4", "3B18878846A59F2C", "42A623FAA62A1BF2", "4ACD678A0351D9B2", "563DB9675A65C4B7", "5BCABB20B5F766DD", "6FF891D55C9DF029", "723B7CE73C53DCE9", "746DD4C8DE72CA47"]
 			icon: {
 				components: {
 					"irons_spellbooks:spell_container": {
@@ -294,10 +264,8 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				advancement: "japan_skills:hijiri/master"
-				criterion: ""
 				id: "2C124C7C79BB5C8B"
-				type: "advancement"
+				type: "checkmark"
 			}]
 			x: 6.0d
 			y: 0.0d
@@ -309,12 +277,6 @@
 			}
 			id: "3AB41662A8FE97A4"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "7E2609CB2B21343E"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "528C74B950333C38"
 					type: "xp"
@@ -347,12 +309,6 @@
 			id: "42A623FAA62A1BF2"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "4C63AA2839467426"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "690C64C5652BD2EF"
 					type: "xp"
 					xp: 40
@@ -375,12 +331,6 @@
 			}
 			id: "01F883898569E208"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "4BF534BA39FC39AE"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "7B91885F64AC8002"
 					type: "xp"
@@ -414,12 +364,6 @@
 			id: "1BABE988E1BC865B"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "3C4F86057253B816"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "5396840E91CAE15D"
 					type: "xp"
 					xp: 30
@@ -442,12 +386,6 @@
 			}
 			id: "5BCABB20B5F766DD"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "799355807677336C"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "2063524C6904C9A5"
 					type: "xp"
@@ -481,12 +419,6 @@
 			id: "563DB9675A65C4B7"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "3FBD22C9B294C9C7"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "4EAF2919CBA2D9DC"
 					type: "xp"
 					xp: 55
@@ -518,12 +450,6 @@
 			id: "111DAED6577227DE"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 2"
-					id: "78435BF81863404D"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "5631BA5FF0CEC3BB"
 					type: "xp"
 					xp: 70
@@ -553,12 +479,6 @@
 			}
 			id: "723B7CE73C53DCE9"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 2"
-					id: "57EA229788DC787F"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "56A07D37B9113DAC"
 					type: "xp"
@@ -590,12 +510,6 @@
 			id: "3209E2F5918580B2"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "304173B8C3B1A8D8"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "47BAB0E31A0470A5"
 					type: "xp"
 					xp: 60
@@ -626,12 +540,6 @@
 			}
 			id: "4ACD678A0351D9B2"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "0183E48E95E0AE75"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "29830CFA3F1DD995"
 					type: "xp"

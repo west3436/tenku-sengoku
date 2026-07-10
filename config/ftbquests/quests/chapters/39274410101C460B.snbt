@@ -19,18 +19,6 @@
 			max_completable_dependents: 1
 			rewards: [
 				{
-					command: "/puffish_skills category unlock @s japan_skills:bushi"
-					id: "1C5609B0B2404F06"
-					permission_level: 2
-					type: "command"
-				}
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "1E6E2AB48BCE3A37"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "5F3522F16953BF51"
 					type: "xp"
 					xp: 100
@@ -62,18 +50,6 @@
 			max_completable_dependents: 1
 			rewards: [
 				{
-					command: "/puffish_skills category unlock @s japan_skills:hijiri"
-					id: "1F88BD45CE65295C"
-					permission_level: 2
-					type: "command"
-				}
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "31922A48A756A6C0"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "1624FA71774832CF"
 					type: "xp"
 					xp: 100
@@ -95,12 +71,6 @@
 			}
 			id: "2EE776508BB46ABA"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 2"
-					id: "00909B76227D8AC2"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "55661570F377493F"
 					item: {
@@ -125,12 +95,6 @@
 			}
 			id: "16E40843A6F9E5AE"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 2"
-					id: "3DFDDEBDA9BF22FE"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "129EEAFBAC807641"
 					item: {
@@ -165,12 +129,6 @@
 			id: "413867063AC6431B"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 2"
-					id: "4CC461256D64AA68"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "4E550636EEAE0200"
 					item: {
 						count: 1
@@ -194,12 +152,6 @@
 			}
 			id: "62282BC91365AAEC"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 2"
-					id: "164F8BF875574EE1"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "77614AD99702F818"
 					item: {
@@ -233,12 +185,6 @@
 			id: "1ABE79B324156D68"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 2"
-					id: "5974C3479CB70338"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "59CA9DC92E4DD107"
 					item: {
 						count: 1
@@ -263,12 +209,6 @@
 			id: "5C88635B6EAD3BBA"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "280DC2C46CE1D3A3"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "55C03A2B7DC2E7F9"
 					type: "xp"
 					xp: 20
@@ -290,12 +230,6 @@
 			}
 			id: "7DE55C5858CDD7C4"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "415857D1A391980D"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "49365BB3B691FF14"
 					type: "xp"
@@ -327,12 +261,6 @@
 			id: "44B07BB811673B3E"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "45622526264A5055"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "5225AFC66B105C6D"
 					type: "xp"
 					xp: 30
@@ -340,8 +268,11 @@
 			]
 			tasks: [{
 				id: "5A6E74C154EDF4A6"
-				structure: "#minecraft:village"
-				type: "structure"
+				observation_type: "entity_type"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:villager"
+				type: "observation"
 			}]
 			x: 0.0d
 			y: 7.5d
@@ -353,12 +284,6 @@
 			}
 			id: "16D45D5ED42F0A62"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "05E6818C4D3C29A9"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "2F90750406A19015"
 					type: "xp"
@@ -391,12 +316,6 @@
 			id: "7856CECB8534BB74"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "5AE9DE1A992F13DB"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "78B79880F72F9B9A"
 					type: "xp"
 					xp: 30
@@ -418,12 +337,6 @@
 			}
 			id: "2B3A218C4142DE0A"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "494C69307A5D70CE"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "1EDA9F40F1320C70"
 					type: "xp"
@@ -447,12 +360,6 @@
 			id: "332F2EB4BE388BF6"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "1E17C747A8C35FDA"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "2192BAD6D66562A7"
 					type: "xp"
 					xp: 50
@@ -473,12 +380,6 @@
 			}
 			id: "1D01C3BE962CEFBB"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:hijiri 1"
-					id: "06B90F3DF5327740"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "78FA56A16D05D4E0"
 					type: "xp"
@@ -502,12 +403,6 @@
 			id: "69AFC58953A06A07"
 			rewards: [
 				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "49DB8BC077F5C4D1"
-					permission_level: 2
-					type: "command"
-				}
-				{
 					id: "19AFCCC79E9F6CA4"
 					type: "xp"
 					xp: 20
@@ -528,12 +423,6 @@
 			}
 			id: "1E73C1C3773B9EFF"
 			rewards: [
-				{
-					command: "/puffish_skills points add @s japan_skills:bushi 1"
-					id: "62E9454322F78354"
-					permission_level: 2
-					type: "command"
-				}
 				{
 					id: "0432602C41FB8FB6"
 					type: "xp"

@@ -106,7 +106,7 @@ hash = "6991f3ab1a9c34499d7c819186c1164a5ed9c2eb5fde96f6533a0bf121998b44"
 
 [[files]]
 file = "config/jeresources-common.toml"
-hash = "c6809cde07aa599ed65f1d83949a1dc57bc5b12b73fe6ec309b4913d9ed173c4"
+hash = "af4313ee77864b180d18fd8a7b1b92c27ce860355a189bc38d32894f249e0756"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"

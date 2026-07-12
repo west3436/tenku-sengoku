@@ -1,0 +1,15 @@
+# Default: 4
+# Range: 1 ~ 4
+itemsPerColumn = 4
+# Default: 4
+# Range: 1 ~ 4
+itemsPerRow = 4
+diyData = true
+showDevData = false
+enchantsBlacklist = ["flimflam", "soulBound"]
+# The mob-drops tab is hidden because JER can only read loot tables from an
+# integrated (singleplayer) server — on a dedicated server every mob shows an
+# empty drop table (upstream limitation, no sync mod exists for 1.21.1).
+hiddenTabs = ["mob"]
+dimensionsBlacklist = [-11]
+disableLootManagerReloading = false

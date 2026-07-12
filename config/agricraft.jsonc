@@ -28,11 +28,12 @@
         // Set this to true to make only mature crops drop seeds (to encourage trowel usage).
         "only_mature_seed_drops": false,
         // Set to true to completely disable the spawning of weeds
-        "disable_weeds": false,
+        // (disabled: rake never actually clears weeds in this version, so they soft-lock crop sticks)
+        "disable_weeds": true,
         // Set to false to disable mature weeds killing plants
-        "mature_weeds_kill_plants": true,
+        "mature_weeds_kill_plants": false,
         // Set to false to disable the spreading of weeds
-        "weeds_spreading": true,
+        "weeds_spreading": false,
         // Set this to true to have weeds destroy the crop sticks when they are broken with weeds (to encourage rake usage).
         "weeds_destroy_crop_sticks": false,
         // Set to true to prevent fertilizers (e.g. bone meal) from triggering weed growth

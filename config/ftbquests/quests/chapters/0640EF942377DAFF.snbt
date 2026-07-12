@@ -84,6 +84,19 @@
 					count: 2
 					id: "67D579770F586EA9"
 					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:firebolt"
+									index: 0
+									level: 3
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
 						count: 1
 						id: "irons_spellbooks:scroll"
 					}
@@ -239,9 +252,44 @@
 					type: "item"
 				}
 				{
-					count: 4
+					count: 2
 					id: "160F62F6769373A8"
 					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:chain_lightning"
+									index: 0
+									level: 6
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
+						count: 1
+						id: "irons_spellbooks:scroll"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3D48A1B7C25E9F06"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:fireball"
+									index: 0
+									level: 4
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
 						count: 1
 						id: "irons_spellbooks:scroll"
 					}
@@ -340,6 +388,19 @@
 					count: 3
 					id: "2EED10BC14B69706"
 					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:raise_dead"
+									index: 0
+									level: 4
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
 						count: 1
 						id: "irons_spellbooks:scroll"
 					}
@@ -395,6 +456,19 @@
 					count: 2
 					id: "6C9244F6F793D21B"
 					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:magic_missile"
+									index: 0
+									level: 3
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
 						count: 1
 						id: "irons_spellbooks:scroll"
 					}
@@ -427,6 +501,19 @@
 					count: 2
 					id: "4DCA1CD34BAB2E56"
 					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:heal"
+									index: 0
+									level: 3
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
 						count: 1
 						id: "irons_spellbooks:scroll"
 					}
@@ -518,6 +605,19 @@
 					count: 2
 					id: "1D809FAC9FB65B1D"
 					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:teleport"
+									index: 0
+									level: 2
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 0b
+							}
+						}
 						count: 1
 						id: "irons_spellbooks:scroll"
 					}

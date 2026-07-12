@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/agricraft.jsonc"
-hash = "78f2ff272099cccfe887ad04ccf10136f9ade5b3235de03cd944fc2048b1d4a2"
+hash = "85036fd1145f096937a5ecd021561585a1987d2d7c58901e4e05ba9a42eb53f1"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -42,7 +42,7 @@ hash = "c8f2a85832fcbf83b0e91c862b13ee4b13d811ceed55ef8b15b2ce30bc3f23c9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/0640EF942377DAFF.snbt"
-hash = "0d92ea8b4ccd3ce417ab15d46b0367bd2f1dac7838a20c16a18d566003a3fc41"
+hash = "572fbd96a81c50faf0fc6d41abd4b90287074cbcb34b9dccac6790661806cc5d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/122A3A8E7D7F35A0.snbt"
@@ -103,6 +103,10 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "6991f3ab1a9c34499d7c819186c1164a5ed9c2eb5fde96f6533a0bf121998b44"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "c6809cde07aa599ed65f1d83949a1dc57bc5b12b73fe6ec309b4913d9ed173c4"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
@@ -280,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "f7b20a7e5ae4678c0e74e7e6945f48c402636f8887d65b0cdab0357dd5c08856"
-metafile = true
-
-[[files]]
-file = "mods/create-deco-generators.pw.toml"
-hash = "a6a3e91179f52eef7921126801d5f068f13c72d6b7f327b840d32452b5744014"
 metafile = true
 
 [[files]]

@@ -125,6 +125,18 @@ file = "kubejs/client_scripts/balance_hide_items.js"
 hash = "44ce7fdedbdd1f4835d8510d4a3bc096a93e4120e7401e03b0291c52680ae6b7"
 
 [[files]]
+file = "kubejs/data/aquaculture/loot_table/gameplay/fishing/fish.json"
+hash = "74f18ea41897effc4844b503a561d5b6551cf21306843a857d0fd04498afca5b"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_beach.json"
+hash = "932992dca841ebb33537e66680070149480b97da3b43aa1ffb5c77432bd8258a"
+
+[[files]]
+file = "kubejs/data/c/tags/worldgen/biome/is_river.json"
+hash = "f5c67ca8bb52e4bde5bbacc1ab7d3ada65a19120de1afef6b19281bb5687fc9d"
+
+[[files]]
 file = "kubejs/data/iss_magicfromtheeast/neoforge/biome_modifier/jiangshi_spawns.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 

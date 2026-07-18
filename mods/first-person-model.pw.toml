@@ -2,6 +2,11 @@ name = "First-person Model"
 filename = "firstperson-neoforge-2.7.2-mc1.21.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Shows your own body and animations in first person. Cosmetic."
+
 [download]
 url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/wcETD2Bu/firstperson-neoforge-2.7.2-mc1.21.1.jar"
 hash-format = "sha512"

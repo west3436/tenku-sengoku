@@ -2,6 +2,11 @@ name = "Nature X"
 filename = "Nature X - 12.2 [1.21.1].zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Richer foliage and nature textures. Purely visual."
+
 [download]
 url = "https://cdn.modrinth.com/data/8d8M3Qoz/versions/L1fTfVef/Nature%20X%20-%2012.2%20%5B1.21.1%5D.zip"
 hash-format = "sha512"

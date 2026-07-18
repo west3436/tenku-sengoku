@@ -2,6 +2,11 @@ name = "Eating Animation"
 filename = "eating-animation-1.21+1.9.72.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Animates food as you eat it. Cosmetic."
+
 [download]
 url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/KWZCioh0/eating-animation-1.21%2B1.9.72.jar"
 hash-format = "sha512"

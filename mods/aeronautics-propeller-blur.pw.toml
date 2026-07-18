@@ -2,6 +2,11 @@ name = "Aeronautics Propeller Blur"
 filename = "AeroPropBlur-1.21.1-1.0a.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Motion blur on spinning Aeronautics propellers. Cosmetic."
+
 [download]
 url = "https://cdn.modrinth.com/data/uKFK3MBp/versions/27nROiTP/AeroPropBlur-1.21.1-1.0a.jar"
 hash-format = "sha512"

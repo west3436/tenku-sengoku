@@ -2,6 +2,11 @@ name = "Better Lanterns"
 filename = "Better+Lanterns+v1.2(mc-1.21).zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Nicer lantern models. Purely visual."
+
 [download]
 url = "https://cdn.modrinth.com/data/PGGrfcvL/versions/jRAsb6KQ/Better%2BLanterns%2Bv1.2%28mc-1.21%29.zip"
 hash-format = "sha512"

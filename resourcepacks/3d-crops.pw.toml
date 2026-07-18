@@ -2,6 +2,11 @@ name = "3D crops Revamped"
 filename = "crops-3d(2).zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "3D models for crops. Purely visual."
+
 [download]
 url = "https://cdn.modrinth.com/data/PgpTtNoI/versions/iKYRZwnm/crops-3d%282%29.zip"
 hash-format = "sha512"

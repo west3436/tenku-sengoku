@@ -2,6 +2,11 @@ name = "Falling Leaves"
 filename = "fallingleaves-1.17.1+1.21.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Leaf particles falling from trees. Cosmetic."
+
 [download]
 url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/Y0zS16Bk/fallingleaves-1.17.1%2B1.21.1.jar"
 hash-format = "sha512"

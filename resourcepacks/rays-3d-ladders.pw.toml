@@ -2,6 +2,11 @@ name = "RAY's 3D Ladders"
 filename = "RAYs_3D_Ladders_v2.0.zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "3D ladder models. Purely visual."
+
 [download]
 url = "https://cdn.modrinth.com/data/Uupo7yGf/versions/KEPsTS4k/RAYs_3D_Ladders_v2.0.zip"
 hash-format = "sha512"

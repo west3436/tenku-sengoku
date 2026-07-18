@@ -2,6 +2,11 @@ name = "Door Tweaks"
 filename = "DoorTweaks-v3.5.zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Retextured doors and trapdoors. Purely visual."
+
 [download]
 url = "https://cdn.modrinth.com/data/hYTZC3GD/versions/3StD2S4N/DoorTweaks-v3.5.zip"
 hash-format = "sha512"

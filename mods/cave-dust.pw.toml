@@ -2,6 +2,11 @@ name = "Cave Dust"
 filename = "cave_dust-3.0.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Floating dust particles in caves. Cosmetic."
+
 [download]
 url = "https://cdn.modrinth.com/data/jawg7zT1/versions/8zG4dQ2R/cave_dust-3.0.1.jar"
 hash-format = "sha512"

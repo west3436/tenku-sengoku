@@ -633,6 +633,10 @@ file = "kubejs/data/farmersdelight/agricraft/plants/tomato.json"
 hash = "182c90c9a54aa93ba1edfc9730bec6ace40f14242b7c5b7b21fa05e5b61208d8"
 
 [[files]]
+file = "kubejs/data/irons_spellbooks/tags/worldgen/structure/wayward_compass_locator.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
 file = "kubejs/data/iss_magicfromtheeast/neoforge/biome_modifier/jiangshi_spawns.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 

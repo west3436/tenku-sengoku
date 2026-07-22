@@ -1,0 +1,6 @@
+{
+  "parent": "agricraft:crop/crop_cross",
+  "textures": {
+    "crop": "culturaldelights:block/cucumbers_stage3"
+  }
+}

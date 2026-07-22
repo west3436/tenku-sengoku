@@ -968,6 +968,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createobbcollisioncrashfix.pw.toml"
+hash = "289f269840d49303796b189b1deae3f35ab848038bc749e36da0d2d10b1b03b4"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "21159e356236e85db39e95d6191e26be6a0a7b1ab1379ae5b2ded987ca68c823"
 metafile = true

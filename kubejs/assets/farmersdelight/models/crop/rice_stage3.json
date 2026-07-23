@@ -1,6 +1,0 @@
-{
-  "parent": "agricraft:crop/crop_hash",
-  "textures": {
-    "crop": "farmersdelight:block/rice_stage3"
-  }
-}
